@@ -1,4 +1,4 @@
-# CatudonHats
+# CatudonCostume
 Among Us MODで使われるハットとバイザーをかいています
 基本的はNebula of ship中心に開発しています。
 ですが、他のモッドで使いたいときは声をかけていただければ、是非前向きに検討します。
