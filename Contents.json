@@ -696,7 +696,8 @@
             "Climb": {
                 "Address": "Working_Climb.png",
                 "Hash": "2fcdacbfb967a4074470d3e7f66179f1"
-            },
+            }
+        },
 		{
             "Author": "catudon",
             "Package": "Catudon Costume",
