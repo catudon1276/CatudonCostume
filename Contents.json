@@ -589,26 +589,6 @@
 		{
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Hikyaku",
-		    "Bounce": "false",
-		    "Adaptive": "false",
-		    "Behind": "false",
-		    "Main": {
-		        "Address": "Hikyaku.png",
-                "Hash": "f7fd62dbe669abc3b3657ea021d45af8"
-		    },
-		    "Back":{
-		        "Address":"Hikyaku_Back.png",
-                "Hash": "33d8f37a694d3bd61c7ad07bc483bd0f"
-		    },
-		    "Climb": {
-		        "Address": "Hikyaku_Climb.png",
-                "Hash": "838f1ee60b6e6fcceeb7bb7e18d21d2e"
-		    }
-		},
-		{
-            "Author": "catudon",
-            "Package": "Catudon Costume",
 		    "Name" : "Floating",
 		    "Bounce": "false",
 		    "Adaptive": "true",
@@ -716,6 +696,21 @@
             "Climb": {
                 "Address": "Working_Climb.png",
                 "Hash": "2fcdacbfb967a4074470d3e7f66179f1"
+            },
+		{
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Can",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+            "Main": {
+                "Address": "Can.png",
+                "Hash": "0ce5ddf58173eba6a2c56a375987dcc3"
+            },
+            "Climb": {
+                "Address": "Can_Climb.png",
+                "Hash": "f379a19deeededc42d425be6fcde9d28"
             }
 		}
 
