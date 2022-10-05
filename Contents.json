@@ -339,6 +339,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "HideHands": "true",
             "Main": {
                 "Address": "Eboshi.png",
                 "Hash": "fawe4f4awe8f4awe84r48gh4j4a"
@@ -685,6 +686,7 @@
 		    "Name" : "Working",
 		    "Bounce": "false",
 		    "Adaptive": "true",
+                    "HideHands": "true",
 		    "Behind": "false",
             "Main": {
                 "Address": "Working.png",
