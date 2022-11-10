@@ -861,7 +861,9 @@
             "Name": "Sad",
             "Adaptive": "true",
             "Main": {
-                "Address": "Sad.png"
+                "Address": "Sad.png",
+                "Hash" : "5c9774785af9401f615c1fec8749401"
+
             }
         },
         {
