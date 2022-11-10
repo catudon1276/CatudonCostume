@@ -349,22 +349,7 @@
                 "Hash": "nfb4d68s4gs6re4g6srararga"
             }
         },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "German",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "German.png",
-                "Hash": "98bf778d691fbccc61d2035a8e06f0fd"
-            },
-            "Climb": {
-                "Address": "German_Climb.png",
-                "Hash": "fe1915ed01fb0b1e68179b83cd12fbe0"
-            }
-        },
+        
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
