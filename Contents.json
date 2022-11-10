@@ -325,11 +325,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Baseball.png",
-                "Hash": "454hee646587ns3q43t346y4d"
+                "Hash": "3c7fc7c21326787952edf0a1a8d5954a"
             },
             "Climb": {
                 "Address": "Baseball_Climb.png",
-                "Hash": "435456jk6k89ssb5wr44jks"
+                "Hash": "54605a0b091894ff5c9b632f7f87107f"
             }
         },
         {
@@ -349,7 +349,26 @@
                 "Hash": "nfb4d68s4gs6re4g6srararga"
             }
         },
-        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Headband",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Headband.png",
+                "Hash": "582514ded1e6a442b87c7c73426bf2b4"
+            },
+            "Back": {
+                "Address": "Headband_Back.png",
+                "Hash": "662857770b5dfcf781b47ebdde42e9eb" 
+            },
+            "Climb": {
+                "Address": "Headband_Climb.png",
+                "Hash": "3a1fdda95c678650bb6642c413e78e47"
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -645,7 +664,27 @@
                 "Hash": "gsr54g8z3z41er5g1z65rzg43g51z35zr"
             }
         },  
-
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Working",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+            "HideHands": "true",
+		    "Behind": "false",
+            "Main": {
+                "Address": "Working.png",
+                "Hash": "f81eb833d4d9f200e30681a50713a267"
+            },
+            "Back": {
+                "Address": "Working_Back.png",
+                "Hash": "af97d3fff33bfad61f2dbef077848937"
+            },
+            "Climb": {
+                "Address": "Working_Climb.png",
+                "Hash": "2fcdacbfb967a4075470d3e7f66179f1"
+            }
+        },
 		{
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -665,6 +704,7 @@
 
 
     ],
+   
     "visors": [
         {
             "Author": "catudon",
@@ -673,97 +713,7 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Beard.png",
-                "Hash": "57f59692cc366406eeb9f154ab27f307"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Cat",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Cat.png",
-                "Hash": "85c16c0ca8e78f78a8d22862aa3b4b09"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Darkness",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Dark.png",
-                "Hash": "561890ede2bb472d8c6d44d9604797ce"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Glass - Heart",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Glass(Heart).png",
-                "Hash": "295e547202f102f7a7f0a7326bd41af1"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Glass - Round",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Glass(Round).png",
-                "Hash": "78050818a5f68705b3ee18d8959680df"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Shy",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Shy.png",
-                "Hash": "f662f53a543719d4e02aee7082679905"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Sleepy",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Sleep.png",
-                "Hash": "59afe62d87a5b32a2ad4effe8bf9fdc6"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Sword Scar",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "SwordScar.png",
-                "Hash": "0c8bca6bd0826ba6d8860b1f9b8a51d6"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Tabacco Pipes",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "TabaccoPipes.png",
-                "Hash": "bbbb857f1a0b5cfa3d4d60371da3cda7"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Smile",
-            "Adaptive": "true",
-            "Main": {
-                "Address": "Smile.png",
-                "Hash": "db2cc42fbc64abd050b74862ee2c0972"
+                "Hash": "57f59692cc366406reb9f154ab27f307"
             }
         },
         {
@@ -779,23 +729,33 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Pacifier",
+            "Name": "Cigarette",
             "Adaptive": "false",
             "Main": {
-                "Address": "Pacifier.png",
-                "Hash": "907c361b74a998d59d1e0936b22417a3"
+                "Address": "Cigarette.png",
+                "Hash": "e6d3b58185deb668b9ed1d12b8ade68a"
             }
         },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Eyemask",
-            "Adaptive": "true",
+            "Name": "Darkness",
+            "Adaptive": "false",
             "Main": {
-                "Address": "Eyemask.png",
-                "Hash": "9c2b14f920e4f876462691cd97981677"
+                "Address": "Dark.png",
+                "Hash": "564890ede2bb472d8c6d44d9604797ce"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Drunk",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Drunk.png",
+                "Hash": "904224e7f5de7b77f85c2c654fcca7fe"
+		    }
+		},
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -803,7 +763,86 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Fulu.png",
-                "Hash": "9f5311334af51888ca92a1c97dc12491"
+                "Hash": "9f5311334af51888ca92a1c97dc12492"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Glass - Heart",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Glass(Heart).png",
+                "Hash": "295e547202f102f7a7f0a7326bd41af1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Glass - Ster",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Ster glass.png",
+                "Hash": "08cf9e1f438e71b633de12b9f60e687f"
+                
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Cat",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Cat.png",
+                "Hash": "86c16c0ca8e78f78a8d22862aa3b4b09"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Glass - Round",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Glass(Round).png",
+                "Hash": "78050818a6f68705b3ee18d8959680df"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Pacifier",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Pacifier.png"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Sleepy",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Sleep.png",
+                "Hash": "59bhe62d87a5b32a2ad4effe8bf9fdc6"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Sword Scar",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "SwordScar.png",
+                "Hash": "0c8bca6bd0826ba6d8860b1f9b8a51d6"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Tobacco pipes",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Tobacco pipes2.png"
             }
         },
         {
@@ -819,33 +858,31 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Dog",
-		    "Adaptive": "false",
-		    "Main": {
-		        "Address": "Dog.png",
-                "Hash": "4dad636d80d926ce0032ae0d436afacd"
-		    }
-		},
-		{
+            "Name": "Sad",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Sad.png"
+            }
+        },
+        {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Drunk",
-		    "Adaptive": "false",
-		    "Main": {
-		        "Address": "Drunk.png",
-                "Hash": "904224e7f5de7b77f85c2c654fcca7fe"
-		    }
-		},
-		{
+            "Name": "Smile",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Smile.png",
+                "Hash": "db2cc42fbc64abd050b74862ee2c0972"
+            }
+        },        {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask3",
-		    "Adaptive": "false",
-		    "Main": {
-		        "Address": "Eyemask3.png",
-                "Hash": "05b6bda4048225637fb66a5d777d4f8e"
-		    }
-		},
+            "Name": "Eyemask",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Eyemask.png",
+                "Hash": "9c2b14f920e4f876462691cd97981677"
+            }
+        },
 		{
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -855,8 +892,97 @@
 		        "Address": "Eyemask2.png",
                 "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
 		    }
-		}
-    ],
+		},	{
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Eyemask3",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "Eyemask3.png",
+                "Hash": "05b6bda4048225637fb66a5d777d4f8e"
+		    }
+		},                
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Cat",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Cat.png",
+                "Hash": "85c16c0ca8ee8f78a8d22862aa3b4b09"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Shy",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Shy.png",
+                "Hash": "f672f53a543719d4e02aee7082679905"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Pure",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Pure.png",
+                "Hash": "44e394ffcdaeddfa1c9dad3386a498fc"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Dog",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Dog.png",
+                "Hash": "4dad636d80d926cd0032ae0d436afacd"
+                
+            }
+        }
+      ],
+        
+    "namePlates": [
+            {
+                "Author": "catudon",
+                "Package": "Catudon Costume",
+                "Name": "Rainbow",
+                "Plate": {
+                    "Address": "Rainbow.png",
+                    "Hash": "f73215cdaa4e50d3c5ea0d52b3f80f3f"
+                }
+            },
+            {
+                "Name" : "Download",
+                "Plate": {
+                    "Address": "Download.png",
+                    "Hash" : "528ca2172bd43a53ebddffb1108bfd36"
+                }
+                
+            },
+            {
+                "Name" : "Blackboard",
+                "Plate": {
+                    "Address": "Blackboard.png",
+                    "Hash" : "fa50c377d7af25c6d5ad027f8b614f6c"
+                }
+                
+            },
+            {
+                "Name" : "Vital",
+                "Plate": {
+                    "Address": "Vital.png",
+                    "Hash" : "4c358f29108549aa929d5ca914ae0eb7"
+                }
+                
+            }
+        ],
+ 
+    
+
     "packages": [
 	    {
 	        "Package": "Catudon Costume",
