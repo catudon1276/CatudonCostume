@@ -368,26 +368,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Headband",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "Headband.png",
-                "Hash": "1ff3f5t5m3sfsbkirdrgs"
-            },
-            "Back": {
-                "Address": "Headband_Back.png",
-                "Hash": "7dzfgdmuyf5bxdfg3434"
-            },
-            "Climb": {
-                "Address": "Headband_Climb.png",
-                "Hash": "4vtry6mzrt6678kgss5nxbv"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Headphone",
             "Bounce": "false",
             "Adaptive": "true",
@@ -680,27 +660,7 @@
                 "Hash": "gsr54g8z3z41er5g1z65rzg43g51z35zr"
             }
         },  
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Working",
-		    "Bounce": "false",
-		    "Adaptive": "true",
-                    "HideHands": "true",
-		    "Behind": "false",
-            "Main": {
-                "Address": "Working.png",
-                "Hash": " f81eb833d4d9f200e30681a50713a267"
-            },
-            "Back": {
-                "Address": "Working_Back.png",
-                "Hash": "af97d3fff33bfad61f1dbef077848937"
-            },
-            "Climb": {
-                "Address": "Working_Climb.png",
-                "Hash": "2fcdacbfb967a4074470d3e7f66179f1"
-            }
-        },
+
 		{
             "Author": "catudon",
             "Package": "Catudon Costume",
