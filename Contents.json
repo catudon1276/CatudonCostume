@@ -943,6 +943,8 @@
                 }
             },
             {
+                "Author": "catudon",
+                "Package": "Catudon Costume",
                 "Name" : "Download",
                 "Plate": {
                     "Address": "Download.png",
@@ -951,6 +953,8 @@
                 
             },
             {
+                "Author": "catudon",
+                "Package": "Catudon Costume",
                 "Name" : "Blackboard",
                 "Plate": {
                     "Address": "Blackboard.png",
@@ -959,6 +963,8 @@
                 
             },
             {
+                "Author": "catudon",
+                "Package": "Catudon Costume",
                 "Name" : "Vital",
                 "Plate": {
                     "Address": "Vital.png",
