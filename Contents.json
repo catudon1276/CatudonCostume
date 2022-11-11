@@ -804,7 +804,8 @@
             "Name": "Pacifier",
             "Adaptive": "false",
             "Main": {
-                "Address": "Pacifier.png"
+                "Address": "Pacifier.png",
+                "Hash": "907c361b74a998d59d1e0936b22417a3"
             }
         },
         {
@@ -823,7 +824,7 @@
             "Name": "Sword Scar",
             "Adaptive": "false",
             "Main": {
-                "Address": "SwordScar.png",
+                "Address": "Sword scar.png",
                 "Hash": "0c8bca6bd0826ba6d8860b1f9b8a51d6"
             }
         },
@@ -833,7 +834,9 @@
             "Name": "Tobacco pipes",
             "Adaptive": "false",
             "Main": {
-                "Address": "Tobacco pipes.png"
+                "Address": "Tobacco pipes.png",
+                "Hash" : "4ac06ba448a522534ca18e22a76bfef1"
+
             }
         },
         {
