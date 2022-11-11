@@ -888,7 +888,8 @@
 		        "Address": "Eyemask2.png",
                 "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
 		    }
-		},	{
+		},	
+        {
             "Author": "catudon",
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask3",
@@ -898,16 +899,6 @@
                 "Hash": "05b6bda4048225637fb66a5d777d4f8e"
 		    }
 		},                
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Cat",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Cat.png",
-                "Hash": "85c16c0ca8ee8f78a8d22862aa3b4b09"
-            }
-        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
