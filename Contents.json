@@ -726,16 +726,7 @@
                 "Hash": "ca23ec41b7a158af3be90cf33207ba8d"
             }
         },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Cigarette",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Cigarette.png",
-                "Hash": "e6d3b58185deb668b9ed1d12b8ade68a"
-            }
-        },
+
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -842,7 +833,7 @@
             "Name": "Tobacco pipes",
             "Adaptive": "false",
             "Main": {
-                "Address": "Tobacco pipes2.png"
+                "Address": "Tobacco pipes.png"
             }
         },
         {
