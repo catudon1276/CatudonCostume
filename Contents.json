@@ -1783,7 +1783,8 @@
                 "Address": "Smile.png",
                 "Hash": "db2cc42fbc64abd050b74862ee2c0972"
             }
-        },        {
+        },        
+        {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Eyemask",
@@ -1804,7 +1805,8 @@
 		        "Address": "Eyemask2.png",
                 "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
 		    }
-		},	{
+		},	
+        {
             "Author": "catudon",
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask3",
@@ -1916,7 +1918,8 @@
                 "Address": "Emoticon5.png",
                 "Hash": "37f9f18624c63b29043eca7ef1a226ee"
             }
-        }   ],
+        }  
+     ],
         
     "namePlates": [
             {
