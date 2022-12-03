@@ -1810,7 +1810,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask3",
-		    "Adaptive": "true",
+		    "Adaptive": "false",
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask3.png",
