@@ -133,11 +133,11 @@
             },
             "Back": {
                 "Address": "Bathtub_Back.png",
-                "Hash": "aadec259f79fc1554e6dab0464ad352d"
+                "Hash": "b12264a444e798ad2e316bffdd31222d"
             },
             "Climb": {
                 "Address": "Bathtub_Climb.png",
-                "Hash": "b4302c105e149d545d9a63d44a6ad3e9"
+                "Hash": "aadec259f79fc1554e6dab0464ad352d"
                 
             }
         },
@@ -304,11 +304,11 @@
             },
             "Back": {
                 "Address": "Cardboard_Back.png",
-                "Hash": "03e73390b04fc02b18cf4db9e0605f8e"
+                "Hash": "82737d524947a07ceecc4583d588b988"
             },
             "Climb": {
                 "Address": "Cardboard_Climb.png",
-                "Hash": "0826775bb37fc9deb049934f4cf6d9db"
+                "Hash": "3e96b5820a83346008ad201227621ca3"
                 
             }
         },
