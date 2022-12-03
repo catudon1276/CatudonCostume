@@ -977,6 +977,8 @@
             }
         },
         {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Owl",
             "Bounce": "false",
             "Adaptive": "true",
