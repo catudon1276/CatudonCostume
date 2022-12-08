@@ -283,7 +283,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Candle.png",
-                "Hash": "516ffc99ba7c6f317f58ca943f5673c1" 
+                "Hash": "5116ffc99ba7c6f317f58ca943f5673c" 
             },
             "Climb": {
                 "Address": "Candle_Climb.png",
@@ -1420,7 +1420,7 @@
             },
             "Climb": {
                 "Address": "Teapot_Climb.png",
-                "Hash": "72d20f98b1cf12bf88ae38ba2605aaea"
+                "Hash": "09944187f08322933227e5e32aa04a6d"
             }
         },
         {
