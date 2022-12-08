@@ -699,7 +699,7 @@
             "Package": "Catudon Costume",
             "Name" : "Hakama",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "Main": {
                 "Address": "Hakama.png",
@@ -818,6 +818,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "IsSkinny": "true",            
             "Main": {
                 "Address": "Kagami-mochi.png",
                 "Hash": "c281e583143576caeb496d3955f3ef86"
