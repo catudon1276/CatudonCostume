@@ -799,8 +799,9 @@
             "Package": "Catudon Costume",
             "Name": "Jiangshi",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
+            "HideHands": "true",
             "Main": {
                 "Address": "Jiangshi.png",
                 "Hash": "1f9db9ff7c05347d4b26d81187e7b33c"
