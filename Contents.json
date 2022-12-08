@@ -481,7 +481,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "DJ.png",
-                "Hash": "72d20f98b1cf12bf88ae38ba2605aaea"
+                "Hash": "6857a4bd066da7ac08364ddf7cca1163"
             },
             "Back": {
                 "Address": "DJ_Back.png",
@@ -703,12 +703,12 @@
             "Behind": "false",
             "Main": {
                 "Address": "Hakama.png",
-                "Hash": "e9b963b2c9dd896a2f368dcb8748f6e4"
+                "Hash": "9f0fd40653c0ef9c2b989467a6a28fea"
                 
             },
             "Climb": {
                 "Address": "Hakama_Climb.png",
-                "Hash": "7f47b0e62eb3f725b9a7e26ef31c555f"
+                "Hash": "ea989aa36372a9b5e1efaeafbb54ba2a"
                 
             }
         },
@@ -803,11 +803,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Jiangshi.png",
-                "Hash": "d4f3b7b80ef535d3c884033adf252a33"
+                "Hash": "1f9db9ff7c05347d4b26d81187e7b33c"
             },
             "Climb": {
                 "Address": "Jiangshi_Climb.png",
-                "Hash": "efe14fe67a052f8504ebfb64ab3fa7af"
+                "Hash": "9b90169abcceea847d9c416a0660777b"
             }
         },
         {
@@ -1079,7 +1079,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Pig.png",
-                "Hash": "aeb27392145e5ace07cd1524de8543e1"
+                "Hash": "ccbb30ec19dab5e25c006b1a91a8f7f0"
             },
             "Climb": {
                 "Address": "Pig_Climb.png",
