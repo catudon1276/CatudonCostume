@@ -283,7 +283,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Candle.png",
-                "Hash": "e76eea25d53759c3872d8a7cad44ad8b" 
+                "Hash": "516ffc99ba7c6f317f58ca943f5673c1" 
             },
             "Climb": {
                 "Address": "Candle_Climb.png",
@@ -475,6 +475,26 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name" : "DJ",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "DJ.png",
+                "Hash": "72d20f98b1cf12bf88ae38ba2605aaea"
+            },
+            "Back": {
+                "Address": "DJ_Back.png",
+                "Hash": "0006d84ca17ec45bf1b034600f8309d2"
+            },
+            "Climb": {
+                "Address": "DJ_Climb.png",
+                "Hash": "da19c5dd60b65cab2a44fc0815feb9ef"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Dog",
             "Bounce": "false",
             "Adaptive": "true",
@@ -614,7 +634,7 @@
             },
             "Back": {
                 "Address": "Fox_Back.png",
-                "Hash": "ca83e8fb8684d938b148ebe416e02daa"
+                "Hash": "46c71e383b2f083b2a3814dbee079bbb"
             },
             "Climb": {
                 "Address": "Fox_Climb.png",
@@ -656,7 +676,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "HaapyBirthday",
+            "Name": "HappyBirthday",
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
@@ -671,6 +691,25 @@
             "Climb": {
                 "Address": "HaapyBirthday_Climb.png",
                 "Hash": "160564ec8e3c3d62d414620588d47094"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Hakama",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Hakama.png",
+                "Hash": "e9b963b2c9dd896a2f368dcb8748f6e4"
+                
+            },
+            "Climb": {
+                "Address": "Hakama_Climb.png",
+                "Hash": "7f47b0e62eb3f725b9a7e26ef31c555f"
+                
             }
         },
         {
@@ -769,6 +808,24 @@
             "Climb": {
                 "Address": "Jiangshi_Climb.png",
                 "Hash": "efe14fe67a052f8504ebfb64ab3fa7af"
+            }
+        },
+        {
+    
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Kagami-mochi",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Kagami-mochi.png",
+                "Hash": "c281e583143576caeb496d3955f3ef86"
+
+            },
+            "Climb": {
+                "Address": "Kagami-mochi_Climb.png",
+                "Hash": "069558634fc2bcb2598c3e1740829141"
             }
         },
         {
@@ -990,7 +1047,7 @@
 
             "Climb": {
                 "Address": "Owl_Climb.png",
-                "Hash": "18cdbf320945b5d4e4b5a577d10dcd73"
+                "Hash": "bd4718d1577f408e5e6a63a3fd2e25c1"
             }
         },
         {
@@ -1049,6 +1106,22 @@
                 "Hash": "de5f11f81ff5ac96d4878340c73b9072"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Rabbit",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Rabbit.png",
+                "Hash": "6068c80f26573816c8e64bb11a519000"
+            },
+            "Climb": {
+                "Address": "Rabbit_Climb.png",
+                "Hash": "e9e6f09a74573388c0a839774d63242a"
+            }
+        },
 		{
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1091,11 +1164,11 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Raccoon.png",
-                "Hash": "003155ea03a34c9b03b11b6778185381"
+                "Hash": "3fcd0cfefd9eea9c40a13a6bd1ac1f12"
             },
             "Back": {
                 "Address": "Raccoon_Back.png",
-                "Hash": "af375acdba550884dfa16a8da7a8ebfe"
+                "Hash": "513206bf3568a6c894747b1bcc45c7df"
             },
             "Climb": {
                 "Address": "Raccoon_Climb.png",
@@ -1161,11 +1234,11 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Sheep.png",
-                "Hash": "cc9a2fb251552e32b818001d1749bc2c"
+                "Hash": "03264017615325fe7e76123ffc6258fe"
             },
             "Climb": {
                 "Address": "Sheep_Climb.png",
-                "Hash": "3f7d36e6768ebca51aba34f2030e6214"
+                "Hash": "3bd9bc33c4af5d7dac1305e3d2f32f0d"
             }
         },
         {
@@ -1189,7 +1262,8 @@
 		        "Length":"2",
                 "Hash": "d98d3705137a1d1d2b3ad9169e7068a4"
 		    }
-		},        {
+		},        
+        {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Sister",
@@ -1207,6 +1281,22 @@
             "Back":{
                 "Address": "Sister_Back.png",
                 "Hash": "049797ebe138e4e273cae5a6d17be698"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Smart phone",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Smart phone.png",
+                "Hash": "2664a1a5830b874ac0065fb17c12140f"
+            },
+            "Climb": {
+                "Address": "Empty.png",
+                "Hash": "f05df18cb2e8f7a10d54d9574c8f2e43"
             }
         },
         {
@@ -1321,7 +1411,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Teapot.png",
-                "Hash": "dc9fb665c687a26adf77f7ce6129bc38"
+                "Hash": "18450f343dbe0a444c4fd6a94640c571"
             },
             "Back": {
                 "Address": "Teapot_Back.png",
@@ -1329,7 +1419,7 @@
             },
             "Climb": {
                 "Address": "Teapot_Climb.png",
-                "Hash": "9aafe7cde6805a92552222a6b6f4ac52"
+                "Hash": "72d20f98b1cf12bf88ae38ba2605aaea"
             }
         },
         {
@@ -1583,7 +1673,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Tomato.png",
-                "Hash": "5eca0b000aa9714ac9ec2657548c24f0"
+                "Hash": "db14ef8de429469de838260ebd159a84"
                 
             },
             "Climb": {
