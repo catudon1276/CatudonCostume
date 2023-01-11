@@ -924,11 +924,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Military uniform.png",
-                "Hash": "c5cc935d41637adc70e8e034c4646c7e"
+                "Hash": "c8352d5c295834032c746fa51c9ba347"
             },
             "Climb": {
                 "Address": "Military uniform_Climb.png",
-                "Hash": "e23e13c626bcfcd66c8efc2345ed0009"
+                "Hash": "4afa5d1d3fb65bd1efab9823614c6dd0"
             }
         },  
         {
