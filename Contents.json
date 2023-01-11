@@ -148,7 +148,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Bear.png",
                 "Hash": "cd09a36fe096f8a54e314961a2e153aa"
@@ -284,7 +283,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Cat.png",
                 "Hash": "a239fe3a68e5f730c27ad126c69f356a"
@@ -306,7 +304,6 @@
             "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Chicken.png",
                 "Hash": "ff2770849e23bf6e21e6f993dba141bb"
@@ -448,7 +445,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Dog.png",
                 "Hash": "cfc25f610a66004fb13d60c7a67bff52"
@@ -580,7 +576,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Fox.png",
                 "Hash": "aadaa55f8cbb44c14059d2ba4c7478eb"
@@ -653,6 +648,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "HideHands": "true",
             "Main": {
                 "Address": "Guitar.png",
                 "Hash": "5d51b4687c904dda25d5dbe5cdf4f3b2"
@@ -942,7 +938,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Mouse.png",
                 "Hash": "ef2706d8a727ad6220a3323d62c38bfe"
@@ -1031,7 +1026,6 @@
             "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Owl.png",
                 "Hash": "eff8556d8d899bd2235ef5ad1f5e0cbf"
@@ -1068,6 +1062,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Pencil.png",
                 "Hash": "8fb8e9977375b2cfc95d1be486e5a36d"
@@ -1085,7 +1080,6 @@
             "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Penguin.png",
                 "Hash": "925a44a18d4d38063f7d86a09df8d611"
@@ -1102,7 +1096,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Pig.png",
                 "Hash": "325a668b1397b4d5f94e4868803e3cf9"
@@ -1188,7 +1181,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Raccoon.png",
                 "Hash": "81da9db62b5d14ea0a821e750f328cac"
@@ -1278,7 +1270,6 @@
             "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Sheep.png",
                 "Hash": "9dccbc1b34af5b76ad654d13314a0370"
