@@ -311,7 +311,7 @@
             },
             "Back": {
                 "Address": "Chicken_Back.png",
-                "Hash": "94dddaee17dad05beade9f7ff6abbf4" 
+                "Hash": "194dddaee17dad05beade9f7ff6abbf4" 
             },
             "Climb": {
                 "Address": "Chicken_Climb.png",
@@ -447,7 +447,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Dog.png",
-                "Hash": "cfc25f610a66004fb13d60c7a67bff52"
+                "Hash": "4498d78b03e3ffa330e7d4664bc0de0f"
             },
             "Back": {
                 "Address": "Dog_Back.png",
@@ -693,7 +693,7 @@
             },
             "Climb": {
                 "Address": "Hakama_Climb.png",
-                "Hash": "f49a0de909733c020c32e24f902e2ac7 "
+                "Hash": "f49a0de909733c020c32e24f902e2ac7"
                 
             }
         },
@@ -1036,7 +1036,7 @@
             },
             "Climb": {
                 "Address": "Owl_Climb.png",
-                "Hash": "bd4718d1577f408e5e6a63a3fd2e25c1"
+                "Hash": "1e9a3a42051d0015e1a6f937a45f99bd"
             }
         },
         {
@@ -1082,7 +1082,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Penguin.png",
-                "Hash": "925a44a18d4d38063f7d86a09df8d611"
+                "Hash": "693bdf42b747a9c72c44d7b366cf31bc"
             },
             "Climb": {
                 "Address": "Penguin_Climb.png",
@@ -1227,7 +1227,7 @@
             },
             "Climb": {
                 "Address": "Santa Claus_Climb.png",
-                "Hash": "bd97c7991a3992e609f6a92067939ef0"
+                "Hash": "f83f6fa6dfad3105132ee02554c3b205"
             }
         },
         {
@@ -1243,7 +1243,7 @@
             },
             "Climb": {
                 "Address": "Black Santa_Climb.png",
-                "Hash": "7c93d10a530d94efb020a775e4093202"
+                "Hash": "efcd07fbfcb4695b138f83dfabc66c45"
             }
         },    
         {
