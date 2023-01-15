@@ -578,11 +578,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Fox.png",
-                "Hash": "aadaa55f8cbb44c14059d2ba4c7478eb"
+                "Hash": "822571c845d3b3d88f947f1d86afd085"
             },
             "Back": {
                 "Address": "Fox_Back.png",
-                "Hash": "5231097df3339a073b5298be45f877c1"
+                "Hash": "8c083219328c09e3834b7c76d3071fc8"
             },
             "Climb": {
                 "Address": "Fox_Climb.png",
@@ -1822,7 +1822,7 @@
             "BehindHat": "true",
             "Main": {
                 "Address": "Angry.png",
-                "Hash": "ae33c32e7494c40de67ff312a095e000"
+                "Hash": "18fbf72980466ae1aa114a9b787718bd"
             }
         },
         {
@@ -1833,7 +1833,7 @@
             "BehindHat": "true",
             "Main": {
                 "Address": "Sad.png",
-                "Hash": "5c9774785af9401f615c1fec87494012"
+                "Hash": "a14dcce55e0393e31dacdfd74db230de"
             }
         },
         {
