@@ -1002,6 +1002,23 @@
             }
         },
         {
+    
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Ninja",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "Main": {
+                "Address": "Ninja.png",
+                "Hash": "725fd2bef917233ec468f20bc9c61ca3"
+            },
+            "Climb": {
+                "Address": "Ninja_Climb.png",
+                "Hash": "d9c1885c0f0c4b2b435105e79ec4482b"
+            }
+        },
+        {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Oracle",
@@ -1048,7 +1065,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Parker.png",
-                "Hash": "8ff7c4599c79d7d0fe99f4802cf666c6"
+                "Hash": "feaeb32e629e7ab183b55d989ccf960f"
             },
             "Climb": {
                 "Address": "Parker_Climb.png",
@@ -1527,7 +1544,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Apple.png",
-                "Hash": "92ee1a6c8dc00393b5fc70a8f6189341" 
+                "Hash": "087cb068939f8f1dc27ae62e5a0d3c87" 
             },
             "Climb": {
                 "Address": "Apple_Climb.png",
@@ -1544,7 +1561,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Banana.png",
-                "Hash": "d81108db0d1e3b9ac3ab17b0a8c180ab"
+                "Hash": "38d3465ee0a81fe99000db8a34437624"
             },
             "Climb": {
                 "Address": "Banana_Climb.png",
@@ -1561,7 +1578,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Carrots.png",
-                "Hash": "f925b91e88c8eaa42a6ed6ff7fe1cffb"
+                "Hash": "0229c45af64bc57527988558bdf7a5d7"
             },
             "Climb": {
                 "Address": "Carrots_Climb.png",
@@ -1578,7 +1595,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Eggplant.png",
-                "Hash": "64f2dc2a7565b269d3dea03d2784ca6e"
+                "Hash": "7643a66479bdb88023bfdbe9c0774f2c"
             },
             "Climb": {
                 "Address": "Eggplant_Climb.png",
@@ -1595,7 +1612,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Grape.png",
-                "Hash": "a3c1af1c6ebb79c154ca736ff267c032"
+                "Hash": "7a2c0e237eeb46059cad8c3ef48dc476"
             },
             "Climb": {
                 "Address": "Grape_Climb.png",
@@ -1612,7 +1629,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Mandarin.png",
-                "Hash": "96f106f7001f810485fccae35326f1d1"
+                "Hash": "84316e60cdc86b9ea0c7dd55830c78ac"
             },
             "Climb": {
                 "Address": "Mandarin_Climb.png",
@@ -1629,7 +1646,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Strawberry.png",
-                "Hash": "c1160093114b3456f124329e86e4e95c"
+                "Hash": "57f822267d4bf6d674357ecd41e16b34"
             },
             "Climb": {
                 "Address": "Strawberry_Climb.png",
@@ -1646,7 +1663,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Tomato.png",
-                "Hash": "db14ef8de429469de838260ebd159a84"
+                "Hash": "7b42846c220a216a3f7f1541a66877aa"
                 
             },
             "Climb": {
@@ -1712,14 +1729,25 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name" : "Doron!",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Smoke.png",
+                "Hash": "ba620c12ddb24d4084a4abeb4996abb8"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Fulu",
             "Adaptive": "false",
             "BehindHat": "true",
             "Main": {
                 "Address": "Fulu.png",
-                "Hash": "ab7cf7d44a361a823f0b882951e89ade"
+                "Hash": "8303568dbef0d95a18208bcf169c212b"
             }
         },
+
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
