@@ -1150,7 +1150,7 @@
                 "Hash": "bc8aa5bb2aaa5339e949dd11dc8f627a"
             },
             "Back": {
-                "Address": "_Pig_Back.png",
+                "Address": "Pig_Back.png",
                 "Hash": "4c13c0f9b28a343727da14a6befe14ff"
             },
             "Climb": {
@@ -1191,7 +1191,7 @@
                 "Hash": "62ae6467e9f1126b3f791e323efd2ba5"
             },
             "Back": {
-                "Address": "_Rabbit_Back.png",
+                "Address": "Rabbit_Back.png",
                 "Hash": "e8b057383692114d8e7950764ebd8920"
             },
             "Climb": {
