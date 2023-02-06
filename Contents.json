@@ -153,7 +153,7 @@
                 "Hash": "a2a93dd0ea5e7bef9e6e5516cd6ec903"
             },
             "Back": {
-                "Address": "_Bear_Back.png",
+                "Address": "Bear_Back.png",
                 "Hash": "1fc579cfd78972fdf1bf75f6f62c9fc0"
             },
             "Climb": {
@@ -455,7 +455,7 @@
             },
             "Back": {
                 "Address": "Dog_Back.png",
-                "Hash": "32f430e8a7b314c815fe79ec166948c"
+                "Hash": "5ac6aa8cceab9bac41068da7ba2cbdff"
             },
             "Climb": {
                 "Address": "Dog_Climb.png",
@@ -837,7 +837,7 @@
             },
             "Climb": {
                 "Address": "Jiangshi_Climb.png",
-                "Hash": "efe14fe67a052f8504ebfb64ab3fa7af"
+                "Hash": "9b90169abcceea847d9c416a0660777b"
             }
         },
         {
@@ -1114,7 +1114,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Pencil.png",
-                "Hash": "0ff61864f0a00ace11a1decc31feae76"
+                "Hash": "8fb8e9977375b2cfc95d1be486e5a36d"
             },
             "Climb": {
                 "Address": "Pencil_Climb.png",
@@ -1131,7 +1131,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Penguin.png",
-                "Hash": "693bdf42b747a9c72c44d7b366cf31bc"
+                "Hash": "0ff61864f0a00ace11a1decc31feae76"
             },
             "Climb": {
                 "Address": "Penguin_Climb.png",
