@@ -854,7 +854,7 @@
             },
             "Back": {
                 "Address": "Koala_Back.png",
-                "Hash": "5aca62c4efacc918c602a221bf6164f4"
+                "Hash": "af0542d730f4046f83aa64ad67f52c94"
             },
             "Climb": {
                 "Address": "Koala_Climb.png",
@@ -972,11 +972,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Mouse.png",
-                "Hash": "ef2706d8a727ad6220a3323d62c38bfe"
+                "Hash": "6f5f16309ddd7cd011a7b71ace4811d8"
             },            
             "Back": {
                 "Address": "Mouse_Back.png",
-                "Hash": "b118d444e816377f780de9e75815da1b"
+                "Hash": "8149bb5b75c61fd9ff95a7eda2624442"
             },
             "Climb": {
                 "Address": "Mouse_Climb.png",
@@ -1188,7 +1188,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Rabbit.png",
-                "Hash": "62ae6467e9f1126b3f791e323efd2ba5"
+                "Hash": "c9adc7f8eafc1a311a2a4de2d8f74b72"
             },
             "Back": {
                 "Address": "Rabbit_Back.png",
@@ -1450,18 +1450,23 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Tank",
+            "Name" : "Tank",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
+            "FPS": "3", 
             "Main": {
                 "Address": "Tank.png",
-                "Hash": "38444ac64bfb3dc427b2ea9c16d8bf54"
-                
+                "Hash": "64836be87e88f5ecc52bd0636a82151b"
             },
             "Climb": {
                 "Address": "Tank_Climb.png",
-                "Hash": "3aa60a1ab948a1342548c36cc2817103"
+                "Hash": "64836be87e88f5ecc52bd0636a82151b"
+            },
+            "Move": {
+                "Address": "Tank_Move.png",
+                "Hash": "7c5085c4513cfa0c892e7fede8e034b5",
+                "Length":"2"
             }
         },
         {
@@ -2077,7 +2082,7 @@
             {
                 "Package": "Catudon Costume",
                 "Format": "Catudon Costume",
-                "Priority" : "1"
+                "Priority" : "2"
             }
         ]
     }
