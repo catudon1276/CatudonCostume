@@ -648,26 +648,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Ghost",
-            "Bounce": "false",
-            "Adaptive": "true",
-            "Behind": "false",
-            "Main": {
-                "Address": "Empty.png",
-                "Hash": "f05df18cb2e8f7a10d54d9574c8f2e43"
-            },
-            "Back": {
-                "Address": "Ghost.png",
-                "Hash": "aeebcd2f457d8d9e2f2190cd8d957990"
-            },
-            "Climb": {
-                "Address": "Ghost_Climb.png",
-                "Hash": "67b25f00a731f386722f222dd85e25f8"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name" : "Guitar",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1119,23 +1099,6 @@
             "Climb": {
                 "Address": "Pencil_Climb.png",
                 "Hash": "141bf7027492b4eb7359258a298883e1"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Penguin",
-            "Bounce": "false",
-            "Adaptive": "true",
-            "Behind": "false",
-            "HideHands": "true",
-            "Main": {
-                "Address": "Penguin.png",
-                "Hash": "0ff61864f0a00ace11a1decc31feae76"
-            },
-            "Climb": {
-                "Address": "Penguin_Climb.png",
-                "Hash": "83257cc626b6345c09af61d52e306704" 
             }
         },
         {
