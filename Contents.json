@@ -834,7 +834,7 @@
             },
             "Back": {
                 "Address": "Koala_Back.png",
-                "Hash": "af0542d730f4046f83aa64ad67f52c94"
+                "Hash": "b6be2b8e6114af25bb3f4f36f35381f7"
             },
             "Climb": {
                 "Address": "Koala_Climb.png",
@@ -960,7 +960,7 @@
             },
             "Climb": {
                 "Address": "Mouse_Climb.png",
-                "Hash": "1c1c8ad90bd3e9b8ca547e6b9466d529"
+                "Hash": "28db1f2c2c0f214860c53b4a459d8349"
             }
         },
         {
@@ -1424,11 +1424,11 @@
             },
             "Climb": {
                 "Address": "Tank_Climb.png",
-                "Hash": "64836be87e88f5ecc52bd0636a82151b"
+                "Hash": "7c5085c4513cfa0c892e7fede8e034b5"
             },
             "Move": {
                 "Address": "Tank_Move.png",
-                "Hash": "7c5085c4513cfa0c892e7fede8e034b5",
+                "Hash": "b7eaccded589da86876d175afb5150ee",
                 "Length":"2"
             }
         },
