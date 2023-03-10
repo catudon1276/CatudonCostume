@@ -827,7 +827,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "IsSkinny": "true",
             "Main": {
                 "Address": "Koala.png",
                 "Hash": "af0542d730f4046f83aa64ad67f52c94"
