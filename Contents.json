@@ -58,23 +58,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Astronaut",
-            "Bounce": "false",
-            "Adaptive": "true",
-            "Behind": "false",
-            "IsSkinny": "true",
-            "Main": {
-                "Address": "Astronaut.png",
-                "Hash": "5b635106ce31753c3729e21f608b8484"
-            },
-            "Climb": {
-                "Address": "Astronaut_Climb.png",
-                "Hash": "2b3fa0f10aca44eb617f4a5d645d551f"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Bachelor's Cap",
             "Bounce": "true",
             "Adaptive": "false",
@@ -699,26 +682,6 @@
                 "Address": "Hakama_Climb.png",
                 "Hash": "f49a0de909733c020c32e24f902e2ac7"
                 
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Headband",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "Headband.png",
-                "Hash": "1830319cafd9771944e8868e6020583e"
-            },
-            "Back": {
-                "Address": "Headband_Back.png",
-                "Hash": "662857770b5dfbf781b47ebdde42e9eb" 
-            },
-            "Climb": {
-                "Address": "Headband_Climb.png",
-                "Hash": "ba1b36c3393e7dfb110f8b3e77c38692"
             }
         },
         {
