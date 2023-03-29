@@ -276,11 +276,11 @@
             },
             "Back": {
                 "Address": "Cat_Back.png",
-                "Hash": "962d642c30ba6ef301b693474059448c"
+                "Hash": "a0b0613c9bd140f605d259348d2297a3"
             },
             "Climb": {
                 "Address": "Cat_Climb.png",
-                "Hash": "764a1ac47eb137a9b6d687a3c0329a99"
+                "Hash": "412931d81aac42590e913f8175f91a3f"
             }
         },
         {
@@ -352,7 +352,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Cowboy.png",
-                "Hash": "ce79d37c780fb34de3e41d28b397dd10" 
+                "Hash": "97c2d67e05bc3b0c1cae1b1e5de36b60" 
             },
             "Back": {
                 "Address": "Cowboy_Back.png",
@@ -360,7 +360,7 @@
             },
             "Climb": {
                 "Address": "Cowboy_Climb.png",
-                "Hash": "c6ca7ec8c5f8ae53b5c480cf5a37a065"
+                "Hash": "a14af6065b729eaca03919ea8e6b6d00"
             }
         },
         {
@@ -585,11 +585,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Fox.png",
-                "Hash": "45cc00c271c273e0e1b78876392a378d"
+                "Hash": "df197a66814088eb0aeed9397c568989"
             },
             "Back": {
                 "Address": "Fox_Back.png",
-                "Hash": "8c083219328c09e3834b7c76d3071fc8"
+                "Hash": "0848809a0ffadab671674f8390f59128"
             },
             "Climb": {
                 "Address": "Fox_Climb.png",
@@ -717,7 +717,7 @@
             },
             "Back": {
                 "Address": "Heaven_Back.png",
-                "Hash": "97fb7e6a446a74856e5ce579992413aa"
+                "Hash": "5860be8ebcd09db60a0d5ad2cfacc3a9"
             },
             "Climb": {
                 "Address": "Heaven_Climb.png",
@@ -733,16 +733,16 @@
             "Behind": "false",
             "Main": {
                 "Address": "Hero.png",
-                "Hash": "fa1f8b3f92317e4153605c74e9a0a20d"
+                "Hash": "1db756a1af88e8de97b4c0beb69235fa"
             },
             "Back": {
                 "Address": "Hero_Back.png",
-                "Hash": "13d26de127b8e6e4da79277edda318fd"
+                "Hash": "f5305a980b2b2c1117e67adb2f4323c6"
                 
             },
             "Climb": {
                 "Address": "Hero_Climb.png",
-                "Hash": "5263f16ad339cb5424f9bedd864f7750"
+                "Hash": "9e3c55ae2f7159a98f361ceadd877df7"
                 
             }
         },
@@ -776,11 +776,11 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Jiangshi.png",
-                "Hash": "aebb2f59041d1b6237dd092ebbc62829"
+                "Hash": "91191d6d256eb4d07606d17e62233b74"
             },
             "Climb": {
                 "Address": "Jiangshi_Climb.png",
-                "Hash": "9b90169abcceea847d9c416a0660777b"
+                "Hash": "e1018ace65f80c1a7d6a8c364a936ad0"
             }
         },
         {
@@ -796,7 +796,7 @@
             },
             "Back": {
                 "Address": "Koala_Back.png",
-                "Hash": "b6be2b8e6114af25bb3f4f36f35381f7"
+                "Hash": "90460026df36121b991e20730331d5e4"
             },
             "Climb": {
                 "Address": "Koala_Climb.png",
