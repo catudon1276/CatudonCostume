@@ -1854,7 +1854,6 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask3",
 		    "Adaptive": "false",
-            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask3.png",
                 "Hash": "05b6bda4048225637fb66a5d777d4f8e"
