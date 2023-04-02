@@ -1185,6 +1185,7 @@
             "Bounce": "false",
             "Adaptive": "false",
             "Behind": "false",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Ornamental plants.png",
                 "Hash": "9b3ed23586d8a07a2d40c0c9e26c78af"
