@@ -49,11 +49,11 @@
             },
             "Move": {
                 "Address": "Exhibitionist_Move.png",
-                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+                "Hash": "124c42bc958ca3574394b63e78a23e8d"
             },
             "MoveBack": {
                 "Address": "Exhibitionist_MoveBack.png",
-                "Hash": "124c42bc958ca3574394b63e78a23e8d"
+                "Hash": "cbda236a901eab462c244a22d37fd45e"
             },
             "Climb": {
                 "Address": "Exhibitionist_Climb.png",
@@ -354,7 +354,7 @@
             },
             "Back": {
                 "Address": "Chicken_Back.png",
-                "Hash": "194dddaee17dad05beade9f7ff6abbf4" 
+                "Hash": "d58f4ce9a37e869798dbd1ef0088546a" 
             },
             "Climb": {
                 "Address": "Chicken_Climb.png",
@@ -925,11 +925,11 @@
             "Move": {
                 "Address": "Juggling_Move.png",
                 "Length":"7",
-                "Hash": "2e9875be177e2491f8ce3cb8a60f42b2"
+                "Hash": "359d547569aa7f8e95f677da3e63647d"
             },
             "Climb": {
                 "Address": "Juggling_Climb.png",
-                "Hash": "359d547569aa7f8e95f677da3e63647d"
+                "Hash": "2e9875be177e2491f8ce3cb8a60f42b2"
             }
         },
         {
@@ -1191,7 +1191,7 @@
             },
             "Climb": {
                 "Address": "Ornamental plants_Climb.png",
-                "Hash": "bf8c29d9a50315061e73e54389d683bc"
+                "Hash": "b5b57d5039738f22048e6c4db9442098"
             }
         }, 
         {
@@ -1491,7 +1491,7 @@
             "MoveFlip": {
 		        "Address": "Signboard_MoveFlip.png",
 		        "Length":"14",
-                "Hash": "a0ee062ffbc1d0bbe5db5d9c5331ad12"
+                "Hash": "3aa2de32760c56ec728ed4eced8a666d"
 		    }
 		},   
         {
