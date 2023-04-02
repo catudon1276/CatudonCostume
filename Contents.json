@@ -1487,6 +1487,11 @@
 		        "Address": "Signboard_Move.png",
 		        "Length":"14",
                 "Hash": "a0ee062ffbc1d0bbe5db5d9c5331ad12"
+		    },
+            "MoveFlip": {
+		        "Address": "Signboard_MoveFlip.png",
+		        "Length":"14",
+                "Hash": "a0ee062ffbc1d0bbe5db5d9c5331ad12"
 		    }
 		},   
         {
@@ -2083,7 +2088,7 @@
 		    "Name" : "Eyemask3",
 		    "Adaptive": "false",
 		    "Main": {
-		        "Address": "Eyemask3.png",
+		        "Address": "Eyeamask3.png",
                 "Hash": "05b6bda4048225637fb66a5d777d4f8e"
 		    }
 		},     
