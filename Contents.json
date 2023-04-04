@@ -37,7 +37,7 @@
             }
         },
         {
-            "Author": "catudon",
+            "Author": "catudon",.
             "Package": "Catudon Costume",
             "Name" : "Exhibitionist",
             "Bounce": "false",
@@ -2089,7 +2089,7 @@
 		    "Name" : "Eyemask3",
 		    "Adaptive": "false",
 		    "Main": {
-		        "Address": "Eyeamask3.png",
+		        "Address": "Eyemask3.png",
                 "Hash": "05b6bda4048225637fb66a5d777d4f8e"
 		    }
 		},     
