@@ -37,7 +37,7 @@
             }
         },
         {
-            "Author": "catudon",.
+            "Author": "catudon",
             "Package": "Catudon Costume",
             "Name" : "Exhibitionist",
             "Bounce": "false",
@@ -109,22 +109,6 @@
             "Climb": {
                 "Address": "BachelorsCap_Climb.png",
                 "Hash": "25ca6d9696c52330539dd05031290286"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name" : "Kasa Jizo",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "Bamboo hat.png",
-                "Hash":"bd8cb8fc31d20934de86a4a5d194dc4f"
-            },
-            "Climb": {
-                "Address": "Bamboo hat_Climb.png",
-                "Hash": "c4eacbc133fd7daa8c1e4f0da85504cd"
             }
         },
         {
@@ -930,6 +914,22 @@
             "Climb": {
                 "Address": "Juggling_Climb.png",
                 "Hash": "2e9875be177e2491f8ce3cb8a60f42b2"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Kasa Jizo",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "Bamboo hat.png",
+                "Hash":"bd8cb8fc31d20934de86a4a5d194dc4f"
+            },
+            "Climb": {
+                "Address": "Bamboo hat_Climb.png",
+                "Hash": "c4eacbc133fd7daa8c1e4f0da85504cd"
             }
         },
         {
