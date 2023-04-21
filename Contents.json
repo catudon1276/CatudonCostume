@@ -1328,6 +1328,22 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Queens Guard",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "Main": {
+                "Address": "QueensGuard.png",
+                "Hash": "36cd504c1cbb938a8e4a1da2eff77fdf"
+            },
+            "Climb": {
+                "Address": "QueensGuard_Climb.png",
+                "Hash": "c6f06baf5fbebb4ae02306a5068c31aa"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Rabbit",
             "Bounce": "false",
             "Adaptive": "true",
