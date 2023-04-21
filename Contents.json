@@ -1255,7 +1255,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Picture.png",
-                "Hash": "a3fb5600e153928af0633b766debbd51"
+                "Hash": "c32cbc53d390c2d869e5bb6e14913ffd"
             },
             "Climb": {
                 "Address": "Picture_Climb.png",
@@ -1385,11 +1385,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Sailor.png",
-                "Hash": "0bceba0f37883b6961bdf2bce50e43fe"
+                "Hash": "745d98e9abf6aed35618bded50ae15c4"
             },
             "Climb": {
                 "Address": "Sailor_Climb.png",
-                "Hash": "e06b87825e6575f59d7fa55e82d78ee0"
+                "Hash": "36d5bde9e52bb10784c9520e5f02083b"
             }
         },
         {
