@@ -295,6 +295,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Cat.png",
                 "Hash": "a239fe3a68e5f730c27ad126c69f356a"
@@ -1201,6 +1202,7 @@
             "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Owl.png",
                 "Hash": "ece33a651f6c73b6ca450a40234da74c"
@@ -1272,6 +1274,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Pig.png",
                 "Hash": "bc8aa5bb2aaa5339e949dd11dc8f627a"
@@ -1654,7 +1657,7 @@
             "Package": "Catudon Costume",
             "Name" : "Teatime",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
             "Main": {
