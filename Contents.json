@@ -1925,6 +1925,24 @@
                 "Address": "Tomato_Climb.png",
                 "Hash": "dfa329872ddace3316ec052a9fe61aa3"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Watermelon",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Behind": "false",
+            "IsSkinny": "true",
+            "Main": {
+                "Address": "Watermelon.png",
+                "Hash": "7b42846c220a216a3f7f1541a66877aa"
+                
+            },
+            "Climb": {
+                "Address": "Watermelon_Climb.png",
+                "Hash": "dfa329872ddace3316ec052a9fe61aa3"
+            }
         }
         
     ],
