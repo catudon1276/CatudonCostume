@@ -155,6 +155,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Bear.png",
                 "Hash": "a2a93dd0ea5e7bef9e6e5516cd6ec903"
@@ -331,6 +332,7 @@
             "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Chicken.png",
                 "Hash": "ff2770849e23bf6e21e6f993dba141bb"
@@ -866,7 +868,7 @@
             "Package": "Catudon Costume",
             "Name": "Hero",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "Main": {
                 "Address": "Hero.png",
@@ -979,26 +981,11 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "King",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Behind": "false",
-            "Main": {
-                "Address": "King.png",
-                "Hash": "db88478fa77648df7faae995e8776730"
-            },
-            "Climb": {
-                "Address": "King_Climb.png",
-                "Hash": "c1d21fb151c2becf4000ef193d5b4f10"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Koala",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
+            "Behind": "false",           
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Koala.png",
                 "Hash": "af0542d730f4046f83aa64ad67f52c94"
@@ -1691,6 +1678,28 @@
                 "Hash": "11f707019aa4c2da46565093a6e22e60"
 		    }
 	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Triple ",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "FPS": "8",
+            "Main": {
+                "Address": "Basketballs.png",
+                "Hash": "3f5a32a0d6f22332d10035eb1ffe17b4"
+            },
+            "Move": {
+                "Address": "Basketballs_Move.png",
+                "Length":"4",
+                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+            },
+            "Climb": {
+                "Address": "Basketballs_Climb.png",
+                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
