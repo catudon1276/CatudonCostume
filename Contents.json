@@ -643,23 +643,6 @@
                 "Address": "EasterEgg_Climb.png",
                 "Hash": "6371187a34d89eb4ec7bf4331381f9cd"
             }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Kizoku",
-            "Bounce": "false",
-            "Adaptive": "true",
-            "Behind": "false",
-            "HideHands": "true",
-            "Main": {
-                "Address": "Eboshi.png",
-                "Hash": "c89426c5f515111e8d5b0d7671a2307c"
-            },
-            "Climb": {
-                "Address": "Eboshi_Climb.png",
-                "Hash": "44fc84a941dcc20f659bcc7accf116d4"
-            }
         },		
         {
             "Author": "catudon",
@@ -1172,6 +1155,23 @@
                 "Address": "Ninja_Climb.png",
                 "Hash": "d9c1885c0f0c4b2b435105e79ec4482b"
             }
+        },        
+	{
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Onmyoji",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Behind": "false",
+            "HideHands": "true",
+            "Main": {
+                "Address": "Onmyoji.png",
+                "Hash": "c89426c5f515111e8d5b0d7671a2307c"
+            },
+            "Climb": {
+                "Address": "Onmyoji_Climb.png",
+                "Hash": "44fc84a941dcc20f659bcc7accf116d4"
+            }
         },
         {
             "Author": "catudon",
@@ -1296,6 +1296,10 @@
 		    "Climb": {
 		        "Address": "Pirate_Climb.png",
                 "Hash": "c9d5451418e3f241c09a89b107a9b56f"
+		    },
+		 "Move": {
+		        "Address": "Pirate_Move.png",
+                "Hash": "313102d2f254a79b15ab5177fa6fccb"
 		    }
 		},
         {
@@ -1390,7 +1394,11 @@
             "Climb": {
                 "Address": "Sailor_Climb.png",
                 "Hash": "36d5bde9e52bb10784c9520e5f02083b"
-            }
+            },
+           "Move": {
+	        "Address": "Sailor_Move.png",
+                "Hash": "313102d2f254a79b15ab5178fa6fccb"
+	    }
         },
         {
             "Author": "catudon",
