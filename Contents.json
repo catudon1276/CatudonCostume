@@ -1524,12 +1524,12 @@
 		    },
 		    "Move": {
 		        "Address": "Signboard_Move.png",
-		        "Length":"14",
+		        "Length":"2",
                 "Hash": "a0ee062ffbc1d0bbe5db5d9c5331ad12"
 		    },
             "MoveFlip": {
 		        "Address": "Signboard_MoveFlip.png",
-		        "Length":"14",
+		        "Length":"2",
                 "Hash": "b571be11e9f92a0f63d11be3c09d4952"
 		    }
 		},   
