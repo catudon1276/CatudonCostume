@@ -483,7 +483,7 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Delivery.png",
-                "Hash": "d3f7343202c649b50f65b11c174c55f9"
+                "Hash": "d38de06332caab16ed11d8fa2811585d"
 		    },
 		    "Back":{
 		        "Address":"Delivery_Back.png",
@@ -928,7 +928,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
-            "FPS": "15",
+            "FPS": "13",
             "Main": {
                 "Address": "Juggling.png",
                 "Hash": "ab0e60eaf8d0b3d8a2e979a32a6fce8c"
@@ -936,7 +936,7 @@
             "Move": {
                 "Address": "Juggling_Move.png",
                 "Length":"7",
-                "Hash": "5c4f0f8a93964f6ab97530e7be32a45f"
+                "Hash": "04a9d54cdecf49b1e07f949b78afee3f"
             },
             "Climb": {
                 "Address": "Juggling_Climb.png",
