@@ -296,7 +296,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Cat.png",
-                "Hash": "a239fe3a68e5f730c27ad126c69f356a"
+                "Hash": "1848851c440d56678df3c6eacd5bc3d3"
             },
             "Back": {
                 "Address": "Cat_Back.png",
@@ -371,11 +371,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Coat.png",
-                "Hash": "d758485e6e022ad34b1297979341d92f"
+                "Hash": "9b384e1372baad912ea8fec67f2e65ae"
             },
             "Climb": {
                 "Address": "Coat_Climb.png",
-                "Hash": "899a3766b5ee598605795db67786816c"
+                "Hash": "2e703f67184c12cd8fc9008f49fddeef"
             }
         },
         {
@@ -483,11 +483,11 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Delivery.png",
-                "Hash": "19b457fc744e1bc1b78b2301678951f9"
+                "Hash": "d3f7343202c649b50f65b11c174c55f9"
 		    },
 		    "Back":{
 		        "Address":"Delivery_Back.png",
-                "Hash": "d38de06332caab16ed11d8fa2811585d"
+                "Hash": "c8c373fa5a1fc196957e5133d6ea882c"
 		    },
 		    "Climb": {
 		        "Address": "Delivery_Climb.png",
@@ -931,16 +931,16 @@
             "FPS": "15",
             "Main": {
                 "Address": "Juggling.png",
-                "Hash": "88aebb3a1ce5d29eb7f9c92e383761a5"
+                "Hash": "ab0e60eaf8d0b3d8a2e979a32a6fce8c"
             },
             "Move": {
                 "Address": "Juggling_Move.png",
                 "Length":"7",
-                "Hash": "359d547569aa7f8e95f677da3e63647d"
+                "Hash": "5c4f0f8a93964f6ab97530e7be32a45f"
             },
             "Climb": {
                 "Address": "Juggling_Climb.png",
-                "Hash": "2e9875be177e2491f8ce3cb8a60f42b2"
+                "Hash": "e231aaba61d226ac69eb9c413d00c692"
             }
         },
         {
@@ -1090,27 +1090,27 @@
             "Package": "Catudon Costume",
             "Name": "Necromancer",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Necromancer.png",
-                "Hash": "51309006a5a5bf58e73f26a5acbac457"
+                "Hash": "6d961062d3552ede060d73c4d45f016e"
             },
             "Back": {
                 "Address": "Necromancer_Back.png",
-                "Hash": "ed65155f673a419e70e3e3a835666ae8"
+                "Hash": "ebbc28d6cd288e0088ade49943a1afa0"
             },
             "Climb": {
                 "Address": "Necromancer_Climb.png",
-                "Hash": "3a9ab3bfb50ef4ab68b8ed4b21c007ff"
+                "Hash": "5cfb5f74bb5123b4f4b9cdf66bdffefa"
             }
         },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Nightcap",
-            "Bounce": "true",
+            "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
             "Main": {
@@ -1166,7 +1166,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Onmyoji.png",
-                "Hash": "c89426c5f515111e8d5b0d7671a2307c"
+                "Hash": "dee97c58202944fa0994e75cb003689b"
             },
             "Climb": {
                 "Address": "Onmyoji_Climb.png",
@@ -1291,15 +1291,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Pirate.png",
-                "Hash": "313102d2f254a79b15ab5177fa06fccb"
+                "Hash": "510f112b179906c5a3aa21530339dbee"
+		    },
+            "Move": {
+		        "Address": "Pirate_Move.png",
+                "Hash": "212b69acc553af52d69d38c10e5abf62"
 		    },
 		    "Climb": {
 		        "Address": "Pirate_Climb.png",
                 "Hash": "c9d5451418e3f241c09a89b107a9b56f"
-		    },
-		 "Move": {
-		        "Address": "Pirate_Move.png",
-                "Hash": "313102d2f254a79b15ab5177fa6fccb"
 		    }
 		},
         {
@@ -1389,16 +1389,16 @@
             "Behind": "false",
             "Main": {
                 "Address": "Sailor.png",
-                "Hash": "745d98e9abf6aed35618bded50ae15c4"
+                "Hash": "50a9b233a72b664c2c5b4b5d785360ec"
+            },
+            "Move": {
+                "Address": "Sailor_Move.png",
+                "Hash": "2353917600e9e049b000122d49ce5ba3"
             },
             "Climb": {
                 "Address": "Sailor_Climb.png",
-                "Hash": "36d5bde9e52bb10784c9520e5f02083b"
-            },
-           "Move": {
-	        "Address": "Sailor_Move.png",
-                "Hash": "313102d2f254a79b15ab5178fa6fccb"
-	    }
+                "Hash": "61dc5ac1e902c9a5081e5d1663b7c50b"
+            }
         },
         {
             "Author": "catudon",
@@ -1513,7 +1513,7 @@
             "HideHands":"true",
 		    "Adaptive": "true",
 		    "Behind": "false",
-		    "FPS":"7",
+		    "FPS":"2",
 		    "Main": {
 		        "Address": "Signboard.png",
                 "Hash": "d9eebe2d3cb994acd401582382eb1be1"
@@ -1525,12 +1525,12 @@
 		    "Move": {
 		        "Address": "Signboard_Move.png",
 		        "Length":"2",
-                "Hash": "a0ee062ffbc1d0bbe5db5d9c5331ad12"
+                "Hash": "267e5b8aff216976e9076d479b46eaff"
 		    },
             "MoveFlip": {
 		        "Address": "Signboard_MoveFlip.png",
 		        "Length":"2",
-                "Hash": "b571be11e9f92a0f63d11be3c09d4952"
+                "Hash": "95461752784be042b4f76aa34161047b"
 		    }
 		},   
         {
