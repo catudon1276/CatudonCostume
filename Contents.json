@@ -1893,8 +1893,8 @@
             "Name": "Glass - Heart(Collar)",
             "Adaptive": "true",
             "Main": {
-                "Address": "Collarglass(Heart).png",
-                "Hash": "295e547202f02f7a7f0a7326bd41af1"
+                "Address": "Collorglass(Heart).png",
+                "Hash": "2952f7a7f0a7326bd41af1"
             }
         },
         {
@@ -1903,8 +1903,8 @@
             "Name": "Glass - Star(Collar)",
             "Adaptive": "true",
             "Main": {
-                "Address": "Collarglass(Star).png",
-                "Hash": "08cf9ef438e71b633de12b9f60e687f"
+                "Address": "Collorglass(Star).png",
+                "Hash": "08cf9b633de12b9f60e687f"
                 
             }
         },
