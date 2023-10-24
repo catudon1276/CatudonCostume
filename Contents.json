@@ -25,15 +25,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Adventurer.png",
-                "Hash": "3f5a32a0d6f22332d10035eb1ffe17b4"
+                "Hash": "3f5a32a0d6f2232d10035eb1ffe17b4"
 		    },
 		    "Back":{
 		        "Address":"Adventurer_Back.png",
-                "Hash": "610d218bdf14f251a0b05ac0bee7160c"
+                "Hash": "610d218bdf14f51a0b05ac0bee7160c"
 		    },
 		    "Climb": {
 		        "Address": "Adventurer_Climb.png",
-                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+                "Hash": "67eabf8c03e06b6027edd92e54e8637"
 		    }
 	    },
         {
@@ -45,11 +45,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Agent.png",
-                "Hash": "8124400a6e2e3958da332f937f4fda6b"
+                "Hash": "8124400a6e2e958da332f937f4fda6b"
             },
             "Climb": {
                 "Address": "Agent_Climb.png",
-                "Hash": "c000aeaf6b1ffabe567d080c09aa98f5"
+                "Hash": "c000aeaf61ffabe567d080c09aa98f5"
             }
         },
         {
@@ -363,11 +363,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Clown.png",
-                "Hash": "5ec5e69a5e761c0a2d45195f4105703f"
+                "Hash": "5ec5e69a5e761c0ad45195f4105703f"
             },
             "Climb": {
                 "Address": "Clown_Climb.png",
-                "Hash": "c72efe0d017e0454157a6fd433ecd020"
+                "Hash": "c72efe0d017e044157a6fd433ecd020"
             }
         },
         {
@@ -449,15 +449,15 @@
             "Behind": "false",
             "Main": {
                 "Address": "Cowboy.png",
-                "Hash": "5069983c2eafca710260cbe203223deb" 
+                "Hash": "5069983c2afca710260cbe203223deb" 
             },
             "Back": {
                 "Address": "Cowboy_Back.png",
-                "Hash": "3b351faf0062371c3bba9fe67d3b7342"
+                "Hash": "3b351faf062371c3bba9fe67d3b7342"
             },
             "Climb": {
                 "Address": "Cowboy_Climb.png",
-                "Hash": "a14af6065b729eaca03919ea8e6b6d00"
+                "Hash": "a14af6065729eaca03919ea8e6b6d00"
             }
         },
         {
@@ -489,7 +489,7 @@
             "Behind": "false",
             "Main": {
                 "Address": "Detective.png",
-                "Hash": "75e4a138bf1827656417badb958ce07a"
+                "Hash": "75e4a138b1827656417badb958ce07a"
             },
             "Climb": {
                 "Address": "Detective_Climb.png",
@@ -622,15 +622,15 @@
 		    "Behind": "false",
 		    "Main": {
 		        "Address": "Earl Pumpkin.png",
-                "Hash": "3f5a32a0d6f22332d10035eb1ffe17b4"
+                "Hash": "3f5a32a0d6f2332d10035eb1ffe17b4"
 		    },
 		    "Back":{
 		        "Address":"Earl Pumpkin_Back.png",
-                "Hash": "610d218bdf14f251a0b05ac0bee7160c"
+                "Hash": "610d218bdf14f51a0b05ac0bee7160c"
 		    },
 		    "Climb": {
 		        "Address": "Earl Pumpkin_Climb.png",
-                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+                "Hash": "67eabf8c03e06c6027edd92e54e8637"
 		    }
 	    },
         {
@@ -731,11 +731,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Guardian.png",
-                "Hash": "9a5625cab947a10cae174363f880b395"
+                "Hash": "9a5625cab94710cae174363f880b395"
             },
             "Climb": {
                 "Address": "Guardian_Climb.png",
-                "Hash": "57bfde64d1e82b28ec56b5379fcf958c"
+                "Hash": "57bfde64d1e2b28ec56b5379fcf958c"
             }
         },
         {
@@ -784,11 +784,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Happi.png",
-                "Hash": "9bd5cd4c0cc80dec9a9c0a64b58dd944"
+                "Hash": "9bd5cd4c0cc8dec9a9c0a64b58dd944"
             },
             "Climb": {
                 "Address": "Happi_Climb.png",
-                "Hash": "c1e1bba223216a0952056dc84f814f62"
+                "Hash": "c1e1bba22326a0952056dc84f814f62"
             }
         },
         {
@@ -1046,11 +1046,11 @@
             "Behind": "false",
             "Main": {
                 "Address": "Military uniform.png",
-                "Hash": "6348d4cb737362abbf2bcb9ded9327f6"
+                "Hash": "6348d4cb737362bbf2bcb9ded9327f6"
             },
             "Climb": {
                 "Address": "Military uniform_Climb.png",
-                "Hash": "4afa5d1d3fb65bd1efab9823614c6dd0"
+                "Hash": "4afa5d1d3fb65bdefab9823614c6dd0"
             }
         },  
         {
@@ -1073,6 +1073,22 @@
                 "Hash": "28db1f2c2c0f214860c53b4a459d8349"
             }
         },
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Adventurer",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Mushroom.png",
+                "Hash": "3f5a32a0d6f2233210035eb1ffe17b4"
+		    },
+		    "Climb": {
+		        "Address": "Mushroom_Climb.png",
+                "Hash": "67eabf8c03e06cb607edd92e54e8637"
+		    }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1083,7 +1099,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Necromancer.png",
-                "Hash": "6d961062d3552ede060d73c4d45f016e"
+                "Hash": "6d961062d3552ede06d73c4d45f016e"
             },
             "Back": {
                 "Address": "Necromancer_Back.png",
@@ -1091,7 +1107,7 @@
             },
             "Climb": {
                 "Address": "Necromancer_Climb.png",
-                "Hash": "5cfb5f74bb5123b4f4b9cdf66bdffefa"
+                "Hash": "5cfb5f74bb512b4f4b9cdf66bdffefa"
             }
         },
         {
@@ -1874,32 +1890,32 @@
 	            {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Glass - Heart",
+            "Name": "Glass - Heart(Collar)",
             "Adaptive": "true",
             "Main": {
                 "Address": "Collarglass(Heart).png",
-                "Hash": "295e547202f102f7a7f0a7326bd41af1"
+                "Hash": "295e547202f02f7a7f0a7326bd41af1"
             }
         },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Glass - Star",
+            "Name": "Glass - Star(Collar)",
             "Adaptive": "true",
             "Main": {
                 "Address": "Collarglass(Star).png",
-                "Hash": "08cf9e1f438e71b633de12b9f60e687f"
+                "Hash": "08cf9ef438e71b633de12b9f60e687f"
                 
             }
         },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Glass - Round",
+            "Name": "Glass - Round(Collar)",
             "Adaptive": "true",
             "Main": {
                 "Address": "Collarglass(Round).png",
-                "Hash": "4ba57e2bb3b54add7d33e4bf1415bd63"
+                "Hash": "4ba57e2bb3b5add7d33e4bf1415bd63"
             }
         },
         {
@@ -2048,7 +2064,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask4.png",
-                "Hash": "c9c6acbf45bd30345e67cff70102a0d8"
+                "Hash": "c9c6acbf45bd303e67cff70102a0d8"
 		    }
 		}, 
         {
