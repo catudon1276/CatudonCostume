@@ -113,11 +113,11 @@
                     "IsSkinny": "true",			    
 		    "Main": {
 		        "Address": "Banana.png",
-                "Hash": "af99ecfbc8168eb3177ff988372f02fb"
+                "Hash": "01ce33424659cdbb6d09d28fc7d4656f"
 		    },
 		    "Climb": {
 		        "Address": "Banana_Climb.png",
-                "Hash": "7be717cd5d5810c34195fe78138966b6"
+                "Hash": "9aa28aea7b501dfcabe3145fd4845b08"
 		    }
 	    },
         {
