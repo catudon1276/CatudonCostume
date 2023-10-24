@@ -110,6 +110,7 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
 		    "Behind": "false",
+                    "IsSkinny": "true",			    
 		    "Main": {
 		        "Address": "Banana.png",
                 "Hash": "af99ecfbc8168eb3177ff988372f02fb"
