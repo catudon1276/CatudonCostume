@@ -1,5 +1,21 @@
 {
     "hats": [
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Aborigines",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Aborigines.png",
+                "Hash": "3f5a32a0d6f22332d10035eb1ffe17b4"
+		    },
+		    "Climb": {
+		        "Address": "Aborigines_Climb.png",
+                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+		    }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -87,6 +103,22 @@
                 "Hash": "25ca6d9696c52330539dd05031290286"
             }
         },
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Banana",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Banana.png",
+                "Hash": "3f5a32a0d6f22332d10035eb1ffe17b4"
+		    },
+		    "Climb": {
+		        "Address": "Banana_Climb.png",
+                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+		    }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -581,6 +613,26 @@
                 "Hash": "c23d64a4c82882401589eee25ce3f264"
 		    }
 		},
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Earl Pumpkin",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Behind": "false",
+		    "Main": {
+		        "Address": "Earl Pumpkin.png",
+                "Hash": "3f5a32a0d6f22332d10035eb1ffe17b4"
+		    },
+		    "Back":{
+		        "Address":"Earl Pumpkin_Back.png",
+                "Hash": "610d218bdf14f251a0b05ac0bee7160c"
+		    },
+		    "Climb": {
+		        "Address": "Earl Pumpkin_Climb.png",
+                "Hash": "67eabf8c03e06cb6027edd92e54e8637"
+		    }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -863,6 +915,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "Behind": "false",
+            "HideHands": "true",	    
             "FPS": "13",
             "Main": {
                 "Address": "Juggling.png",
@@ -1776,6 +1829,17 @@
                 "Hash": "8303568dbef0d95a18208bcf169c212b"
             }
         },
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Fulu2",
+            "Adaptive": "false",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Fulu2.png",
+                "Hash": "8303568dbef0d95a18208bcf169c212b"
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1789,10 +1853,10 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Glass - Ster",
+            "Name": "Glass - Star",
             "Adaptive": "false",
             "Main": {
-                "Address": "Ster glass.png",
+                "Address": "Glass(Star).png",
                 "Hash": "08cf9e1f438e71b633de12b9f60e687f"
                 
             }
@@ -1804,6 +1868,37 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Glass(Round).png",
+                "Hash": "4ba57e2bb3b54add7d33e4bf1415bd63"
+            }
+        },
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Glass - Heart",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Collarglass(Heart).png",
+                "Hash": "295e547202f102f7a7f0a7326bd41af1"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Glass - Star",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Collarglass(Star).png",
+                "Hash": "08cf9e1f438e71b633de12b9f60e687f"
+                
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Glass - Round",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Collarglass(Round).png",
                 "Hash": "4ba57e2bb3b54add7d33e4bf1415bd63"
             }
         },
@@ -1944,7 +2039,18 @@
 		        "Address": "Eyemask4.png",
                 "Hash": "c9c6acbf45bd30345e67cff70102a0d8"
 		    }
-		},                
+		},    
+	            {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Eyemask5",
+		    "Adaptive": "true",
+            "BehindHat": "true",
+		    "Main": {
+		        "Address": "Eyemask4.png",
+                "Hash": "c9c6acbf45bd30345e67cff70102a0d8"
+		    }
+		}, 
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
