@@ -1676,7 +1676,8 @@
                 "Hash": "b5a7a07899e019544d3f8edb7a17ee29"
             }
         }        
-    ], "visors": [
+    ], 
+    "visors": [
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
