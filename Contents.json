@@ -6,7 +6,6 @@
 	        "Name" : "Aborigines",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Aborigines.png",
                 "Hash": "fd1016607fd430867cc7918a30fc8e6d"
@@ -22,7 +21,6 @@
 	        "Name" : "Adventurer",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Adventurer.png",
                 "Hash": "832578bd00be6ee41f98ec7322ad743d"
@@ -42,7 +40,6 @@
             "Name" : "Agent",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Agent.png",
                 "Hash": "ce252dcf3228fc9ad21a534473376b00"
@@ -58,7 +55,6 @@
             "Name" : "Arrest",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Arrest.png",
@@ -76,7 +72,6 @@
             "Name": "Artist",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Artist.png",
@@ -93,7 +88,6 @@
             "Name": "Bachelor's Cap",
             "Bounce": "true",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "BachelorsCap.png",
                 "Hash": "7fd8be494e85f75af34fb7252d037e95"
@@ -109,7 +103,6 @@
 	        "Name" : "Banana",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
                     "IsSkinny": "true",			    
 		    "Main": {
 		        "Address": "Banana.png",
@@ -126,7 +119,6 @@
             "Name": "Baseball",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Baseball.png",
                 "Hash": "4a6cf39e11f9d22a69c20a8eb29d9b5d"
@@ -142,7 +134,6 @@
             "Name": "Bathtub",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Bathtub.png",
                 "Hash": "d06be9850d241cb0d696afbfcac40c8e"
@@ -163,7 +154,6 @@
             "Name": "Bear",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Bear.png",
                 "Hash": "a2a93dd0ea5e7bef9e6e5516cd6ec903"
@@ -183,7 +173,6 @@
             "Name" : "Bullfight",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Bullfight.png",
                 "Hash": "01e9adc132acf1ed0b62f582745a7e71"
@@ -204,7 +193,6 @@
             "Name": "Busho(Red)",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Busho(Red).png",
                 "Hash": "9623c9b87a6f5275e6c8d1ca6fb7d858"
@@ -224,7 +212,6 @@
             "Name": "Busho(Blue)",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Busho(Blue).png",
                 "Hash": "d2a0573258b295a10787038ca9745975"
@@ -248,7 +235,6 @@
             "Name": "Butterfly",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Butterfly.png",
                 "Hash": "a15bd1cef21028a594d7884da37d4c9f"
@@ -269,7 +255,6 @@
 		    "Name" : "Can",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "Can.png",
@@ -286,7 +271,6 @@
             "Name": "Candle",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Candle.png",
                 "Hash": "5116ffc99ba7c6f317f58ca943f5673c" 
@@ -302,7 +286,6 @@
             "Name": "Cat",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Cat.png",
                 "Hash": "1848851c440d56678df3c6eacd5bc3d3"
@@ -322,7 +305,6 @@
             "Name" : "Cat hoodie",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Cat hoodie.png",
                 "Hash": "27927870b4a776fa420f3d27cfb23247"
@@ -338,7 +320,6 @@
             "Name": "Chicken",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Chicken.png",
@@ -361,7 +342,6 @@
             "Name" : "Clown",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Clown.png",
                 "Hash": "b064cfb49b61f95e08eab6414b90983d"
@@ -377,7 +357,6 @@
             "Name" : "Coat",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Coat.png",
                 "Hash": "9b384e1372baad912ea8fec67f2e65ae"
@@ -393,7 +372,6 @@
             "Name" : "Coccoloba",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Coccoloba.png",
                 "Hash": "aa1e2517b87968a53251f7b14c294143"
@@ -410,7 +388,6 @@
             "Name" : "Collarcorn",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "Collarcorn.png",
@@ -427,7 +404,6 @@
             "Name": "Conjurer",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Conjurer.png",
                 "Hash": "fcc082f9a6072dc4f7de97dc9f3aae76"
@@ -447,7 +423,6 @@
             "Name": "Cowboy",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Cowboy.png",
                 "Hash": "2ed3d42aaa6405bafee140cb0bc09584" 
@@ -467,7 +442,6 @@
 		    "Name" : "Delivery",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Delivery.png",
                 "Hash": "d3f7343202c649b50f65b11c174c55f9"
@@ -487,7 +461,6 @@
             "Name" : "Detective",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Detective.png",
                 "Hash": "153c962f2d96bdb61f880813e3f3c87d"
@@ -503,7 +476,6 @@
             "Name" : "DJ",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "DJ.png",
                 "Hash": "6857a4bd066da7ac08364ddf7cca1163"
@@ -523,7 +495,6 @@
             "Name": "Dog",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Dog.png",
                 "Hash": "432f430e8a7b314c815fe79ec166948c"
@@ -543,7 +514,6 @@
             "Name": "Dog2",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Dog2.png",
                 "Hash": "cb2739a1c52f1315e52399bad242e735"
@@ -563,7 +533,6 @@
             "Name": "Dowsing",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Dowsing.png",
@@ -584,7 +553,6 @@
 		    "Name" : "Dragon",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Dragon.png",
                 "Hash": "84a69b1997e6ee03ef75ff5f9eb3c486"
@@ -604,7 +572,6 @@
 		    "Name" : "Drunk",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Drunk.png",
                 "Hash": "23b5b79abf616bd662d319df91f58e80"
@@ -620,7 +587,6 @@
 	        "Name" : "Earl Pumpkin",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Earl Pumpkin.png",
                 "Hash": "b2b62960e1b16fb2e0f999eb736a0a17"
@@ -640,7 +606,6 @@
             "Name": "Easter Egg",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "EasterEgg.png",
@@ -657,7 +622,6 @@
 		    "Name" : "Floating",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Float.png",
                 "Hash": "3b54eee3dd9a8f714746cb5d9ed57d1c"
@@ -677,7 +641,6 @@
             "Name": "Fox",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Fox.png",
                 "Hash": "df197a66814088eb0aeed9397c568989"
@@ -697,7 +660,6 @@
             "Name": "Gentleman",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Gentleman.png",
                 "Hash": "4ed49e5f4a3dfbea2016c14e69d76f35"
@@ -713,7 +675,6 @@
             "Name": "Gentleman2",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Gentleman2.png",
                 "Hash": "02edfd7578aaa28cdc591943390156c7"
@@ -729,7 +690,6 @@
             "Name" : "Guardian",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Guardian.png",
                 "Hash": "fd6fc23002869dcb4f709e1605e68f55"
@@ -745,7 +705,6 @@
             "Name" : "Guitar",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Guitar.png",
@@ -762,7 +721,6 @@
             "Name": "HappyBirthday",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "HaapyBirthday.png",
                 "Hash": "b728148c6efd0d13c3839fa421263dc8"
@@ -782,7 +740,6 @@
             "Name" : "Happi",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Happi.png",
                 "Hash": "e99f23dc274a717cd81ba2e891231ac3"
@@ -798,7 +755,6 @@
             "Name": "Headphone",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Headphone.png",
                 "Hash": "84f40d14e184ee2eebfaf1e3d9201035"
@@ -818,7 +774,6 @@
             "Name": "Heaven",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Heaven.png",
                 "Hash": "5560fe4ca65d740adec949ce4275132b"
@@ -838,7 +793,6 @@
             "Name": "Hero",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Hero.png",
                 "Hash": "ba625bab1fb7510a172f6ab154d1896e"
@@ -856,7 +810,6 @@
             "Bounce": "false",
             "HideHands":"true",
             "Adaptive": "true",
-            "Behind": "false",
             "FPS": "15",
             "Main": {
                 "Address": "Housekeeper.png",
@@ -878,7 +831,6 @@
             "Name" : "Jackal",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Jackal.png",
                 "Hash": "f3249e5039b83c5bd0d524cb180d1d3a"                
@@ -898,7 +850,6 @@
             "Name": "Jiangshi",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Jiangshi.png",
@@ -915,7 +866,6 @@
             "Name" : "Juggling",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",	    
             "FPS": "13",
             "Main": {
@@ -938,7 +888,6 @@
             "Name" : "Kasa Jizo",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Bamboo hat.png",
                 "Hash":"b77f9ebe1773c0e9d83158544a4f2e99"
@@ -954,7 +903,6 @@
             "Name": "Koala",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",           
             "Main": {
                 "Address": "Koala.png",
                 "Hash": "af0542d730f4046f83aa64ad67f52c94"
@@ -974,7 +922,6 @@
 		    "Name" : "Lantern",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "FPS": "3",
 		    "Main": {
 		        "Address": "Lantern.png",
@@ -996,7 +943,6 @@
             "Name": "Maid",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Maid.png",
                 "Hash": "6a1c43b1c9056a0aba8bfc2aa2a7164d"
@@ -1012,7 +958,6 @@
             "Name": "Microphone",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Mic.png",
                 "Hash": "f742a71931b2eda4c14e476896fe36ba"
@@ -1028,7 +973,6 @@
             "Name": "Miko",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Miko.png",
                 "Hash": "17cfa551e722706047976c31da0dcc6d"
@@ -1044,7 +988,6 @@
             "Name" : "Military uniform",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Military uniform.png",
                 "Hash": "f0f28af7cb15eb6a4f8e0a05fd684b7f"
@@ -1060,7 +1003,6 @@
             "Name": "Mouse",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Mouse.png",
                 "Hash": "6f5f16309ddd7cd011a7b71ace4811d8"
@@ -1080,7 +1022,6 @@
 	        "Name" : "Mushroom",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Mushroom.png",
                 "Hash": "b45d03e4a203178e3457a7de1f59c39c"
@@ -1096,7 +1037,6 @@
             "Name": "Necromancer",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Necromancer.png",
@@ -1117,7 +1057,6 @@
             "Name": "Nightcap",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Nightcap.png",
                 "Hash": "e8b244345e2488b498fc1be685a90490"
@@ -1133,7 +1072,6 @@
             "Name": "Nikuman",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "Nikuman.png",
@@ -1151,7 +1089,6 @@
             "Name" : "Ninja",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Ninja.png",
                 "Hash": "725fd2bef917233ec468f20bc9c61ca3"
@@ -1167,7 +1104,6 @@
             "Name": "Onmyoji",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Onmyoji.png",
@@ -1184,7 +1120,6 @@
             "Name": "Oracle",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Oracle.png",
@@ -1201,7 +1136,6 @@
             "Name" : "Owl",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Owl.png",
@@ -1222,7 +1156,6 @@
             "Name" : "Parker",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Parker.png",
                 "Hash": "feaeb32e629e7ab183b55d989ccf960f"
@@ -1238,7 +1171,6 @@
             "Name" : "Pencil",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "Pencil.png",
@@ -1255,7 +1187,6 @@
             "Name" : "Picture",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "IsSkinny": "true",
             "Main": {
@@ -1273,7 +1204,6 @@
             "Name": "Pig",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Pig.png",
                 "Hash": "bc8aa5bb2aaa5339e949dd11dc8f627a"
@@ -1293,7 +1223,6 @@
 		    "Name" : "Pirate",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Pirate.png",
                 "Hash": "510f112b179906c5a3aa21530339dbee"
@@ -1313,7 +1242,6 @@
             "Name" : "Quiz",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Quiz.png",
                 "Hash": "518d5418453a41187a107ae34cb80834"
@@ -1334,7 +1262,6 @@
             "Name" : "Rabbit",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Rabbit.png",
                 "Hash": "c9adc7f8eafc1a311a2a4de2d8f74b72"
@@ -1354,7 +1281,6 @@
             "Name": "Raccoon",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Raccoon.png",
                 "Hash": "ed685e30910e5c0acbc971d863642624"
@@ -1375,7 +1301,6 @@
             "Name" : "Sailor",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Sailor.png",
                 "Hash": "50a9b233a72b664c2c5b4b5d785360ec"
@@ -1395,7 +1320,6 @@
             "Name" : "Samurai",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Samurai.png",
                 "Hash" : "9ce0682b9f5a347cd5d3d95eac71f629"
@@ -1415,7 +1339,6 @@
             "Name": "Santa Claus",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Santa Claus.png",
                 "Hash": "c279d11f2be2a2969e3d40172f707424"
@@ -1431,7 +1354,6 @@
             "Name": "Black Santa",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Black Santa.png",
                 "Hash": "0cec61fc88fe5ca5ae9b554e755faadd"
@@ -1447,7 +1369,6 @@
             "Name": "School uniform",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "School uniform.png",
                 "Hash": "5ebd8dc59bc8cd968634015a8d5c4cb6"
@@ -1463,7 +1384,6 @@
             "Name" : "Secret",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Secret.png",
                 "Hash": "a4db0ca047dd77126c7d2b9bede87336"
@@ -1483,7 +1403,6 @@
             "Name": "Sheep",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Sheep.png",
@@ -1501,7 +1420,6 @@
 		    "Bounce": "false",
             "HideHands":"true",
 		    "Adaptive": "true",
-		    "Behind": "false",
 		    "FPS":"2",
 		    "Main": {
 		        "Address": "Signboard.png",
@@ -1528,7 +1446,6 @@
 		    "Name" : "Siren",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-		    "Behind": "false",
 		    "FPS":"7",
 		    "Main": {
 		        "Address": "Siren.png",
@@ -1550,7 +1467,6 @@
             "Name": "Sister",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Sister.png",
                 "Hash": "f984319ed079f382396f521277900453"
@@ -1570,7 +1486,6 @@
             "Name" : "Smart phone",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Smart phone.png",
                 "Hash": "2664a1a5830b874ac0065fb17c12140f"
@@ -1586,7 +1501,6 @@
             "Name": "Sniper",
             "Bounce": "false",
             "Adaptive": "false",
-            "Behind": "false",
             "Main": {
                 "Address": "Sniper.png",
                 "Hash": "11edf216abce2fa144935f11ad42d5f5"
@@ -1606,7 +1520,6 @@
             "Name": "Statue of Liberty",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "StatueOfLiberty.png",
@@ -1623,7 +1536,6 @@
             "Name" : "Tank",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "FPS": "3", 
             "Main": {
                 "Address": "Tank.png",
@@ -1645,7 +1557,6 @@
             "Name": "Teapot",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "Main": {
                 "Address": "Teapot.png",
                 "Hash": "18450f343dbe0a444c4fd6a94640c571"
@@ -1665,7 +1576,6 @@
             "Name" : "Teatime",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Teatime.png",
@@ -1678,7 +1588,6 @@
 		    "Name" : "Threehair",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-		    "Behind": "false",
 		    "Main": {
 		        "Address": "Threehair.png",
                 "Hash": "e65e901a06e63b4f6ae9979508cbbaee"
@@ -1694,7 +1603,6 @@
             "Name" : "Triple ",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "FPS": "10",
             "Main": {
                 "Address": "Basketballs.png",
@@ -1716,7 +1624,6 @@
             "Name" : "Ukulele",
             "Bounce": "false",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "FPS":"8",
             "Main": {
@@ -1735,7 +1642,6 @@
             "Name": "Vessel",
             "Bounce": "true",
             "Adaptive": "true",
-            "Behind": "false",
             "HideHands": "true",
             "Main": {
                 "Address": "Vessel.png",
@@ -1757,7 +1663,6 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
             "HideHands": "true",
-		    "Behind": "false",
             "Main": {
                 "Address": "Working.png",
                 "Hash": "bb40c1b937da5b383d5eff3102f3236b"
@@ -1787,7 +1692,6 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Blindfold",
-            "BehindHat": "true",
             "Adaptive": "false",
             "Main": {
                 "Address": "Blindfold.png",
@@ -1809,7 +1713,6 @@
             "Package": "Catudon Costume",
             "Name": "Darkness",
             "Adaptive": "false",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Dark.png",
                 "Hash": "c8572c9b76589380bfeb2a4c40d2f638"
@@ -1840,7 +1743,6 @@
             "Package": "Catudon Costume",
             "Name": "Fulu",
             "Adaptive": "false",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Fulu.png",
                 "Hash": "8303568dbef0d95a18208bcf169c212b"
@@ -1851,7 +1753,6 @@
             "Package": "Catudon Costume",
             "Name": "Fulu2",
             "Adaptive": "false",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Fulu2.png",
                 "Hash": "2cf09580d5463b1c6df3f60c0d2ade0f"
@@ -1986,7 +1887,6 @@
             "Package": "Catudon Costume",
             "Name": "Angry",
             "Adaptive": "true",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Angry.png",
                 "Hash": "18fbf72980466ae1aa114a9b787718bd"
@@ -1997,7 +1897,6 @@
             "Package": "Catudon Costume",
             "Name": "Sad",
             "Adaptive": "true",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Sad.png",
                 "Hash": "a14dcce55e0393e31dacdfd74db230de"
@@ -2008,7 +1907,6 @@
             "Package": "Catudon Costume",
             "Name": "Smile",
             "Adaptive": "true",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Smile.png",
                 "Hash": "db2cc42fbc64abd050b74862ee2c0972"
@@ -2019,7 +1917,6 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask",
             "Adaptive": "true",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Eyemask.png",
                 "Hash": "9c2b14f920e4f876462691cd97981677"
@@ -2030,7 +1927,6 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask2",
 		    "Adaptive": "true",
-            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask2.png",
                 "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
@@ -2051,7 +1947,6 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask4",
 		    "Adaptive": "true",
-            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask4.png",
                 "Hash": "c9c6acbf45bd30345e67cff70102a0d8"
@@ -2062,7 +1957,6 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask5",
 		    "Adaptive": "true",
-            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask5.png",
                 "Hash": "f86acbf33a7bd9e6ef54fa630bb9c119"
