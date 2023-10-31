@@ -1676,8 +1676,7 @@
                 "Hash": "b5a7a07899e019544d3f8edb7a17ee29"
             }
         }        
-    ],
-    "visors": [
+    ], "visors": [
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1692,6 +1691,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Blindfold",
+            "BehindHat": "true",
             "Adaptive": "false",
             "Main": {
                 "Address": "Blindfold.png",
@@ -1713,6 +1713,7 @@
             "Package": "Catudon Costume",
             "Name": "Darkness",
             "Adaptive": "false",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Dark.png",
                 "Hash": "c8572c9b76589380bfeb2a4c40d2f638"
@@ -1743,6 +1744,7 @@
             "Package": "Catudon Costume",
             "Name": "Fulu",
             "Adaptive": "false",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Fulu.png",
                 "Hash": "8303568dbef0d95a18208bcf169c212b"
@@ -1753,6 +1755,7 @@
             "Package": "Catudon Costume",
             "Name": "Fulu2",
             "Adaptive": "false",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Fulu2.png",
                 "Hash": "2cf09580d5463b1c6df3f60c0d2ade0f"
@@ -1887,6 +1890,7 @@
             "Package": "Catudon Costume",
             "Name": "Angry",
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Angry.png",
                 "Hash": "18fbf72980466ae1aa114a9b787718bd"
@@ -1897,6 +1901,7 @@
             "Package": "Catudon Costume",
             "Name": "Sad",
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Sad.png",
                 "Hash": "a14dcce55e0393e31dacdfd74db230de"
@@ -1907,6 +1912,7 @@
             "Package": "Catudon Costume",
             "Name": "Smile",
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Smile.png",
                 "Hash": "db2cc42fbc64abd050b74862ee2c0972"
@@ -1917,6 +1923,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask",
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Eyemask.png",
                 "Hash": "9c2b14f920e4f876462691cd97981677"
@@ -1927,6 +1934,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask2",
 		    "Adaptive": "true",
+            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask2.png",
                 "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
@@ -1947,6 +1955,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask4",
 		    "Adaptive": "true",
+            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask4.png",
                 "Hash": "c9c6acbf45bd30345e67cff70102a0d8"
@@ -1957,6 +1966,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask5",
 		    "Adaptive": "true",
+            "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask5.png",
                 "Hash": "f86acbf33a7bd9e6ef54fa630bb9c119"
@@ -2130,3 +2140,5 @@
             }
         ]
     }
+
+   
