@@ -1298,6 +1298,10 @@
             "Climb": {
                 "Address": "Queens guard_Climb.png",
                 "Hash": ""
+            },
+            "Move": {
+                "Address": "Queens guard_Move.png",
+                "Hash": ""
             }
         },
         {
