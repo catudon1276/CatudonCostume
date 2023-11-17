@@ -131,6 +131,36 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Baseballhat",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Baseballhat.png",
+                "Hash": ""
+            },
+            "Climb": {
+                "Address": "Baseballhat_Climb.png",
+                "Hash": ""
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Baseballhat(Color)",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Baseballhat(Color).png",
+                "Hash": ""
+            },
+            "Climb": {
+                "Address": "Baseballhat_Climb(Color).png",
+                "Hash": ""
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Bathtub",
             "Bounce": "false",
             "Adaptive": "false",
@@ -278,6 +308,21 @@
             "Climb": {
                 "Address": "Candle_Climb.png",
                 "Hash": "c6be7921ebfc5b924684b2a9896173db" 
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Casquette",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Casquette.png",
+                "Hash": ""
+            },
+            "Climb": {
+                "Address": "Casquette_Climb.png",
+                "Hash": ""
             }
         },
         {
@@ -446,13 +491,13 @@
 		        "Address": "Delivery.png",
                 "Hash": "d3f7343202c649b50f65b11c174c55f9"
 		    },
-		    "Back":{
-		        "Address":"Delivery_Back.png",
-                "Hash": "d38de06332caab16ed11d8fa2811585d"
-		    },
 		    "Climb": {
 		        "Address": "Delivery_Climb.png",
                 "Hash": "c8c373fa5a1fc196957e5133d6ea882c"
+		    },
+            "Move": {
+		        "Address": "Delivery_Move.png",
+                "Hash": ""
 		    }
 		},
         {
@@ -885,7 +930,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Kasa Jizo",
+            "Name" : "Kasa",
             "Bounce": "false",
             "Adaptive": "false",
             "Main": {
@@ -1049,6 +1094,10 @@
             "Climb": {
                 "Address": "Necromancer_Climb.png",
                 "Hash": "5c2e5271f220e369da6b3de01f755881"
+            },
+            "Move": {
+                "Address": "Necromancer_Move.png",
+                "Hash": ""
             }
         },
         {
@@ -1236,6 +1285,21 @@
                 "Hash": "c9d5451418e3f241c09a89b107a9b56f"
 		    }
 		},
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Queens guard",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Queens guard.png",
+                "Hash": ""
+            },
+            "Climb": {
+                "Address": "Queens guard_Climb.png",
+                "Hash": ""
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1667,14 +1731,14 @@
                 "Address": "Working.png",
                 "Hash": "bb40c1b937da5b383d5eff3102f3236b"
             },
-            "Back": {
-                "Address": "Working_Back.png",
-                "Hash": "4aacfbc8cfbe1ccd1c6386a6be5bc18d"
-            },
             "Climb": {
                 "Address": "Working_Climb.png",
                 "Hash": "b5a7a07899e019544d3f8edb7a17ee29"
-            }
+            },
+            "EnterVent": {
+		        "Address": "Working_Jump.png",
+                "Hash": ""
+		    }
         }        
     ], 
     "visors": [
