@@ -148,7 +148,7 @@
             "Package": "Catudon Costume",
             "Name": "Baseballhat(Color)",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Main": {
                 "Address": "Baseballhat(Color).png",
                 "Hash": ""
@@ -489,11 +489,11 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Delivery.png",
-                "Hash": "d3f7343202c649b50f65b11c174c55f9"
+                "Hash": ""
 		    },
 		    "Climb": {
 		        "Address": "Delivery_Climb.png",
-                "Hash": "c8c373fa5a1fc196957e5133d6ea882c"
+                "Hash": ""
 		    },
             "Move": {
 		        "Address": "Delivery_Move.png",
@@ -707,7 +707,7 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Gentleman.png",
-                "Hash": "4ed49e5f4a3dfbea2016c14e69d76f35"
+                "Hash": ""
             },
             "Climb": {
                 "Address": "Gentleman_Climb.png",
@@ -722,7 +722,7 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Gentleman2.png",
-                "Hash": "02edfd7578aaa28cdc591943390156c7"
+                "Hash": ""
             },
             "Climb": {
                 "Address": "Gentleman2_Climb.png",
@@ -935,11 +935,11 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Bamboo hat.png",
-                "Hash":"b77f9ebe1773c0e9d83158544a4f2e99"
+                "Hash":""
             },
             "Climb": {
                 "Address": "Bamboo hat_Climb.png",
-                "Hash": "c4eacbc133fd7daa8c1e4f0da85504cd"
+                "Hash": ""
             }
         },
         {
@@ -1085,7 +1085,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Necromancer.png",
-                "Hash": "617cf03a1f77fe674fa0adaeb14439d3"
+                "Hash": ""
             },
             "Back": {
                 "Address": "Necromancer_Back.png",
@@ -1729,11 +1729,11 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Working.png",
-                "Hash": "bb40c1b937da5b383d5eff3102f3236b"
+                "Hash": ""
             },
             "Climb": {
                 "Address": "Working_Climb.png",
-                "Hash": "b5a7a07899e019544d3f8edb7a17ee29"
+                "Hash": ""
             },
             "EnterVent": {
 		        "Address": "Working_Jump.png",
@@ -1854,7 +1854,7 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Glass(Round).png",
-                "Hash": "3494239ce9cacdcebede8136edabea2c"
+                "Hash": ""
             }
         },
 	            {
@@ -1864,7 +1864,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Collorglass(Heart).png",
-                "Hash": "e2da5e7782316e0fcd08bcf109abcdb8"
+                "Hash": ""
             }
         },
         {
@@ -1874,7 +1874,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Collorglass(Star).png",
-                "Hash": "ff3efd512567695b07241684d8b918b0"
+                "Hash": ""
                 
             }
         },
@@ -1885,7 +1885,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Collarglass(Round).png",
-                "Hash": "f0a5796f106a894e9f162f3185250ba7"
+                "Hash": ""
             }
         },
         {
