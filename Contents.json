@@ -408,7 +408,7 @@
             },
             "Back": {
                 "Address": "Coat_Back.png",
-                "Hash": ""
+                "Hash": "05d51748bb0df0009ba6dc34527f9d45"
             },
             "Climb": {
                 "Address": "Coat_Climb.png",
@@ -658,7 +658,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "EasterEgg.png",
-                "Hash": ""
+                "Hash": "8f9c39aab8ff48209b7c7d13102cc221"
             },
             "Climb": {
                 "Address": "EasterEgg_Climb.png",
@@ -742,15 +742,15 @@
             "HideHands":"true",
             "Main": {
                 "Address": "God.png",
-                "Hash": ""
+                "Hash": "df9bd247e6bc684082647057f959bc1f"
             },
             "Back": {
                 "Address": "God_Back.png",
-                "Hash": ""
+                "Hash": "a625d050dab0f612b41ce7639ed0f652"
             },
             "Climb": {
                 "Address": "God_Climb.png",
-                "Hash": ""
+                "Hash": "d3c39ce566214822cbfd5b4933bf015c"
             }
         },
         {
@@ -812,15 +812,15 @@
             "HideHands":"true",
             "Main": {
                 "Address": "Hakama.png",
-                "Hash": ""
+                "Hash": "1d41bf9838d52d46782b85324cd9cb62"
             },
             "Move": {
                 "Address": "Hakama_Move.png",
-                "Hash": ""
+                "Hash": "fb4be468858eb0a14783536b83a7d4d3"
             },
             "Climb": {
                 "Address": "Hakama_Climb.png",
-                "Hash": ""
+                "Hash": "5a4273a90892987e6ed7339388cc3801"
             }
         },
         {
@@ -832,11 +832,11 @@
             "HideHands":"true",
             "Main": {
                 "Address": "Hakama_man.png",
-                "Hash": ""
+                "Hash": "df16756d4ad0ef40c81204fbc02c5f11"
             },
             "Climb": {
                 "Address": "Hakama_man_Climb.png",
-                "Hash": ""
+                "Hash": "27ec277d2c2c78c70550a9030127a178"
             }
         },
         {
@@ -976,11 +976,11 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Kagami-mochi.png",
-                "Hash":""
+                "Hash":"cfb5af9d39e4f758d7851a19ef1ce161"
             },
             "Back": {
                 "Address": "Kagami-mochi_Back.png",
-                "Hash":""
+                "Hash":"c05f997b3af3327235ab630e697dbfa2"
             },
 
             "Climb": {
@@ -1096,15 +1096,15 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Military uniform.png",
-                "Hash": ""
+                "Hash": "6ced3848991c206439a13e579f02695d"
             },
             "Climb": {
                 "Address": "Military uniform_Climb.png",
-                "Hash": ""
+                "Hash": "8dd916ba2c335d1ccbcbbe2bce4491a1"
             },
             "Move": {
                 "Address": "Military uniform_Move.png",
-                "Hash": ""
+                "Hash": "11328f3f4cf3f5aba878fdd061022721"
             }
         },  
         {
@@ -1336,18 +1336,18 @@
             "Package": "Catudon Costume",
             "Name": "Pilot",
             "Bounce": "false",
-            "Adaptive": "true",
+            "Adaptive": "false",
             "Main": {
                 "Address": "Pilot.png",
-                "Hash": ""
+                "Hash": "2be0549ad366fc31daa17e61f099d032"
             },
             "Back": {
                 "Address": "Pilot_Back.png",
-                "Hash": ""
+                "Hash": "b193520ef858ad09ca0a7b72b92492ec"
             },
             "Climb": {
                 "Address": "Pilot_Climb.png",
-                "Hash": ""
+                "Hash": "56e57246d43d41f83af6b28b3eb0841b"
             }
         },
         {
@@ -1711,19 +1711,19 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Tatsu.png",
-                "Hash": ""
+                "Hash": "362ee8899786c7f50f86de258a201c95"
             },
             "Back": {
                 "Address": "Tatsu_Back.png",
-                "Hash": ""
+                "Hash": "cc0f859fd473e7087fc317380f12ca6b"
             },
             "Climb": {
                 "Address": "Tatsu_Climb.png",
-                "Hash": ""
+                "Hash": "6f764c4656558b2d0807f92357bd3a9e"
             },
             "Preview": {
                 "Address": "Tatsu_Preview.png",
-                "Hash": ""
+                "Hash": "69f15716d38917850199c9b826ba2862"
             }
         },        
         {
@@ -1975,7 +1975,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Collorglass(Heart).png",
-                "Hash": "39ff0ad4b9adf4aefc1bfe63e0cc06d8 "
+                "Hash": "39ff0ad4b9adf4aefc1bfe63e0cc06d8"
             }
         },
         {
@@ -2145,7 +2145,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask5.png",
-                "Hash": ""
+                "Hash": "ff200b9b0a9872dbb3a07f11b57bef5f"
 		    }
 		}, 
         {
