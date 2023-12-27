@@ -744,6 +744,10 @@
                 "Address": "God.png",
                 "Hash": ""
             },
+            "Back": {
+                "Address": "God_Back.png",
+                "Hash": ""
+            },
             "Climb": {
                 "Address": "God_Climb.png",
                 "Hash": ""
@@ -1351,7 +1355,7 @@
             "Package": "Catudon Costume",
             "Name": "Pilot",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Main": {
                 "Address": "Pilot.png",
                 "Hash": ""
@@ -1734,6 +1738,10 @@
             },
             "Climb": {
                 "Address": "Tatsu_Climb.png",
+                "Hash": ""
+            },
+            "Preview": {
+                "Address": "Tatsu_Preview.png",
                 "Hash": ""
             }
         },        
