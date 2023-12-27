@@ -876,25 +876,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Heaven",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Heaven.png",
-                "Hash": "5560fe4ca65d740adec949ce4275132b"
-            },
-            "Back": {
-                "Address": "Heaven_Back.png",
-                "Hash": "5860be8ebcd09db60a0d5ad2cfacc3a9"
-            },
-            "Climb": {
-                "Address": "Heaven_Climb.png",
-                "Hash": "7152c757be0e91904e31a23ee6b0c06f"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Hero",
             "Bounce": "false",
             "Adaptive": "true",
