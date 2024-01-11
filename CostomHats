@@ -8,7 +8,7 @@
             "name":"バナナ",
             "condition": "None",
              "resource": "Banana.png",
-            "climbresource": "Mementomori_Climb.png",
+            "climbresource": "Banana_Climb.png",
             "adaptive": true
             
         },
