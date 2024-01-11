@@ -1,0 +1,202 @@
+{
+    "hats": [
+
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"バナナ",
+            "condition": "None",
+             "resource": "Banana.png",
+            "climbresource": "Mementomori_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"缶ジュース",
+            "condition": "None",
+            "resource": "Can.png",
+            "climbresource": "Can_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"ネコちゃん",
+            "condition": "None",
+            "resource": "Can.png",
+            "backresource": "Can_Back.png",
+            "climbresource": "Can_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"ネコミミパーカー",
+            "condition": "None",
+            "resource": "Cat hoodie.png",
+            "climbresource": "Cat hoodie_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"ニワトリ",
+            "condition": "None",
+            "resource": "Chicken.png",
+            "backresource": "Chicken_Back.png",
+            "climbresource": "Chicken_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"カラーコーン",
+            "condition": "None",
+            "resource": "Collarcorn.png",
+            "climbresource": "Collarcorn_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"魔術師",
+            "condition": "None",
+            "resource": "Conjurer.png",
+            "climbresource": "Conjurer_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"イースターエッグ",
+            "condition": "None",
+            "resource": "EasterEgg.png",
+            "climbresource": "EasterEgg_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"コアラ",
+            "condition": "None",
+            "resource": "Koala.png",
+            "backresource": "Koala_Back.png",
+            "climbresource": "Koala_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"忍者",
+            "condition": "None",
+            "resource": "Ninja.png",
+            "backresource": "Ninja_Back.png",
+            "climbresource": "Ninja_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"パーカー",
+            "condition": "None",
+            "resource": "Parker.png",
+            "climbresource": "Parker_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"芸術",
+            "condition": "None",
+            "resource": "Picture.png",
+            "climbresource": "Picture_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"女王護衛",
+            "condition": "None",
+            "resource": "Queens guard.png",
+            "climbresource": "Queens guard_Climb.png"
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"流浪者",
+            "condition": "None",
+            "resource": "Samurai.png",
+            "backresource": "Samurai_Back.png",
+            "climbresource": "Samurai_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"セーラー服",
+            "condition": "None",
+            "resource": "School uniform.png",
+            "climbresource": "School uniform_Climb.png"
+
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"自由の象徴",
+            "condition": "None",
+            "resource": "StatueOfLiberty.png",
+            "climbresource": "StatueOfLiberty_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"龍",
+            "condition": "None",
+            "resource": "Tatsu.png",
+            "backresource": "Tatsu_Back.png",
+            "climbresource": "Tatsu_Climb.png",
+            "adaptive": true
+            
+        }
+    ]
+}
+
+
+
+        
+
+
