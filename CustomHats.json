@@ -29,9 +29,9 @@
             "package": "Catudon Costume SEL",
             "name":"ネコちゃん",
             "condition": "None",
-            "resource": "Can.png",
-            "backresource": "Can_Back.png",
-            "climbresource": "Can_Climb.png",
+            "resource": "Cat.png",
+            "backresource": "Cat_Back.png",
+            "climbresource": "Cat_Climb.png",
             "adaptive": true
             
         },
@@ -110,7 +110,6 @@
             "name":"忍者",
             "condition": "None",
             "resource": "Ninja.png",
-            "backresource": "Ninja_Back.png",
             "climbresource": "Ninja_Climb.png",
             "adaptive": true
             
