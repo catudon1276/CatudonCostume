@@ -1446,7 +1446,22 @@
                 "Hash": "0a827006be0eace8d4e0d1a0d501407b"
             }
         },
-
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Radio Control",
+            "Bounce": "false",
+            "Adaptive": "true",
+	    "HideHands":"true",
+            "Main": {
+                "Address": "Radio Control.png",
+                "Hash": ""
+            },
+            "Move": {
+                "Address": "Radio Control_Move.png",
+                "Hash": ""
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1809,6 +1824,22 @@
             "Climb": {
                 "Address": "Ukulele_Climb.png",
                 "Hash": "4c3c140ec59f3360dcfbeb956c78a4ed"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Vending machine",
+            "Bounce": "false",
+            "Adaptive": "true",
+	    "HideHands":"true",
+            "Main": {
+                "Address": "Vending machine.png",
+                "Hash": ""
+            },
+            "Climb": {
+                "Address": "Vending machine_Climb.png",
+                "Hash": ""
             }
         },
         {
