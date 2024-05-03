@@ -1453,13 +1453,15 @@
             "Bounce": "false",
             "Adaptive": "true",
 	    "HideHands":"true",
+    	　　"FPS": "3",
             "Main": {
                 "Address": "Radio Control.png",
                 "Hash": ""
             },
             "Move": {
                 "Address": "Radio Control_Move.png",
-                "Hash": ""
+                   "Length":"8",
+		    "Hash": ""
             }
         },
         {
