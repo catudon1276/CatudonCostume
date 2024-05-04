@@ -1853,7 +1853,7 @@
             "IsSkinny": "true",	
             "Main": {
                 "Address": "Vending machine.png",
-                "Hash": ""
+                "Hash": "fd566cb710a1b0085d2ea42b4fc688f8"
             },
             "Climb": {
                 "Address": "Vending machine_Climb.png",
