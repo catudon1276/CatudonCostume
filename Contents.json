@@ -1244,6 +1244,21 @@
                 "Hash": "d0bd60455b3a91f2f9c1b5579e15da51"
             }
         },
+{
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Onsen",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Onsen.png",
+                "Hash": ""
+            },
+            "Climb": {
+                "Address": "Onsen_Climb.png",
+                "Hash": ""
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
