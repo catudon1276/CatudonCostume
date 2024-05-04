@@ -1031,7 +1031,7 @@
 		    "FPS": "3",
 		    "Main": {
 		        "Address": "Lantern.png",
-                "Hash": "fd6d7991541077892bbdfdce7b797d5b"
+                "Hash": ""
 		    },
 		    "Climb": {
 		        "Address": "Lantern_Climb.png",
@@ -1040,7 +1040,7 @@
 		    "Move": {
 		        "Address": "Lantern_Move.png",
 		        "Length":"7",
-                "Hash": "a92d2bb94aeb67c925c0f0a62296fa20"
+                "Hash": "c41be72b38432481ecc216ba0e8d4453"
 		    }
 		},
         {
