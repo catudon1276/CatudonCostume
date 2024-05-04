@@ -1252,11 +1252,11 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Onsen.png",
-                "Hash": ""
+                "Hash": "e9526d01fb1ef671191b3ba2055ca88a"
             },
             "Climb": {
                 "Address": "Onsen_Climb.png",
-                "Hash": ""
+                "Hash": "68bc0c646679a82b56bcd431e0aef28b"
             }
         },
         {
@@ -1853,7 +1853,7 @@
             "IsSkinny": "true",	
             "Main": {
                 "Address": "Vending machine.png",
-                "Hash": "7e93e1e4fc1aaaa67a4464764f8e834c"
+                "Hash": ""
             },
             "Climb": {
                 "Address": "Vending machine_Climb.png",
