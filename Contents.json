@@ -1471,12 +1471,12 @@
     	　　"FPS": "3",
             "Main": {
                 "Address": "Radio Control.png",
-                "Hash": ""
+                "Hash": "e21d5940d8c72b1d9f9fd9223b441bea"
             },
             "Move": {
                 "Address": "Radio Control_Move.png",
                    "Length":"8",
-		    "Hash": ""
+		    "Hash": "d1a8996d505977517aa1e9a301db7c1c"
             }
         },
         {
@@ -1747,7 +1747,7 @@
             },
             "Back": {
                 "Address": "Tatsu_Back.png",
-                "Hash": ""
+                "Hash": "71d68f4e4d78d75cfbf7b1f898238d45"
             },
             "Climb": {
                 "Address": "Tatsu_Climb.png",
@@ -1846,17 +1846,18 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Vending machine",
+            "Name" : "ing machine",
             "Bounce": "false",
             "Adaptive": "true",
 	    "HideHands":"true",
+            "IsSkinny": "true",	
             "Main": {
                 "Address": "Vending machine.png",
-                "Hash": ""
+                "Hash": "7e93e1e4fc1aaaa67a4464764f8e834c"
             },
             "Climb": {
                 "Address": "Vending machine_Climb.png",
-                "Hash": ""
+                "Hash": "5e5b950015ce660ac7f4839ad3c8d527"
             }
         },
         {
