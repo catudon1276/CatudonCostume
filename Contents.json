@@ -630,25 +630,6 @@
                 "Hash": "c23d64a4c82882401589eee25ce3f264"
 		    }
 		},
-	            {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-	        "Name" : "Earl Pumpkin",
-		    "Bounce": "false",
-		    "Adaptive": "false",
-		    "Main": {
-		        "Address": "Earl Pumpkin.png",
-                "Hash": "b2b62960e1b16fb2e0f999eb736a0a17"
-		    },
-		    "Back":{
-		        "Address":"Earl Pumpkin_Back.png",
-                "Hash": "3d4c20a6670fb7d10e62f77d71e71d78"
-		    },
-		    "Climb": {
-		        "Address": "Earl Pumpkin_Climb.png",
-                "Hash": "a70ce60a3da8a89ce49b8ed09c336bcf"
-		    }
-	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -971,26 +952,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Kagami-mochi",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Kagami-mochi.png",
-                "Hash":"cfb5af9d39e4f758d7851a19ef1ce161"
-            },
-            "Back": {
-                "Address": "Kagami-mochi_Back.png",
-                "Hash":"c05f997b3af3327235ab630e697dbfa2"
-            },
-
-            "Climb": {
-                "Address": "Kagami-mochi_Climb.png",
-                "Hash": "6162e442c74970605af93e7eb85a2def"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name" : "Kasaziso",
             "Bounce": "false",
             "Adaptive": "false",
@@ -1031,16 +992,16 @@
 		    "FPS": "3",
 		    "Main": {
 		        "Address": "Lantern.png",
-                "Hash": "1a785c21f2b898cbae4304f3c97c7eec"
+                "Hash": ""
 		    },
 		    "Climb": {
 		        "Address": "Lantern_Climb.png",
-                "Hash": "1b7cb7b242ce0713a109991376c42c63"
+                "Hash": ""
 		    },
 		    "Move": {
 		        "Address": "Lantern_Move.png",
 		        "Length":"7",
-                "Hash": "c41be72b38432481ecc216ba0e8d4453"
+                "Hash": ""
 		    }
 		},
         {
@@ -1252,11 +1213,11 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Onsen.png",
-                "Hash": "e9526d01fb1ef671191b3ba2055ca88a"
+                "Hash": ""
             },
             "Climb": {
                 "Address": "Onsen_Climb.png",
-                "Hash": "68bc0c646679a82b56bcd431e0aef28b"
+                "Hash": ""
             }
         },
         {
@@ -1467,8 +1428,8 @@
             "Name" : "Radio Control",
             "Bounce": "false",
             "Adaptive": "true",
-	    "HideHands":"true",
-    	　　"FPS": "3",
+	        "HideHands":"true",
+    	    "FPS": "3",
             "Main": {
                 "Address": "Radio Control.png",
                 "Hash": "e21d5940d8c72b1d9f9fd9223b441bea"
@@ -1853,7 +1814,7 @@
             "IsSkinny": "true",	
             "Main": {
                 "Address": "Vending machine.png",
-                "Hash": "fd566cb710a1b0085d2ea42b4fc688f8"
+                "Hash": ""
             },
             "Climb": {
                 "Address": "Vending machine_Climb.png",
