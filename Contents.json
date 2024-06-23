@@ -2066,17 +2066,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Opera glasses",
-            "Adaptive": "true",
-            "Main": {
-                "Address": "Opera glasses.png",
-                "Hash": "aa2f5bfac0aa766ac0e63099569c125e"
-                
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Pacifier",
             "Adaptive": "false",
             "Main": {
@@ -2246,7 +2235,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask8.png",
-                "Hash": "497fcb6a45c5462ff2aced0e3197dd3e"
+                "Hash": "3bc2adb765a3ebab215ca6223a8177bc"
 		    }
 		},   
         {
