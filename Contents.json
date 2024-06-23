@@ -352,11 +352,11 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Cat hoodie.png",
-                "Hash": "27927870b4a776fa420f3d27cfb23247"
+                "Hash": "9fea36368639367df94d5e087de9e4f0"
             },
             "Climb": {
                 "Address": "Cat hoodie_Climb.png",
-                "Hash": "f87374c7569d4234d95d2c724a8fd898"
+                "Hash": "d3eda8fd499863ec5172d47874447994"
             }
         },
         {
@@ -692,11 +692,15 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Gentleman.png",
-                "Hash": "9014bc5c4d3643e64578584e42a6b06e"
+                "Hash": "24f8d8c455bbc344f71591126f12cb83"
             },
             "Climb": {
                 "Address": "Gentleman_Climb.png",
-                "Hash": "d79677e21ef125a098d6c10c41bb1b19"
+                "Hash": "706cf339f725b5a94803010c441a0b86"
+            },
+            "Move": {
+                "Address": "Gentleman_Move.png",
+                "Hash": "1e5d34056568d0f2fb8ac43ab38380cb"
             }
         },
         {
@@ -707,11 +711,15 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Gentleman2.png",
-                "Hash": "71d0acb71f7eaf33595b1cf9cdb0d5ee"
+                "Hash": "6eff9ea6bb68897b8bfa3a2d45d0048f"
             },
             "Climb": {
                 "Address": "Gentleman2_Climb.png",
-                "Hash": "c1f23c682feb317e2f1d8d7488f7c357"
+                "Hash": "883b3cdc36c11aaaa64e63a765175486"
+            },
+            "Move": {
+                "Address": "Gentleman2_Move.png",
+                "Hash": "50c1bf5f6590b4bff5c97ac4db57b663"
             }
         },
         {
@@ -925,6 +933,10 @@
             "Climb": {
                 "Address": "Jiangshi_Climb.png",
                 "Hash": "e1018ace65f80c1a7d6a8c364a936ad0"
+            },
+            "Move": {
+                "Address": "Jiangshi_Move.png",
+                "Hash": "7afa68345762e3f619dacecd27190df9"
             }
         },
         {
@@ -1111,7 +1123,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Necromancer.png",
-                "Hash": "9ebbea26dc24da4b7d61964ec96ca988"
+                "Hash": "d774efee5672e52bed38e6ce0902a566"
             },
             "Back": {
                 "Address": "Necromancer_Back.png",
@@ -1123,7 +1135,7 @@
             },
             "Move": {
                 "Address": "Necromancer_Move.png",
-                "Hash": "8b999d87cf6dd87fd9ce723f0790c6a2"
+                "Hash": "1a809c69f37e309dd0c9883ee93ec6a0"
             }
         },
         {
@@ -1198,11 +1210,15 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Oracle.png",
-                "Hash": "056b84d5c928b658ca8ff181f7291ab6"
+                "Hash": "f83fec41a6658a3f3af77d1daddb8f6e"
             },
             "Climb": {
                 "Address": "Oracle_Climb.png",
-                "Hash": "d0bd60455b3a91f2f9c1b5579e15da51"
+                "Hash": "715dde575547f1b39e4e0afd40e78417"
+            },
+            "Move": {
+                "Address": "Oracle_Move.png",
+                "Hash": "013db4ac7298dd691c64d2ab39280f72"
             }
         },
 {
@@ -1467,7 +1483,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Samurai.png",
-                "Hash" : "9ce0682b9f5a347cd5d3d95eac71f629"
+                "Hash" : "674ed1fd2682415532fff4c3d7a27564"
             },
             "Back": {
                 "Address": "Samurai_Back.png",
@@ -1614,15 +1630,15 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Sister.png",
-                "Hash": "f984319ed079f382396f521277900453"
+                "Hash": "fd867aad35c704f8e7c7cd00f18aedde"
             },
             "Climb": {
                 "Address": "Sister_Climb.png",
-                "Hash": "b41cd77773bf54b3a61226f0bd793e88"
+                "Hash": "30e75e3edeaaa9e2a8a4660d2148e02d"
             },
             "Back":{
                 "Address": "Sister_Back.png",
-                "Hash": "049797ebe138e4e273cae5a6d17be698"
+                "Hash": "cb4da97bf631311391998fc3035c1b79"
             }
         },
         {
@@ -2012,11 +2028,49 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Halo",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Halo.png",
+                "Hash": "75d23e8a740160a0c992b8a5f380e402"
+                
+            },
+            "Climb": {
+                "Address": "Halo_Climb.png",
+                "Hash": "735020be1416440f00b4b348b4e37d1d"
+                
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Magic Circle",
             "Adaptive": "false",
             "Main": {
                 "Address": "Magic Circle.png",
                 "Hash": "5c6a95ff4ac8b7d925e7d0f0031d6ae5"
+                
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Monocle",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Monocle.png",
+                "Hash": "84e052721380a030a93e3296ecca932d"
+                
+            }
+        },        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Opera glasses",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Opera glasses.png",
+                "Hash": "aa2f5bfac0aa766ac0e63099569c125e"
                 
             }
         },
@@ -2161,12 +2215,49 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+		    "Name" : "Eyemask6",
+		    "Adaptive": "true",
+            "BehindHat": "true",
+		    "Main": {
+		        "Address": "Eyemask6.png",
+                "Hash": "a83508cbdbc19dbb99b447e2e3b50b5b"
+		    },
+            "Move": {
+		        "Address": "Eyemask6_Move.png",
+                "Hash": "8f5b063ad7202740b04f6673daec419c"
+		    }
+		},
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Eyemask7",
+		    "Adaptive": "true",
+            "BehindHat": "true",
+		    "Main": {
+		        "Address": "Eyemask7.png",
+                "Hash": "55185e9a52ac06a917aa6725342e35ce"
+		    }
+		}, 
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Eyemask8",
+		    "Adaptive": "true",
+            "BehindHat": "true",
+		    "Main": {
+		        "Address": "Eyemask8.png",
+                "Hash": "6eecab402b65b4b64cdf46bf12570aab"
+		    }
+		},   
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Emoticon1",
             "Adaptive": "false",
             "BehindHat": "true",
             "Main": {
-                "Address": "Shy.png",
-                "Hash": "508a796e4a01b752a34ebb10f16cba97"
+                "Address": "Emoticon8.png",
+                "Hash": "d26fd54707faa686ae3b5d2f6508fdb8"
             }
         },
         {
@@ -2177,7 +2268,7 @@
             "BehindHat": "true",
             "Main": {
                 "Address": "Pure.png",
-                "Hash": "44e394ffcdaeddfa1c9dad3386a498fc"
+                "Hash": "7372e6963df7daebce0c92223421870e"
             }
         },
         {
@@ -2232,7 +2323,7 @@
             "BehindHat": "true",
             "Main": {
                 "Address": "Emoticon5.png",
-                "Hash": "37f9f18624c63b29043eca7ef1a226ee"
+                "Hash": "8d87d1e0df612477c56fc033fdffa2ae"
             }
         } ,
         {
@@ -2245,7 +2336,40 @@
                 "Address": "Emoticon6.png",
                 "Hash": "7ec39eef3b2aff7b78791cffb2f6ba5b"
             }
-        } 
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Emoticon9",
+            "Adaptive": "false",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Emoticon7.png",
+                "Hash": "207ebdac9b4df57ad5f2ea25904bfcd4"
+            }
+        }, 
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Emoticon10",
+            "Adaptive": "false",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Emoticon9.png",
+                "Hash": "0779848069a0268b975a60099c968409"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Emoticon11",
+            "Adaptive": "false",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Emoticon10.png",
+                "Hash": "ccb3babd22197893123310bc6dcdee95"
+            }
+        }
      ],
         
     "nameplates": [
