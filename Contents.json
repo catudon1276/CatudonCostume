@@ -2030,7 +2030,7 @@
             "Package": "Catudon Costume",
             "Name": "Halo",
             "Adaptive": "true",
-            "Main": {
+            "Back": {
                 "Address": "Halo.png",
                 "Hash": "75d23e8a740160a0c992b8a5f380e402"
                 
@@ -2067,7 +2067,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Opera glasses",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Main": {
                 "Address": "Opera glasses.png",
                 "Hash": "aa2f5bfac0aa766ac0e63099569c125e"
@@ -2220,11 +2220,11 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask6.png",
-                "Hash": "a83508cbdbc19dbb99b447e2e3b50b5b"
+                "Hash": "eba3aa3f77fdc12d6ac3992373002895"
 		    },
             "Move": {
 		        "Address": "Eyemask6_Move.png",
-                "Hash": "8f5b063ad7202740b04f6673daec419c"
+                "Hash": "8159a150336d10ed3065121a3100c5e8"
 		    }
 		},
         {
@@ -2235,7 +2235,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask7.png",
-                "Hash": "55185e9a52ac06a917aa6725342e35ce"
+                "Hash": "9a12b3e77b27a2deb7ea54d8c0606eb5"
 		    }
 		}, 
         {
@@ -2246,7 +2246,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask8.png",
-                "Hash": "6eecab402b65b4b64cdf46bf12570aab"
+                "Hash": "497fcb6a45c5462ff2aced0e3197dd3e"
 		    }
 		},   
         {
