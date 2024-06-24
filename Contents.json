@@ -2209,11 +2209,11 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask6.png",
-                "Hash": "eba3aa3f77fdc12d6ac3992373002895"
+                "Hash": "8283a262f06023277fe828b401ac887d"
 		    },
             "Move": {
 		        "Address": "Eyemask6_Move.png",
-                "Hash": "8159a150336d10ed3065121a3100c5e8"
+                "Hash": "208ddd7ca4c83f561e9ca9de33af2e27"
 		    }
 		},
         {
@@ -2224,7 +2224,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask7.png",
-                "Hash": "9a12b3e77b27a2deb7ea54d8c0606eb5"
+                "Hash": "208ddd7ca4c83f561e9ca9de33af2e27"
 		    }
 		}, 
         {
@@ -2235,7 +2235,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask8.png",
-                "Hash": "3bc2adb765a3ebab215ca6223a8177bc"
+                "Hash": "d1c1732e5d2eb852061af3c1845e9f41"
 		    }
 		},   
         {
