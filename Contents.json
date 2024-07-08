@@ -354,6 +354,10 @@
                 "Address": "Cat hoodie.png",
                 "Hash": "9fea36368639367df94d5e087de9e4f0"
             },
+            "Back": {
+                "Address": "Cat hoodie_Back.png",
+                "Hash": "a07e148c6a58fde65a8655982236a204"
+            },
             "Climb": {
                 "Address": "Cat hoodie_Climb.png",
                 "Hash": "d3eda8fd499863ec5172d47874447994"
