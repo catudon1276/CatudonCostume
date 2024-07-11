@@ -6,6 +6,7 @@
 	        "Name" : "Aborigines",
 		    "Bounce": "false",
 		    "Adaptive": "false",
+            "HideHands": "true",
 		    "Main": {
 		        "Address": "Aborigines.png",
                 "Hash": "fd1016607fd430867cc7918a30fc8e6d"
