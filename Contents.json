@@ -6,7 +6,6 @@
 	        "Name" : "Aborigines",
 		    "Bounce": "false",
 		    "Adaptive": "false",
-            "HideHands": "true",
 		    "Main": {
 		        "Address": "Aborigines.png",
                 "Hash": "fd1016607fd430867cc7918a30fc8e6d"
@@ -22,6 +21,7 @@
 	        "Name" : "Adventurer",
 		    "Bounce": "false",
 		    "Adaptive": "true",
+            "HideHands": "true",
 		    "Main": {
 		        "Address": "Adventurer.png",
                 "Hash": "832578bd00be6ee41f98ec7322ad743d"
@@ -439,7 +439,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Collarcorn",
+            "Name" : "Color cone",
             "Bounce": "false",
             "Adaptive": "true",
             "IsSkinny": "true",
@@ -450,6 +450,20 @@
             "Climb": {
                 "Address": "Collarcorn_Climb.png",
                 "Hash": "5eb4a3347699a9eb236158c9d27e2ce5"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Conductor",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands": "true",
+            "FPS": "10",
+            "Main": {
+                "Address": "Conductor.png",
+                "Length":"4",
+                "Hash": "8649d64480b2a5c1aea3ef3d4abd3e64"
             }
         },
         {
@@ -620,6 +634,29 @@
                 "Hash": "b5b49b63463d7e78edd4e3c3fd012aa6"
 		    }
 		},
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Dram",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands": "true",
+            "FPS": "18",
+            "Main": {
+                "Address": "Dram.png",
+                "Length":"2",
+                "Hash": "2a18e527c380a4a838666b6c65bb2e36"
+            },
+            "Back": {
+                "Address": "Dram_Back.png",
+                "Hash": "6fd22cfb784d577cd70958cbd381a00c"
+            },
+            "Climb": {
+                "Address": "Dram_Climb.png",
+                "Hash": "f5c2218d35382074102a1318822f104e"
+            }
+
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -1789,6 +1826,29 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name" : "Trombone",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands": "true",
+            "FPS": "10",
+            "Main": {
+                "Address": "Trombone.png",
+                "Length":"4",
+                "Hash": "b6adba359b53c70d15130a1ac21f87f9"
+            },
+            "Back": {
+                "Address": "Trombone_Back.png",
+                "Hash": "f2cc1e13142029933d7fbdd6b790fb2e"
+            },
+            "Climb": {
+                "Address": "Trombone_Climb.png",
+                "Hash": "587f51bbee86ab8072895a22a8759598"
+            }
+
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Triple ",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1861,6 +1921,29 @@
                 "Address": "Vessel_Climb.png",
                 "Hash": "df42b06500caeff24c9cb7a8ae15f392"
             }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Viola",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands": "true",
+            "FPS": "12",
+            "Main": {
+                "Address": "Viola.png",
+                "Length":"4",
+                "Hash": "6649c16a5107e429aa5e88052efb3cf7"
+            },
+            "Back": {
+                "Address": "Viola_Back.png",
+                "Hash": "b4a3f21a9d818700bd7896093cbb5808"
+            },
+            "Climb": {
+                "Address": "Viola_Climb.png",
+                "Hash": "d3a0505701f34906d96f93b3613e208e"
+            }
+
         },
         {
             "Author": "catudon",
