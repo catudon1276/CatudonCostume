@@ -459,7 +459,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
-            "FPS": "6",
+            "FPS": "4",
             "Main": {
                 "Address": "Conductor.png",
                 "Length":"4",
