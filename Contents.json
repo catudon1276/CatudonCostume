@@ -459,7 +459,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
-            "FPS": "10",
+            "FPS": "6",
             "Main": {
                 "Address": "Conductor.png",
                 "Length":"4",
@@ -641,7 +641,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
-            "FPS": "18",
+            "FPS": "14",
             "Main": {
                 "Address": "Dram.png",
                 "Length":"2",
@@ -1830,7 +1830,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
-            "FPS": "10",
+            "FPS": "6",
             "Main": {
                 "Address": "Trombone.png",
                 "Length":"4",
@@ -1843,6 +1843,10 @@
             "Climb": {
                 "Address": "Trombone_Climb.png",
                 "Hash": "587f51bbee86ab8072895a22a8759598"
+            },
+            "Preview": {
+                "Address": "Trombone_Preview.png",
+                "Hash": "5611c21c4a6b860c19e9a9e71de7313c"
             }
 
         },
@@ -1929,7 +1933,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
-            "FPS": "12",
+            "FPS": "6",
             "Main": {
                 "Address": "Viola.png",
                 "Length":"4",
