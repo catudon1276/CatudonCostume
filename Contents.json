@@ -104,7 +104,7 @@
 	        "Name" : "Banana",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-                    "IsSkinny": "true",			    
+            "IsSkinny": "true",			    
 		    "Main": {
 		        "Address": "Banana.png",
                 "Hash": "01ce33424659cdbb6d09d28fc7d4656f"
@@ -2123,7 +2123,7 @@
             "Name": "Halo",
             "Adaptive": "true",
             "BackmostBack":"true",
-            "Main": {
+            "Back": {
                 "Address": "Halo.png",
                 "Hash": "75d23e8a740160a0c992b8a5f380e402"
                 
