@@ -1855,7 +1855,7 @@
             "Main": {
                 "Address": "Trombone.png",
                 "Hash": "53902f931827d388f2a1ecf7fd365826",
-                "ExAdress":"Trombone_Ex.png",
+                "ExAddress":"Trombone_Ex.png",
                 "ExHash": "ea9288c55a1e85cf00b71c2dbb74bcdd",
                 "Length":"4"
             },
@@ -1868,8 +1868,8 @@
                 "Hash": "587f51bbee86ab8072895a22a8759598"
             },
             "Preview": {
-                "Address": "Trombone_Preview.png",
-                "Hash": "1980bd27002509d642a01753033309f3"
+                "ExAddress": "Trombone_Preview.png",
+                "ExHash": "1980bd27002509d642a01753033309f3"
             }
         },
         {
