@@ -512,11 +512,11 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Deer.png",
-                "Hash": "bd66c4fd3eb476b599f8f27936bab220" 
+                "Hash": "b92ae4b4018867852471366eade17977" 
             },
             "Back": {
                 "Address": "Deer_Back.png",
-                "Hash": "6fe9f64e5996d5bceaef320eafa9ae62"
+                "Hash": "76a50aa578379cca8611e5d2b405e4b0"
             },
             "Climb": {
                 "Address": "Deer_Climb.png",
