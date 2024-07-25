@@ -664,7 +664,7 @@
             "Main": {
                 "Address": "Dram.png",
                 "Length":"2",
-                "Hash": "57267c1ed6034c6746d5d8ccc8abbc89"
+                "Hash": "5809cee6dcd8d91210819b01d0903fcd"
             },
             "Back": {
                 "Address": "Dram_Back.png",
@@ -1860,8 +1860,8 @@
                 "Length":"4"
             },
             "Back": {
-                "Address": "Trombone_Back.png",
-                "Hash": "a53bd9eeef96a198108eaa310efd824c"
+                "ExAddress": "Trombone_Back.png",
+                "ExHash": "a53bd9eeef96a198108eaa310efd824c"
             },
             "Climb": {
                 "Address": "Trombone_Climb.png",
