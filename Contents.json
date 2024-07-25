@@ -226,15 +226,15 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Busho(Red).png",
-                "Hash": "9623c9b87a6f5275e6c8d1ca6fb7d858"
+                "Hash": "05ea535fbe4d6a8da689433d11b7ed9b"
             },
             "Back": {
                 "Address": "Busho(Red)_Back.png",
-                "Hash": "de61736e652c0d02f746ba3df50266a9"
+                "Hash": "5b93cf39f683202c1d2db7580c5ef8cf"
             },
             "Climb": {
                 "Address": "Busho(Red)_Climb.png",
-                "Hash": "e568db36f674b63a472bb88039891022"
+                "Hash": "3d5f55f06ec54619e3206d8020eb59b6"
             }
         },
         {
@@ -507,6 +507,25 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Deer",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Deer.png",
+                "Hash": "bd66c4fd3eb476b599f8f27936bab220" 
+            },
+            "Back": {
+                "Address": "Deer_Back.png",
+                "Hash": "6fe9f64e5996d5bceaef320eafa9ae62"
+            },
+            "Climb": {
+                "Address": "Deer_Climb.png",
+                "Hash": "d855684d3b69e92530af77b420e1befb"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
 		    "Name" : "Delivery",
 		    "Bounce": "false",
 		    "Adaptive": "false",
@@ -645,7 +664,7 @@
             "Main": {
                 "Address": "Dram.png",
                 "Length":"2",
-                "Hash": "2a18e527c380a4a838666b6c65bb2e36"
+                "Hash": "57267c1ed6034c6746d5d8ccc8abbc89"
             },
             "Back": {
                 "Address": "Dram_Back.png",
@@ -806,9 +825,11 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
+            "FPS":"6",
             "Main": {
                 "Address": "Guitar.png",
-                "Hash": "5d51b4687c904dda25d5dbe5cdf4f3b2"
+                "Length":"4",
+                "Hash": "c939b126b3325e1685483892d9848926"
             },
             "Climb": {
                 "Address": "Guitar_Climb.png",
@@ -1833,12 +1854,14 @@
             "FPS": "6",
             "Main": {
                 "Address": "Trombone.png",
-                "Length":"4",
-                "Hash": "b6adba359b53c70d15130a1ac21f87f9"
+                "Hash": "53902f931827d388f2a1ecf7fd365826",
+                "ExAdress":"Trombone_Ex.png",
+                "ExHash": "ea9288c55a1e85cf00b71c2dbb74bcdd",
+                "Length":"4"
             },
             "Back": {
                 "Address": "Trombone_Back.png",
-                "Hash": "f2cc1e13142029933d7fbdd6b790fb2e"
+                "Hash": "a53bd9eeef96a198108eaa310efd824c"
             },
             "Climb": {
                 "Address": "Trombone_Climb.png",
@@ -1846,9 +1869,8 @@
             },
             "Preview": {
                 "Address": "Trombone_Preview.png",
-                "Hash": "5611c21c4a6b860c19e9a9e71de7313c"
+                "Hash": "1980bd27002509d642a01753033309f3"
             }
-
         },
         {
             "Author": "catudon",

@@ -84,6 +84,18 @@
     
             "author": "catudon",
             "package": "Catudon Costume SEL",
+            "name":"シカ",
+            "condition": "None",
+            "resource": "Deer.png",
+            "backresource": "Deer_Back.png",
+            "climbresource": "Deer_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
             "name":"イースターエッグ",
             "condition": "None",
             "resource": "EasterEgg.png",
