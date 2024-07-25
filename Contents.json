@@ -1854,22 +1854,24 @@
             "FPS": "6",
             "Main": {
                 "Address": "Trombone.png",
-                "Hash": "53902f931827d388f2a1ecf7fd365826",
+                "Hash": "1b0ca6bf7d4833ca117ec95ae0640d9c",
                 "ExAddress":"Trombone_Ex.png",
-                "ExHash": "ea9288c55a1e85cf00b71c2dbb74bcdd",
+                "ExHash": "9b71771cf5fa05d4c1325589fb9ed445",
                 "Length":"4"
             },
             "Back": {
                 "ExAddress": "Trombone_Back.png",
-                "ExHash": "a53bd9eeef96a198108eaa310efd824c"
+                "ExHash": "14ced59d282a8dcdabd15096a5b9c9d0"
             },
             "Climb": {
                 "Address": "Trombone_Climb.png",
                 "Hash": "587f51bbee86ab8072895a22a8759598"
             },
             "Preview": {
-                "ExAddress": "Trombone_Preview.png",
-                "ExHash": "1980bd27002509d642a01753033309f3"
+                "Address": "Trombone_Preview.png",
+                "Hash": "e983253414cc0a7e383a41d6d0de0471",
+                "ExAddress": "Trombone_Preview_Ex.png",
+                "ExHash": "f3a517b75fcfd13fab324b7e051271c9"
             }
         },
         {
