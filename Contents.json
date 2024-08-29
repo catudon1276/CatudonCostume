@@ -185,6 +185,7 @@
             "Name": "Bear",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Bear.png",
                 "Hash": "a2a93dd0ea5e7bef9e6e5516cd6ec903"
@@ -332,6 +333,7 @@
             "Name": "Cat",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Cat.png",
                 "Hash": "1848851c440d56678df3c6eacd5bc3d3"
@@ -371,6 +373,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Chicken.png",
                 "Hash": "ff2770849e23bf6e21e6f993dba141bb"
@@ -460,6 +463,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS": "4",
+	    "Tags" : ["music.conductor"],
             "Main": {
                 "Address": "Conductor.png",
                 "Length":"4",
@@ -582,6 +586,7 @@
             "Name": "Dog",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Dog.png",
                 "Hash": "432f430e8a7b314c815fe79ec166948c"
@@ -601,6 +606,7 @@
             "Name": "Dog2",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Dog2.png",
                 "Hash": "cb2739a1c52f1315e52399bad242e735"
@@ -732,6 +738,7 @@
             "Name": "Fox",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Fox.png",
                 "Hash": "df197a66814088eb0aeed9397c568989"
@@ -826,6 +833,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS":"6",
+	    "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Guitar.png",
                 "Length":"4",
@@ -1149,6 +1157,7 @@
             "Name": "Mouse",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Mouse.png",
                 "Hash": "6f5f16309ddd7cd011a7b71ace4811d8"
@@ -1306,6 +1315,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Owl.png",
                 "Hash": "ece33a651f6c73b6ca450a40234da74c"
@@ -1373,6 +1383,7 @@
             "Name": "Pig",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Pig.png",
                 "Hash": "bc8aa5bb2aaa5339e949dd11dc8f627a"
@@ -1469,6 +1480,7 @@
             "Name" : "Rabbit",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Rabbit.png",
                 "Hash": "c9adc7f8eafc1a311a2a4de2d8f74b72"
@@ -1488,6 +1500,7 @@
             "Name": "Raccoon",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Raccoon.png",
                 "Hash": "ed685e30910e5c0acbc971d863642624"
@@ -1628,6 +1641,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Sheep.png",
                 "Hash": "7f3a392f47ae28170a37bd1c6fb960df"
@@ -1781,6 +1795,7 @@
             "Name": "Tatsu",
             "Bounce": "false",
             "Adaptive": "true",
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Tatsu.png",
                 "Hash": "362ee8899786c7f50f86de258a201c95"
@@ -1852,6 +1867,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS": "6",
+	    "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Trombone.png",
                 "Hash": "1b0ca6bf7d4833ca117ec95ae0640d9c",
@@ -1903,6 +1919,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS":"8",
+	    "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Ukulele_Move.png",
                 "Length":"4",
@@ -1958,6 +1975,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS": "6",
+	    "Tags" : ["music.instruments"],
             "Main": {
                 "Address": "Viola.png",
                 "Length":"4",
@@ -2084,6 +2102,7 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Heart",
             "Adaptive": "false",
+	    "Tags" : ["party"],
             "Main": {
                 "Address": "Glass(Heart).png",
                 "Hash": "39ff0ad4b9adf4aefc1bfe63e0cc06d8"
@@ -2094,6 +2113,7 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Star",
             "Adaptive": "false",
+	    "Tags" : ["party"],
             "Main": {
                 "Address": "Glass(Star).png",
                 "Hash": "5c956a795cacbd49f7f5022c6a9ed0a5"
@@ -2114,6 +2134,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Glass - Heart(Collar)",
+	    "Tags" : ["party"],
             "Adaptive": "true",
             "Main": {
                 "Address": "Collorglass(Heart).png",
@@ -2124,6 +2145,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Glass - Star(Collar)",
+	    "Tags" : ["party"],
             "Adaptive": "true",
             "Main": {
                 "Address": "Collorglass(Star).png",
