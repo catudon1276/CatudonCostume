@@ -1975,7 +1975,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS": "6",
-	    "Tags" : ["music.instruments"],
+	    "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Viola.png",
                 "Length":"4",
