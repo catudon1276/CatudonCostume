@@ -1157,7 +1157,8 @@
             "FPS": "8",
             "Main": {
                 "Address": "Knitting.png",
-                "Hash": "a81e1e6f2c2284199115093c02467cb4"
+                "Hash": "a81e1e6f2c2284199115093c02467cb4",
+                "Length":"4"
             },
             "Back":  {
                 "Address": "Knitting_Back.png",
