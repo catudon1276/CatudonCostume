@@ -90,6 +90,7 @@
             "Name" : "Apple",
             "Bounce": "false",
             "Adaptive": "false",
+            "ExIsFront" :"true",
             "Main": {
                 "Address": "Apple.png",
                 "Hash": "16082db9c9a8c9f82c692cc8a85512ca",
@@ -2416,7 +2417,6 @@
             "Package": "Catudon Costume",
             "Name" : "Fox mask",
             "Adaptive": "true",
-            "BehindHat": "true",
             "Main": {
                 "Address": "Festival mask_Fox.png",
                 "Hash": "be455f63983c7916478784d3fab3359f"
@@ -2578,7 +2578,7 @@
             "BackmostBack":"true",
             "Fixed":"true",
             "FPS":"6",
-            "Main": {
+            "Back": {
                 "Address": "Magic squar.png",
                 "Hash": "c04690580c419b223f3951dbee510c76",
                 "Length":"5" 
@@ -2841,7 +2841,7 @@
 		    "Main": {
 		        "Address": "Eyemask9.png",
                 "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
-                "ExAddress":"Eyemask9_Ex",
+                "ExAddress":"Eyemask9_Ex.png",
                 "ExHash":"a45284c649b67b05ec9340215fe2e71d"
 		    }
 		},  
