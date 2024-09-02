@@ -123,7 +123,6 @@
             "Name" : "Astronaut",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
             "Main": {
                 "Address": "Astronaut.png",
                 "Hash": "682a7b3f8afd3b4d5845aba81ed3cb61"
@@ -2215,7 +2214,6 @@
 		    "Name" : "Wind up",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-            "HideHands": "true",
             "FPS": "6",
             "Main": {
                 "Address": "Wind up.png",
@@ -2253,7 +2251,6 @@
 		    "Name" : "Yoyo",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-            "HideHands": "true",
             "FPS": "8",
             "Main": {
                 "Address": "Yoyo.png",
