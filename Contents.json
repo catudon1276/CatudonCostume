@@ -566,21 +566,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Corn",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Corn.png",
-                "Hash": "fefb1caef0df5b089faeef02bbfdc6f7"
-            },
-            "Climb": {
-                "Address": "Corn_Climb.png",
-                "Hash": "68c2988ec02121d4814c3643736cc770"
-            }
-        },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Cowboy",
             "Bounce": "false",
             "Adaptive": "false",
@@ -2418,7 +2403,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Festival mask_Fox.png",
-                "Hash": "767a8659287f744c9700a75a5ac9e14f"
+                "Hash": "766741721562c55597ebb6d14ef0fb55"
             }
         },
         {
