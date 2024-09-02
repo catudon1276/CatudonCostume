@@ -84,7 +84,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Airplane",
+            "Name" : "Apple",
             "Bounce": "false",
             "Adaptive": "false",
             "Main": {
@@ -94,7 +94,7 @@
                 "ExHash": "0998cef15ea086be66a0cdfe9a72c6a6"
             },
             "Climb": {
-                "Address": "Airplane_Climb.png",
+                "Address": "Apple_Climb.png",
                 "Hash": "ca2f5f679342f9dae8992b3d2728f63a",
                 "ExAddress":"Apple_ExClimb.png",
                 "ExHash": "95f23db64f5722217c146422e9ce8692"
@@ -120,8 +120,8 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name" : "Arrest",
-            "Bounce": "Astronaut",
+            "Name" : "Astronaut",
+            "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
             "Main": {
@@ -210,10 +210,6 @@
                 "Address": "Baseballhat.png",
                 "Hash": "8aeaffd335aa248271582d28dcbf6c32"
             },
-            "Flip": {
-                "Address": "Baseballhat_Flip.png",
-                "Hash": "5c11ad876dfb60b9622c68922ad0ac56"
-            },
             "Climb": {
                 "Address": "Baseballhat_Climb.png",
                 "Hash": "d277af762332fa982c3a710fab885236"
@@ -228,6 +224,10 @@
             "Main": {
                 "Address": "Baseballhat(Color).png",
                 "Hash": "d52426a1e4c3cde375bc347e9ff18bca"
+            },
+            "Flip": {
+                "Address": "Baseballhat(Color)_Flip.png",
+                "Hash": "5c11ad876dfb60b9622c68922ad0ac56"
             },
             "Climb": {
                 "Address": "Baseballhat_Climb(Color).png",
@@ -507,7 +507,6 @@
             "Main": {
                 "Address": "Coccoloba.png",
                 "Hash": "aa1e2517b87968a53251f7b14c294143"
-                
             },
             "Climb": {
                 "Address": "Coccoloba_Climb.png",
