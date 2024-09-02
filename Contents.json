@@ -90,12 +90,12 @@
             "Name" : "Apple",
             "Bounce": "false",
             "Adaptive": "false",
-            "ExIsFront" :"true",
             "Main": {
                 "Address": "Apple.png",
                 "Hash": "16082db9c9a8c9f82c692cc8a85512ca",
                 "ExAddress":"Apple_Ex.png",
-                "ExHash": "0998cef15ea086be66a0cdfe9a72c6a6"
+                "ExHash": "0998cef15ea086be66a0cdfe9a72c6a6",
+                "ExIsFront" :"true"
             },
             "Climb": {
                 "Address": "Apple_Climb.png",
@@ -2463,6 +2463,7 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Heart",
             "Adaptive": "false",
+            "BehindHat": "true",
 	        "Tags" : ["party"],
             "Main": {
                 "Address": "Glass(Heart).png",
@@ -2474,6 +2475,7 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Star",
             "Adaptive": "false",
+            "BehindHat": "true",
 	        "Tags" : ["party"],
             "Main": {
                 "Address": "Glass(Star).png",
@@ -2486,6 +2488,7 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Round",
             "Adaptive": "false",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Glass(Round).png",
                 "Hash": "44cba3374c3eae8f8185b2f41e4f023b"
@@ -2496,7 +2499,8 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Heart(Collar)",
 	        "Tags" : ["party"],
-            "Adaptive": "true",
+            "Adaptive": "false",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Collorglass(Heart).png",
                 "Hash": "39ff0ad4b9adf4aefc1bfe63e0cc06d8"
@@ -2508,6 +2512,7 @@
             "Name": "Glass - Star(Collar)",
 	        "Tags" : ["party"],
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Collorglass(Star).png",
                 "Hash": "348a4b7f94b8e88d580957a351f586e1"
@@ -2519,6 +2524,7 @@
             "Package": "Catudon Costume",
             "Name": "Glass - Round(Collar)",
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Collarglass(Round).png",
                 "Hash": "1651a1c3afef530bb4ffd687b656af85"
@@ -2842,7 +2848,8 @@
 		        "Address": "Eyemask9.png",
                 "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
                 "ExAddress":"Eyemask9_Ex.png",
-                "ExHash":"a45284c649b67b05ec9340215fe2e71d"
+                "ExHash":"a45284c649b67b05ec9340215fe2e71d",
+                "ExIsFront" :"true"
 		    }
 		},  
         {
