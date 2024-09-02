@@ -59,28 +59,24 @@
             "FPS": "5",
             "Main": {
                 "Address": "Airplane.png",
-                "Hash": "bd02050e811376f3d76cdf4b7915572b",
-                "ExAddress":"Airplane_Ex.png",
-                "ExHash": "a893501aac90566891b7d136ce5f7e0a"
+                "Hash": "755184dd8d995adb4822ff7c698a9932"
             },
             "Back": {
                 "Address": "Airplane_Back.png",
-                "Hash": "096cb0f05d55ff6ab360ef261c6af5cf",
-                "ExAddress":"Airplane_ExBack.png",
-                "ExHash": "e8f982bbde5a7f61c4859a156bb7a077"
+                "Hash": "2a5987d88387a02bd4588dd63c32cc12"
             },
             "Climb": {
                 "Address": "Airplane_Climb.png",
-                "Hash": "c1bd0c022077223572e61c0853a8c703",
-                "ExAddress":"Airplane_ExClimb.png",
-                "ExHash": "0e8d68475351e03627caafecc754c5de"
+                "Hash": "85821e4b1542dc9be9b5d6694b83b574"
             },
             "Move":{
                 "Address": "Airplane_Move.png",
-                "Hash": "6443d8d4dcfe8d11aad9559f1c4586a1",
-                "ExAddress":"Airplane_ExMove.png",
-                "ExHash": "62f7c2eaba0b809e530bb95882f4d576",
+                "Hash": "9d5cd6c40e98d5ff27f8c335606b8ca0",
                 "Length":"2"
+            },
+            "Preview":{
+                "Address": "Airplane_Preview.png",
+                "Hash": "89812634a6013ad8e651c0e3150cbfe1"
             }
             
         },
@@ -130,7 +126,7 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Astronaut.png",
-                "Hash": "530766ea1d5041f3c2613c1b546201e6"
+                "Hash": "682a7b3f8afd3b4d5845aba81ed3cb61"
             },
             "Back": {
                 "Address": "Astronaut_Back.png",
@@ -138,7 +134,7 @@
             },
             "Climb": {
                 "Address": "Astronaut_Climb.png",
-                "Hash": "d77032e210d72bee027fc254ba0f6788"
+                "Hash": "b61471b0393c53e74a6beda6dc504ced"
                 
             }
         },
@@ -798,8 +794,11 @@
                 "Address": "Driver_Move.png",
                 "Hash": "dacb4ed2c5f20f9fadc99fe0accf21fb",
                 "Length":"2"
+            },
+            "Preview": {
+                "Address": "Driver_Preview.png",
+                "Hash": "2392f12837969a26a6603fb8170d947d"
             }
-
         },
         {
             "Author": "catudon",
@@ -1693,16 +1692,16 @@
             "Main": {
                 "Address": "Rapper.png",
                 "Length":"8",
-                "Hash": "8c2fe820884770e36259f2e9666098d2"
+                "Hash": "dadcd20edbf2f0ff7a44d82b19546f6b"
             },
             "Flip": {
                 "Address": "Rapper_Flip.png",
                 "Length":"8",
-                "Hash": "a37b07cdc0727dc892beb34b15b41e69"
+                "Hash": "5f0a1961300d1ee158970eb2c62a2f3e"
             },
             "Climb": {                
             "Address": "Rapper_Climb.png",
-            "Hash": "2e73479ad0ac67c08d6bf133dbdd64e5"
+            "Hash": "7f0e1aed615f3abec9cbd991999813b0"
             }
         },
         {
@@ -1715,7 +1714,7 @@
             "Main": {
                 "Address": "Rich.png",
                 "Length":"4",
-                "Hash": "79944b8d572e41df7d4e2449863250cb"
+                "Hash": "8519aabcd9299fd48a41c8bd2b8ff06c"
             },
             "Back": {
                 "Address": "Rich_Back.png",
@@ -2082,11 +2081,11 @@
 		    "Adaptive": "false",
 		    "Main": {
 		        "Address": "Tin can.png",
-                "Hash": "95dd6446799f35721411d5f7d4fef2a4"
+                "Hash": "13572247643da0456ee3d712f329abca"
 		    },
             "Back": {
 		        "Address": "Tin can_Back.png",
-                "Hash": "7d21489dbd4339743e4612192415c848"
+                "Hash": "2b6bd675d2c86114e4265459b4da77cc"
 		    },
 		    "Climb": {
 		        "Address": "Tin can_Climb.png",
@@ -2327,7 +2326,7 @@
             "Adaptive": "false",
             "Main": {
                 "Address": "Blindfold.png",
-                "Hash": "1678fda32badc17fe30909c4fb787746"
+                "Hash": "97e6872cb8b220044eec7ceefddc6ef0"
             }
         },
         {
@@ -2338,7 +2337,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Blindfold(Color).png",
-                "Hash": "5792019a28d0d1bfb423ad3479dc1824"
+                "Hash": "0f69974b0529e5367e2796eb962b7886"
             }
         },
         {
@@ -2349,7 +2348,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Blindfold(Symbol).png",
-                "Hash": "29a123e4e4901cb26d1337b560d04283"
+                "Hash": "69f97ee50f9401aba6ac8a1a8b0f3671"
             }
         },
         {
@@ -2419,7 +2418,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Festival mask_Fox.png",
-                "Hash": "be455f63983c7916478784d3fab3359f"
+                "Hash": "767a8659287f744c9700a75a5ac9e14f"
             }
         },
         {
@@ -2454,7 +2453,7 @@
             "FPS":"15",
             "Back": {
                 "Address": "Glaring.png",
-                "Hash": "c1ff763961d22cd06636fdda1ff0e267",
+                "Hash": "3fd694c5447f732257f0128818e5a4ef",
                 "Length":"2" 
             }
         },
@@ -2556,7 +2555,7 @@
             "Fixed":"true",
             "Back": {
                 "Address": "Heaven.png",
-                "Hash": "be313d94f63750980b684718e8437394"
+                "Hash": "598c35d0e9e5d45f3d19b4c1f626078c"
                 
             },
             "Climb": {
@@ -2646,7 +2645,7 @@
             "FPS":"6",
             "Back": {
                 "Address": "Sus.png",
-                "Hash": "7f199f4e9abbd8ce86ba72d0b92e3667",
+                "Hash": "a9e29ca192f59dc346d11215bf6e27b9",
                 "Length":"2" 
             }
         },
@@ -2670,12 +2669,12 @@
             "FPS":"3",
             "Back": {
                 "Address": "Timer.png",
-                "Hash": "ba188f063f95d06624cb7279a6901f93",
+                "Hash": "07c08a2d444fe55188d54bf05b7c5e7a",
                 "Length":"13" 
             },
             "BackFlip": {
                 "Address": "Timer_Flip.png",
-                "Hash": "aafa479fb431337049c77b1529a69417",
+                "Hash": "92ad710c4a449465177018851abdb08c",
                 "Length":"13" 
             },
             "Climb":{
@@ -2705,12 +2704,12 @@
             "FPS":"6",
             "Back": {
                 "Address": "Torii.png",
-                "Hash": "2f6eefedc8620cf87a336cb8a4865640",
+                "Hash": "ebf0b97ffc2753c9d9931012ccf0a10e",
                 "Length":"2" 
             },
             "Climb":{
                 "Address": "Torii_Climb.png",
-                "Hash": "ef72dd490964c3b73e34350cfd01e69d",
+                "Hash": "b42ba7a6cddd872cab1605ca3ad482c7",
                 "Length":"2" 
             }
         },
