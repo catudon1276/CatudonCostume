@@ -78,8 +78,11 @@
             "Move":{
                 "Address": "Airplane_Move.png",
                 "Hash": "6443d8d4dcfe8d11aad9559f1c4586a1",
+                "ExAddress":"Airplane_Ex.png",
+                "ExHash": "a893501aac90566891b7d136ce5f7e0a",
                 "Length":"2"
             }
+            
         },
         {
             "Author": "catudon",
@@ -1236,11 +1239,11 @@
 		    },
             "Back": {
 		        "Address": "Look at this!_Back.png",
-                "Hash": "e06695149c1ff0a67181f1405a7b3259"
+                "Hash": "1f5ba1fb523cc1ff8c5dcd6b97d95f3d"
 		    },
 		    "Climb": {
 		        "Address": "Look at this!_Climb.png",
-                "Hash": "f20c906d8316f8c02ca65ccde1b701be"
+                "Hash": "62da4f483615b8b1419a256b1bc956b4"
 		    }
 		},
         {
@@ -1684,7 +1687,7 @@
             "Bounce": "false",
             "Adaptive": "true",
 	        "HideHands":"true",
-    	    "FPS": "12",
+    	    "FPS": "16",
             "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Rapper.png",
@@ -1707,7 +1710,7 @@
             "Name" : "Rich",
             "Bounce": "false",
             "Adaptive": "true",
-    	    "FPS": "3",
+    	    "FPS": "6",
             "Main": {
                 "Address": "Rich.png",
                 "Length":"4",
@@ -1831,7 +1834,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "HideHands": "true",
-	    "Tags" : ["animal"],
+	        "Tags" : ["animal"],
             "Main": {
                 "Address": "Sheep.png",
                 "Hash": "7f3a392f47ae28170a37bd1c6fb960df"
@@ -1984,7 +1987,7 @@
             "FPS": "5", 
             "Main": {
                 "Address": "Tank.png",
-                "Hash": "3c4af6fa133b7dd54ff5c82cdf2636ac"
+                "Hash": "eb56048f9b0351341aec7fdafdafce54"
             },
             "Back": {
                 "Address": "Tank_Back.png",
@@ -2287,7 +2290,7 @@
             "BackmostBack":"true",
             "Fixed":"true",
             "FPS":"15",
-            "Main": {
+            "Back": {
                 "Address": "Aura.png",
                 "Hash": "4ca1cac0e79d03fc8725981f003beb32",
                 "Length":"2" 
@@ -2298,6 +2301,7 @@
             "Package": "Catudon Costume",
             "Name": "Black sunglasses",
             "Adaptive": "false",
+            "BehindHat": "true",
             "Tags" : ["party"],
             "Main": {
                 "Address": "Black sunglasses.png",
@@ -2365,7 +2369,7 @@
             "BackmostBack":"true",
             "Fixed":"true",
             "FPS":"15",
-            "Main": {
+            "Back": {
                 "Address": "Equalizer.png",
                 "Hash": "693f33c125a00ce91da75664b2d16db1",
                 "Length":"6" 
@@ -2412,6 +2416,7 @@
             "Package": "Catudon Costume",
             "Name" : "Fox mask",
             "Adaptive": "true",
+            "BehindHat": "true",
             "Main": {
                 "Address": "Festival mask_Fox.png",
                 "Hash": "be455f63983c7916478784d3fab3359f"
@@ -2447,7 +2452,7 @@
             "BackmostBack":"true",
             "Fixed":"true",
             "FPS":"15",
-            "Main": {
+            "Back": {
                 "Address": "Glaring.png",
                 "Hash": "c1ff763961d22cd06636fdda1ff0e267",
                 "Length":"2" 
@@ -2569,7 +2574,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Magic squar",
-            "Adaptive": "true",
+            "Adaptive": "false",
             "BackmostBack":"true",
             "Fixed":"true",
             "FPS":"6",
@@ -2632,8 +2637,8 @@
             "Adaptive": "false",
             "BackmostBack":"true",
             "Fixed":"true",
-            "FPS":"15",
-            "Main": {
+            "FPS":"6",
+            "Back": {
                 "Address": "Sus.png",
                 "Hash": "7f199f4e9abbd8ce86ba72d0b92e3667",
                 "Length":"2" 
@@ -2656,13 +2661,13 @@
             "Adaptive": "true",
             "BackmostBack":"true",
             "Fixed":"true",
-            "FPS":"5",
-            "Main": {
+            "FPS":"3",
+            "Back": {
                 "Address": "Timer.png",
                 "Hash": "ba188f063f95d06624cb7279a6901f93",
                 "Length":"13" 
             },
-            "Flip": {
+            "BackFlip": {
                 "Address": "Timer_Flip.png",
                 "Hash": "aafa479fb431337049c77b1529a69417",
                 "Length":"13" 
@@ -2688,11 +2693,11 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Torii",
-            "Adaptive": "true",
+            "Adaptive": "false",
             "BackmostBack":"true",
             "Fixed":"true",
-            "FPS":"13",
-            "Main": {
+            "FPS":"6",
+            "Back": {
                 "Address": "Torii.png",
                 "Hash": "2f6eefedc8620cf87a336cb8a4865640",
                 "Length":"2" 
@@ -2838,7 +2843,6 @@
                 "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
                 "ExAddress":"Eyemask9_Ex",
                 "ExHash":"a45284c649b67b05ec9340215fe2e71d"
-
 		    }
 		},  
         {
