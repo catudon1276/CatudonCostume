@@ -740,6 +740,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "FPS": "14",
+            "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Dram.png",
                 "Length":"2",
