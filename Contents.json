@@ -627,7 +627,7 @@
 		    },
             "Move": {
 		        "Address": "Delivery_Move.png",
-                "Hash": "4f2e90097a54dab1fc93f6f3a43332cc"
+                "Hash": "335281397303fd3c8e38ef69d4d60d97"
 		    }
 		},
         {
@@ -652,10 +652,12 @@
             "Name" : "DJ",
             "Bounce": "false",
             "Adaptive": "true",
+            "FPS": "4",
             "Tags" : ["music.instrument","party"],
             "Main": {
                 "Address": "DJ.png",
-                "Hash": "6857a4bd066da7ac08364ddf7cca1163"
+                "Hash": "4bd38abae23e073a56d40cc2eb64981d",
+                "Length":"2"
             },
             "Back": {
                 "Address": "DJ_Back.png",
@@ -2638,7 +2640,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Magic squar2",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "BackmostBack":"true",
             "Fixed":"true",
             "FPS":"6",
