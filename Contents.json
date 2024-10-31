@@ -652,7 +652,7 @@
             "Name" : "DJ",
             "Bounce": "false",
             "Adaptive": "true",
-            "FPS": "4",
+            "FPS": "3",
             "Tags" : ["music.instrument","party"],
             "Main": {
                 "Address": "DJ.png",
