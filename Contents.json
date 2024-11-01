@@ -1152,22 +1152,22 @@
             },
             "SeekerAlternative" : {
                 "Author" : "catudon",
-                "Name" : "Gentleman(Se)"
+                "Name" : "Gentleman2(Se)"
             }
 	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-	        "Name" : "Gentleman(Se)",
+	        "Name" : "Gentleman2(Se)",
 		    "Bounce": "false",
 		    "Adaptive": "false",
             "IsHidden" : "true",
 		    "Main": {
-		        "Address": "Gentleman(Se).png",
+		        "Address": "Gentleman2(Se).png",
                 "Hash": "2430be0eda059340f7398536382d3df2"
 		    },
             "Climb": {
-                "Address": "Gentleman(Se)_Climb.png",
+                "Address": "Gentleman2(Se)_Climb.png",
                 "Hash": "e4d591744263a69f6b97c31d73896ff9"
 		    }
 	    },	
