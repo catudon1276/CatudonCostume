@@ -70,6 +70,10 @@
 		        "Address": "Adventurer(Se).png",
                 "Hash": "6180f4d2835ae5f9de8904091cb5e521"
 		    },
+            "Back":{
+		        "Address":"Adventurer_Back.png",
+                "Hash": "7d4750f675563e73c8c0f7b88cdded5c"
+		    },
 		    "Climb": {
 		        "ExAddress": "Adventurer(Se)_Climb.png",
                 "ExHash": "200e91687e4aee09dcbd2a4ae10996d0"
@@ -169,7 +173,7 @@
             "Package": "Catudon Costume",
 	        "Name" : "Apple(Se)",
 		    "Bounce": "false",
-            "Adaptive": "true",
+            "Adaptive": "false",
             "IsHidden" : "true",
             "Main": {
                 "Address": "Apple(Se).png",
@@ -469,6 +473,7 @@
 	        "Name" : "Can(Se)",
 		    "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "IsHidden" : "true",
 		    "Main": {
 		        "Address": "Can(Se).png",
@@ -485,6 +490,7 @@
             "Name": "Candle",
             "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Candle.png",
                 "Hash": "5116ffc99ba7c6f317f58ca943f5673c" 
@@ -648,6 +654,7 @@
 	        "Name" : "Collarcorn(Se)",
 		    "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "IsHidden" : "true",
 		    "Main": {
 		        "Address": "Collarcorn(Se).png",
@@ -1044,6 +1051,7 @@
 	        "Name" : "Easter(Se)",
 		    "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "IsHidden" : "true",
 		    "Main": {
 		        "Address": "Easter(Se).png",
@@ -1219,11 +1227,11 @@
             "Adaptive": "true",
             "IsHidden" : "true",
 		    "Main": {
-		        "Address": "Gentleman(Se).png",
+		        "Address": "Guardian(Se).png",
                 "Hash": "2b75222b442f617a249458de5e735a88"
 		    },
             "Climb": {
-                "Address": "Gentleman(Se)_Climb.png",
+                "Address": "Guardian(Se)_Climb.png",
                 "Hash": "81ad6c642af996e512146c9c810c02c7"
 		    }
 	    },	
@@ -2562,7 +2570,11 @@
             "Climb": {
                 "Address": "Sister(Se)_Climb.png",
                 "Hash": "a9d96fd857949c10d8557d7b0d614ba8"
-		    }
+		    },
+            "Back":{
+                "Address": "Sister_Back.png",
+                "Hash": "cb4da97bf631311391998fc3035c1b79"
+            }
 	    },
         {
             "Author": "catudon",
@@ -2934,6 +2946,7 @@
 	        "Name" : "Vending machine(Se)",
 		    "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "IsHidden" : "true",
 		    "Main": {
 		        "Address": "Vending machine(Se).png",
