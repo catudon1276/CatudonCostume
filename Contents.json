@@ -2938,11 +2938,11 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "SWAT.png",
-                "Hash": "8820c7aada2e21495b94b0845359ed03"
+                "Hash": "9b353fede3b78d42f0330107f84761ed"
             },
             "Climb": {
                 "Address": "SWAT_Climb.png",
-                "Hash": "b63e812453e82418eb9634c4f10db0a3"
+                "Hash": "c0ed21f63dd3dad8e4430862b513b22d"
             },
             "SeekerAlternative" : {
                 "Author" : "catudon",
@@ -2962,11 +2962,11 @@
             "IsHidden": "true",
 		    "Main": {
 		        "Address": "SWAT(Se).png",
-                "Hash": "f325401507b172e9e852ba0db7f64696"
+                "Hash": "0d78cd37aa92ae06facf2c92cf528bd2"
 		    },
             "Climb": {
                 "Address": "SWAT(Se)_Climb.png",
-                "Hash": "8fb10cbfe38d516bed35e3c73d8bf124"
+                "Hash": "a92f3965451c96e07abb091a183c8a95"
             }
 	    },
         {
@@ -2979,11 +2979,11 @@
             "HideHands":"true",
 		    "Main": {
 		        "Address": "SWAT(Rw).png",
-                "Hash": "a8c37da4751153b5651244377762438e"
+                "Hash": "4109e6f3723ac3a38062be8e3e2cfac9"
 		    },
             "Climb": {
                 "Address": "SWAT(Rw)_Climb.png",
-                "Hash": "45c75d98d6be0ca01620c306a3c1c742"
+                "Hash": "2b50acd7187f44d1907337457e190819"
             },
             "SeekerAlternative" : {
                 "Author" : "catudon",
@@ -3308,7 +3308,7 @@
 		    "Adaptive": "true",
 		    "Main": {
 		        "Address": "Turban.png",
-                "Hash": "77019be5dc1b6b293e25a92f62b76358"
+                "Hash": "c429ba27340cf6cbc2c2b7c2c7520199"
 		    },
 		    "Climb": {
 		        "Address": "Turban_Climb.png",
@@ -3328,7 +3328,7 @@
             "IsHidden" : "true",
 		    "Main": {
 		        "Address": "Turban(Se).png",
-                "Hash": "7699462ea62b3971830ebccf3ca5d82c"
+                "Hash": "0d34655343509c9f2c15283d94e421ab"
 		    },
             "Climb": {
                 "Address": "Turban(Se)_Climb.png",
@@ -3447,7 +3447,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Wagasa.png",
-                "Hash": "cae15bfd61b03fe7b12abaab46c30025"
+                "Hash": "51a1a3596bc57700293e407650b5d1c3"
             },
             "Climb": {
                 "Address": "Wagasa_Climb.png",
