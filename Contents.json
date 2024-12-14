@@ -560,7 +560,6 @@
             "Package": "Catudon Costume",
             "Name" : "Chef",
             "Bounce": "false",
-            "IsSkinny": "true",	
             "Adaptive": "true",
             "FPS": "8",
             "Main": {
@@ -1103,7 +1102,7 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
             "HideHands":"true",
-            "FPS":"8",
+            "FPS":"4",
 		    "Main": {
 		        "Address": "Dumbbell.png",
                 "Hash": "98ca1cab8831a2e1663ebdf8589b2407",
@@ -1796,6 +1795,10 @@
                 "ExHash": "84169ceef3fd7fc19c05eca48cfc7d52",
                 "Length": "3"
             },
+            "Back": {
+                "Address": "Mexican_Back.png",
+                "Hash": "0d981557bde1c0b9a21f9043fdf18707"
+            },
             "Climb": {
                 "Address": "Mexican_Climb.png",
                 "Hash": "b01ceef6230e6e42ec31f0f652d25d15"
@@ -2438,11 +2441,11 @@
             "HideHands":"true",
 		    "Main": {
 		        "Address": "Reading.png",
-                "Hash": "417e5235fb1394ac9870ecbcd4b2732f"
+                "Hash": "b13cfd3bb27559109829b10f402a18e4"
 		    },
             "Climb": {
                 "Address": "Reading_Climb.png",
-                "Hash": "b5a3e5193b7d97a7f56713ce260f0c44"
+                "Hash": "9520a455d26d34dc6113eaaf0d7a0558"
             },
             "OnButton" : {
                 "Author" : "catudon",
@@ -2463,7 +2466,7 @@
 		    },
             "Climb": {
                 "Address": "Reading_Climb.png",
-                "Hash": "b5a3e5193b7d97a7f56713ce260f0c44"
+                "Hash": "9520a455d26d34dc6113eaaf0d7a0558"
             },
             "OnButton" : {
                 "Author" : "catudon",
@@ -3173,7 +3176,8 @@
 		        "Address": "Tontu.png",
                 "Hash": "ccf915a0f5515c93d408ec1e057254d8",
                 "ExAddress": "Tontu_Ex.png",
-                "ExHash": "f8ac75a1918d66b88e6cdafe558bd076"
+                "ExHash": "f8ac75a1918d66b88e6cdafe558bd076",
+                "ExIsFront":"true"
 		    },
 		    "Climb": {
 		        "Address": "Tontu_Climb.png",
@@ -3762,7 +3766,7 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Darts.png",
-                "Hash": "b0ad07875bd1bc9cd6f8fa7f9179f56d"
+                "Hash": "ac2f96b677212aca0b0999b7e84aa228"
             }
         },
         {
