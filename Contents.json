@@ -1796,8 +1796,8 @@
                 "Length": "3"
             },
             "Back": {
-                "Address": "Mexican_Back.png",
-                "Hash": "0d981557bde1c0b9a21f9043fdf18707"
+                "ExAddress": "Mexican_Back.png",
+                "ExHash": "0d981557bde1c0b9a21f9043fdf18707"
             },
             "Climb": {
                 "Address": "Mexican_Climb.png",
