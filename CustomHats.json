@@ -202,6 +202,53 @@
             "climbresource": "Tatsu_Climb.png",
             "adaptive": true
             
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"サンタ",
+            "condition": "None",
+            "resource": "Santa Claus.png",
+            "climbresource": "Santa Claus_Climb.png",
+            "adaptive": false
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"プロデューサーさん",
+            "condition": "None",
+            "resource": "Producer.png",
+            "flipresource": "Producer_Flip.png",
+            "climbresource": "Producer_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"おおつぼ",
+            "condition": "None",
+            "resource": "Vessel.png",
+            "backresource": "Vessel_Back.png",
+            "climbresource": "Vessel_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
+            "name":"挑戦者",
+            "condition": "None",
+            "resource": "Quiz.png",
+            "flipresource": "Quiz_Flip.png",
+            "climbresource": "Quiz_Climb.png",
+            "adaptive": true
+            
         }
     ]
 }
