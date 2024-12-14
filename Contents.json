@@ -1791,7 +1791,7 @@
                 "Hash": "b904cadcacf968ec9b6878bc7bbcf80a",
                 "ExAddress": "Mexican_Ex.png",
                 "ExHash": "2e4ab07af209702d1b0f466f96d18d52",
-                "ExIsFront":"true"
+                "Length": "3"
             },
             "Climb": {
                 "Address": "Mexican_Climb.png",
@@ -2247,7 +2247,7 @@
             "Package": "Catudon Costume",
 	        "Name" : "Producer",
 		    "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
 		    "Main": {
 		        "Address": "Producer.png",
                 "Hash": "98fb7b8d962c8bc0b5d250caa6f258fa"
