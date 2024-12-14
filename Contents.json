@@ -558,6 +558,74 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name" : "Chef",
+            "Bounce": "false",
+            "IsSkinny": "true",	
+            "Adaptive": "true",
+            "FPS": "8",
+            "Main": {
+                "Address": "Chef.png",
+                "Hash": "1be397907170ace095dae677695810af",
+                "Length":"4"
+            },
+            "Climb": {
+                "Address": "Chef_Climb.png",
+                "Hash": "a8d35469492d46a9628f83bd40cbbf77"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Chef(Se)"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Chef(Rw)"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Chef(Se)",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "IsSkinny": "true",	
+            "IsHidden": "true",
+            "Main": {
+                "Address": "Chef(Se).png",
+                "Hash": "5612df7ec3904e1bb3f4e9e8a40fcd6d"
+            },
+            "Climb": {
+                "Address": "Chef_Climb.png",
+                "Hash": "a8d35469492d46a9628f83bd40cbbf77"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Chef(Rw)",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "IsSkinny": "true",	
+            "IsHidden": "true",
+            "Main": {
+                "Address": "Chef(Rw).png",
+                "Hash": "bb205f81bb360b6c187773e594561258"
+            },
+            "Climb": {
+                "Address": "Chef_Climb.png",
+                "Hash": "a8d35469492d46a9628f83bd40cbbf77"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Chef(Se)"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Chef"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Chicken",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1023,6 +1091,24 @@
 		    "Climb": {
 		        "Address": "Drunk_Climb.png",
                 "Hash": "c23d64a4c82882401589eee25ce3f264"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Dumbbell",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+            "HideHands":"true",
+            "FPS":"8",
+		    "Main": {
+		        "Address": "Dumbbell.png",
+                "Hash": "98ca1cab8831a2e1663ebdf8589b2407",
+                "Length":"2"
+		    },
+		    "Climb": {
+		        "Address": "Dumbbell_Climb.png",
+                "Hash": "215c7df4744308640c37504f54d47cf4"
             }
 	    },
         {
@@ -1529,6 +1615,41 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Kindergartener",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Kindergartener.png",
+                "Hash": "216e618e48721714c70ae89ff546719b"
+            },
+            "Climb": {
+                "Address": "Kindergartener_Climb.png",
+                "Hash": "8cc62d05c30ce10bd8450ac4850343cd"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Kindergartener(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Kindergartener(Se)",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "IsHidden" : "true",
+            "Main": {
+                "Address": "Kindergartener(Se).png",
+                "Hash": "3cab97b8b95009c7adb245b920ad7e1f"
+            },
+            "Climb": {
+                "Address": "Kindergartener(Se)_Climb.png",
+                "Hash": "d71d83c0735e977c05738a71e0268faf"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Knitting",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1660,12 +1781,32 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Mexican",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",
+            "FPS":"8",
+            "Main": {
+                "Address": "Mexican.png",
+                "Hash": "b904cadcacf968ec9b6878bc7bbcf80a",
+                "ExAddress": "Mexican_Ex.png",
+                "ExHash": "2e4ab07af209702d1b0f466f96d18d52",
+                "ExIsFront":"true"
+            },
+            "Climb": {
+                "Address": "Mexican_Climb.png",
+                "Hash": "b01ceef6230e6e42ec31f0f652d25d15"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Miko",
             "Bounce": "false",
             "Adaptive": "false",
             "Main": {
                 "Address": "Miko.png",
-                "Hash": "03a800dc521db2ec564ad70cb1b495ee"
+                "Hash": "1b2e5dc9971be03b74f70d0f1a522228"
             },
             "Climb": {
                 "Address": "Miko_Climb.png",
@@ -2046,6 +2187,7 @@
 		    "Bounce": "false",
             "Adaptive": "false",
             "IsHidden" : "true",
+            "SeekerCostume":"false",
 		    "Main": {
 		        "Address": "Pirate(Se).png",
                 "Hash": "417e5235fb1394ac9870ecbcd4b2732f"
@@ -2053,6 +2195,31 @@
             "Climb": {
                 "Address": "Pirate(Se)_Climb.png",
                 "Hash": "b447819fc2c7a782b4a0803c18e59e85"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Pot",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "FPS": "20",
+		    "Main": {
+		        "Address": "Pot.png",
+                "Hash": "07b3abf977a79cefe64133d5363a3649",
+                "Length":"9"
+		    },
+            "Back": {
+                "Address": "Pot_Back.png",
+                "Hash": "363bfdb90cb0ba6e1d27c6a2ca063be9"
+		    },
+            "Climb": {
+                "Address": "Pot_Climb.png",
+                "Hash": "ec77e862a92034ccfc0a01c167a26147"
+		    },
+            "Preview": {
+                "Address": "Pot_Preview.png",
+                "Hash": "ca7dda3f42b82afb042c99a5d7a43c35"
 		    }
 	    },
         {
@@ -2075,6 +2242,25 @@
                 "Hash": "020318305c87c120795b5a6ff23a4f54"
 		    }
 		}, 
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Producer",
+		    "Bounce": "false",
+            "Adaptive": "false",
+		    "Main": {
+		        "Address": "Producer.png",
+                "Hash": "98fb7b8d962c8bc0b5d250caa6f258fa"
+		    },
+            "Flip": {
+                "Address": "Producer_Flip.png",
+                "Hash": "b49afd89bfa4d72bfe3dce87567807c8"
+		    },
+            "Climb": {
+                "Address": "Producer_Climb.png",
+                "Hash": "7a6188269080e7eadc461f1a69d586b0"
+		    }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -2243,6 +2429,47 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+	        "Name" : "Reading",
+		    "Bounce": "false",
+            "Adaptive": "false",
+            "HideHands":"true",
+		    "Main": {
+		        "Address": "Reading.png",
+                "Hash": "417e5235fb1394ac9870ecbcd4b2732f"
+		    },
+            "Climb": {
+                "Address": "Reading_Climb.png",
+                "Hash": "b5a3e5193b7d97a7f56713ce260f0c44"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Reading(Rw)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Reading(Rw)",
+		    "Bounce": "false",
+            "Adaptive": "false",
+            "IsHidden" : "true",
+            "HideHands":"true",
+		    "Main": {
+		        "Address": "Reading(Rw).png",
+                "Hash": "e6a9fbb43f8187be3819842992eb555b"
+		    },
+            "Climb": {
+                "Address": "Reading_Climb.png",
+                "Hash": "b5a3e5193b7d97a7f56713ce260f0c44"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Reading"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Reaper",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2250,7 +2477,7 @@
             "SeekerCostume": "false",            
             "Main": {
                 "Address": "Reaper.png",
-                "Hash": "b468ea6533aba31b7bff69586af901d0"
+                "Hash": "4e7020ef01a410a8c89721e962c55dbf"
             },
             "Back": {
                 "Address": "Reaper_Back.png",
@@ -2261,6 +2488,21 @@
                 "Hash": "a1a13d2a0eb202c0c8475094458d1f31"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Revolver",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Revolver.png",
+                "Hash": "6fcaf5c7ab9b9e1e0bea31f5dabe8a39"
+            },
+            "Climb": {
+                "Address": "Revolver_Climb.png",
+                "Hash": "e78f19d9fe216cd94675dde971fa0180"
+            }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -2282,6 +2524,21 @@
                 "Hash": "abec9c2852eba3183c2ece13fb46df11"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Roof",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Roof.png",
+                "Hash": "cfdd67d19edf9f92cfc896d53a40bb98"
+            },
+            "Climb": {
+                "Address": "Roof_Climb.png",
+                "Hash": "6a4ac0c4eb0a9d8a53d2adcdf82291a4"
+            }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -2487,6 +2744,26 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Shopping",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands": "true",
+            "Main": {
+                "Address": "Shopping.png",
+                "Hash": "0ec0680792bd294f50578d85440a2ef3",
+                "ExAddress": "Shopping_Ex.png",
+                "ExHash": "1f68dc10a898835e5c8c4fb68065deb8"
+            },
+            "Back": {
+                "Address": "Shopping_Back.png",
+                "Hash": "c1047942a4c0b2596eef774036a13e7d",
+                "ExAddress": "Shopping_ExBack.png",
+                "ExHash": "c126dc75a7e81f1dfd46605ab07e9506"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
 		    "Name" : "Signboard",
 		    "Bounce": "false",
             "HideHands":"true",
@@ -2647,6 +2924,70 @@
                 "Hash": "aaef79cb4f02c8689fde68029c9e5a8c"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "SWAT",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "SWAT.png",
+                "Hash": "d5f29ff901d46111af9776febdef9265"
+            },
+            "Climb": {
+                "Address": "SWAT_Climb.png",
+                "Hash": "d5871ff428e9841aeb858cb237fc25d0"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "SWAT(Se)"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "SWAT(Rw)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "SWAT(Se)",
+		    "Bounce": "false",
+            "Adaptive": "false",
+            "IsHidden": "true",
+		    "Main": {
+		        "Address": "SWAT(Se).png",
+                "Hash": "f325401507b172e9e852ba0db7f64696"
+		    },
+            "Climb": {
+                "Address": "SWAT(Se)_Climb.png",
+                "Hash": "8fb10cbfe38d516bed35e3c73d8bf124"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "SWAT(Rw)",
+		    "Bounce": "false",
+            "Adaptive": "false",
+            "IsHidden": "true",
+            "HideHands":"true",
+		    "Main": {
+		        "Address": "SWAT(Rw).png",
+                "Hash": "947d73a2703d1168e4b21d458b12ebda"
+		    },
+            "Climb": {
+                "Address": "SWAT(Rw)_Climb.png",
+                "Hash": "e3974dbad90f8c71e45f1fcbd424be6b"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "SWAT(Se)"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "SWAT"
+            }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -2822,6 +3163,43 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+		    "Name" : "Tontu",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Main": {
+		        "Address": "Tontu.png",
+                "Hash": "ccf915a0f5515c93d408ec1e057254d8",
+                "ExAddress": "Tontu_Ex.png",
+                "ExHash": "f8ac75a1918d66b88e6cdafe558bd076"
+		    },
+		    "Climb": {
+		        "Address": "Tontu_Climb.png",
+                "Hash": "50ac55d33d18b3d38e86b78b544df8a8"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Tontu(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Tontu(Se)",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Tontu(Se).png",
+                "Hash": "59a1467ace773d38b3802f0e3d2f2fc3"
+		    },
+            "Climb": {
+                "Address": "Tontu(Se)_Climb.png",
+                "Hash": "b1203dcd6ffceaee3238d27c802c594c"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Trombone",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2881,6 +3259,78 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+		    "Name" : "Tube",
+		    "Bounce": "false",
+            "IsSkinny": "true",	
+		    "Adaptive": "true",
+		    "Main": {
+		        "Address": "Tube.png",
+                "Hash": "d2bec3a862a23f460323ab2dd3278f0e"
+		    },
+		    "Climb": {
+		        "Address": "Tube_Climb.png",
+                "Hash": "f1cead928a1f1cfb0376eee47f692d8c"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Tube(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Tube(Se)",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "IsSkinny": "true",	
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Tube(Se).png",
+                "Hash": "30d97edf83e954f9d6afe5666bb57824"
+		    },
+            "Climb": {
+                "Address": "Tube(Se)_Climb.png",
+                "Hash": "2e21c167bd5949899f298391b77a4c67"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Turban",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+		    "Main": {
+		        "Address": "Turban.png",
+                "Hash": "77019be5dc1b6b293e25a92f62b76358"
+		    },
+		    "Climb": {
+		        "Address": "Turban_Climb.png",
+                "Hash": "de27f1fad65bd1de6b850d837562f8b9"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Turban(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Turban(Se)",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Turban(Se).png",
+                "Hash": "7699462ea62b3971830ebccf3ca5d82c"
+		    },
+            "Climb": {
+                "Address": "Turban(Se)_Climb.png",
+                "Hash": "b63d02e1d6ea912275c60539aea0c52a"
+		    }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Triple ",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2903,6 +3353,22 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+		    "Name" : "UFO",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+            "SeekerCostume":"false",
+		    "Main": {
+		        "Address": "UFO.png",
+                "Hash": "95d72a3a8933c5eeca5fac75d10f589d"
+		    },
+		    "Climb": {
+		        "Address": "UFO_Climb.png",
+                "Hash": "5e1a1d78041514b70321745ef3638b46"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Ukulele",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2919,6 +3385,102 @@
                 "Hash": "4c3c140ec59f3360dcfbeb956c78a4ed"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Umbrella",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Umbrella.png",
+                "Hash": "5140ab5fdc7f65b7d8f06ff0cda6f67e"
+            },
+            "Climb": {
+                "Address": "Umbrella_Climb.png",
+                "Hash": "ff886cf50c11005152232667dc26e7a3"
+            },
+            "Preview": {
+                "Address": "Umbrella_Preview.png",
+                "Hash": "73fb7bb0d4916041da7d236c2c663117"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Umbrella(Rw)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Umbrella(Rw)",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "IsHidden": "true",
+		    "Main": {
+		        "Address": "Umbrella(Rw).png",
+                "Hash": "9db2cf7638248061cb599bef7ea5c11a"
+		    },
+            "Back": {
+                "Address": "Umbrella(Rw)_Back.png",
+                "Hash": "1abf94134f7730969c143bf17f567857"
+            },
+            "Climb": {
+                "Address": "Umbrella_Climb.png",
+                "Hash": "ff886cf50c11005152232667dc26e7a3"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Umbrella"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Wagasa",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Wagasa.png",
+                "Hash": "9889f7b01126a8ad149f48233d01ca0b"
+            },
+            "Climb": {
+                "Address": "Wagasa_Climb.png",
+                "Hash": "31e39aeadb90f16b24cb405d6c7463c1"
+            },
+            "Preview": {
+                "Address": "Wagasa_Preview.png",
+                "Hash": "ae3f460c9a8d8b6c9a2d948aca6c9ee8"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Wagasa(Rw)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Wagasa(Rw)",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "IsHidden": "true",
+		    "Main": {
+		        "Address": "Wagasa(Rw).png",
+                "Hash": "4dedb2119b108c1bbea7db07d2b20801",
+                "ExAddress": "Wagasa(Rw)_Ex.png",
+                "ExHash": "823dd1196c9a91432248f69bdbfd5cda"    
+		    },
+            "Back": {
+                "Address": "Wagasa(Rw)_Back.png",
+                "Hash": "c55193f1efdb13d75df4571454976b5e"
+            },
+            "Climb": {
+                "Address": "Wagasa.png",
+                "Hash": "31e39aeadb90f16b24cb405d6c7463c1"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Wagasa"
+            }
+	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -3080,6 +3642,93 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Aura2",
+            "Adaptive": "false",
+            "BackmostBack":"true",
+            "Fixed":"true",
+            "FPS":"15",
+            "Back": {
+                "Address": "Aura2.png",
+                "Hash": "f656c9630fcd882f1a5248978f116977",
+                "Length":"2" 
+            },
+            "Preview":{
+                "Address": "Aura2_Preview.png",
+                "Hash": "5b12d8156d7f04177c8187a22cf58bfa"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Battery",
+            "Adaptive": "false",
+            "BackmostBack":"true",
+            "Fixed":"true",
+            "Back": {
+                "Address": "Battery.png",
+                "Hash": "762507b990decac03565f3c30486149f"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Battery(Rw)"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Battery(Rw)",
+            "Adaptive": "false",
+            "BackmostBack":"true",
+            "IsHidden": "true",
+            "Fixed":"true",
+            "Back": {
+                "Address": "Battery(Rw).png",
+                "Hash": "5a7e3e55dba1235a0d1d760ae1643a5a"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Battery(Rw2)"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Battery(Rw2)",
+            "Adaptive": "false",
+            "BackmostBack":"true",
+            "IsHidden": "true",
+            "Fixed":"true",
+            "Back": {
+                "Address": "Battery(Rw).png",
+                "Hash": "5a7e3e55dba1235a0d1d760ae1643a5a"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Battery(Rw3)"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Battery(Rw3)",
+            "Adaptive": "false",
+            "BackmostBack":"true",
+            "IsHidden": "true",
+            "Fixed":"true",
+            "FPS":"3",
+            "Back": {
+                "Address": "Battery(Rw3).png",
+                "Hash": "5a7e3e55dba1235a0d1d760ae1643a5a",
+                "Length":"5"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Battery"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Black sunglasses",
             "Adaptive": "false",
             "BehindHat": "true",
@@ -3170,6 +3819,16 @@
             "Main": {
                 "Address": "Dark.png",
                 "Hash": "c8572c9b76589380bfeb2a4c40d2f638"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "Darts",
+            "Adaptive": "true",
+            "Main": {
+                "Address": "Darts.png",
+                "Hash": "b0ad07875bd1bc9cd6f8fa7f9179f56d"
             }
         },
         {
@@ -3680,6 +4339,21 @@
                 "Hash": "3af1791d261b32e1e2f358421ae5623e"
 		    }
 		},   
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+		    "Name" : "Eyemask11",
+		    "Adaptive": "true",
+            "BehindHat": "true",
+		    "Main": {
+		        "Address": "Eyemask11.png",
+                "Hash": "9714ec41a6ba494eaf3d05c22c2b74c5"
+		    },
+            "Move": {
+		        "Address": "Eyemask11_Move.png",
+                "Hash": "2fedc65abada00633b9b4ed067aa0f76"
+		    }
+		},
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
