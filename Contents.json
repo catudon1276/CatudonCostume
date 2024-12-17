@@ -1790,9 +1790,9 @@
             "FPS":"8",
             "Main": {
                 "Address": "Mexican.png",
-                "Hash": "b904cadcacf968ec9b6878bc7bbcf80a",
+                "Hash": "26a0cafaaf81bc12a4ee86756f4cc42e",
                 "ExAddress": "Mexican_Ex.png",
-                "ExHash": "84169ceef3fd7fc19c05eca48cfc7d52",
+                "ExHash": "2e4ab07af209702d1b0f466f96d18d52",
                 "Length": "3"
             },
             "Back": {
@@ -1801,7 +1801,9 @@
             },
             "Climb": {
                 "Address": "Mexican_Climb.png",
-                "Hash": "b01ceef6230e6e42ec31f0f652d25d15"
+                "Hash": "3b6597fa4441c4f37c438765cdf62e23",
+                "ExAddress": "Mexican_ExClimb.png",
+                "ExHash": "42a485a9b0a2c746dc138ad58e4ae8cd"
             }
 	    },
         {
