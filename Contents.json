@@ -371,6 +371,7 @@
             "Name" : "Bullfight",
             "Bounce": "false",
             "Adaptive": "true",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "Bullfight.png",
                 "Hash": "01e9adc132acf1ed0b62f582745a7e71"
@@ -838,6 +839,7 @@
             "Name": "Deer",
             "Bounce": "false",
             "Adaptive": "true",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "Deer.png",
                 "Hash": "b92ae4b4018867852471366eade17977" 
@@ -934,7 +936,7 @@
             "Name": "Dog",
             "Bounce": "false",
             "Adaptive": "true",
-	        "Tags" : ["animal"],
+	    "Tags" : ["animal"],
             "Main": {
                 "Address": "Dog.png",
                 "Hash": "432f430e8a7b314c815fe79ec166948c"
@@ -1540,6 +1542,7 @@
             "Name" : "Jackal",
             "Bounce": "false",
             "Adaptive": "true",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "Jackal.png",
                 "Hash": "f3249e5039b83c5bd0d524cb180d1d3a"                
@@ -1693,6 +1696,7 @@
             "Name": "Koala",
             "Bounce": "false",
             "Adaptive": "true",
+            "Tags" : ["animal"],
             "Main": {
                 "Address": "Koala.png",
                 "Hash": "af0542d730f4046f83aa64ad67f52c94"
@@ -1789,6 +1793,7 @@
             "Adaptive": "true",
             "HideHands":"true",
             "FPS":"8",
+            "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Mexican.png",
                 "Hash": "4b4fcc14a84928727c8d83898facc72c",
