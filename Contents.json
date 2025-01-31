@@ -4501,7 +4501,7 @@
             {
                 "Package": "Catudon Costume",
                 "Format": "Catudon Costume",
-                "Priority" : "4"
+                "Priority" : "1000"
             }
         ]
     }
