@@ -5,4 +5,5 @@ Among Us MODで使われるハットとバイザーをかいています
 ・新ハットのデザイン  
 
 <連絡先>  
-Twitter：https://twitter.com/catudon_1276?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+Discord:discordapp.com/users/772014534754959391
+Mail:tsumugi0590@gmail.com
