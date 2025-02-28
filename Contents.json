@@ -3649,8 +3649,8 @@
                 "Length":"2"
             },
             "Climb": {
-                "ExAddress": "Zaurus_Climb.png",
-                "ExHash": "2efe48154c8b257eb2f387b3563346ef",
+                "Address": "Zaurus_Climb.png",
+                "Hash": "2efe48154c8b257eb2f387b3563346ef",
                 "Length":"2"
             },
             "Preview":{
@@ -3682,8 +3682,8 @@
                 "Length":"2"
             },
             "Climb": {
-                "ExAddress": "Zaurus_Climb.png",
-                "ExHash": "2efe48154c8b257eb2f387b3563346ef",
+                "Address": "Zaurus_Climb.png",
+                "Hash": "2efe48154c8b257eb2f387b3563346ef",
                 "Length":"2"
             },
             "OnButton" : {
