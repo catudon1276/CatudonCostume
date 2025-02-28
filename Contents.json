@@ -3628,7 +3628,69 @@
                 "Address": "Yoyo_Climb.png",
                 "Hash": "3e998163f0013c17a63a4441f57f5238"
             }
-        }            
+        },
+        {
+            "Author": "catudon",
+            "Package": "Subcul Costume",
+            "Name" : "社畜ザウルス",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "SeekerCostume": "false",
+            "FPS": "3",
+            "Main": {
+                "Address": "Zaurus.png",
+                "Hash": "a4f5a561b188c51f6effaaf48164b11c",
+                "ExAddress": "Zaurus_Ex.png",
+                "ExHash": "bb665f430b858e910e8b2399735f4ee5"
+            },
+            "Back":{
+                "Address":"Zaurus_Back.png",
+                "Hash": "205376e746c6a2e600968a03a3f3a4bb",
+                "Length":"2"
+            },
+            "Climb": {
+                "ExAddress": "Zaurus_Climb.png",
+                "ExHash": "2efe48154c8b257eb2f387b3563346ef",
+                "Length":"2"
+            },
+            "Preview":{
+                "Address": "Zaurus_Preview.png",
+                "Hash": "300034d9d01795a127a70abc4df97259"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "社畜ザウルス(Rw)"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Subcul Costume",
+            "Name" : "社畜ザウルス(Rw)",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "IsHidden" : "true",
+            "FPS": "3",
+            "Main": {
+                "Address": "Zaurus(Rw).png",
+                "Hash": "bceb273c5734e1e2a54a34f7878c5479",
+                "ExAddress": "Zaurus(Rw)_Ex.png",
+                "ExHash": "573d7172bd6d512c9bf132b0ca37457e"
+            },
+            "Back":{
+                "Address":"Zaurus_Back.png",
+                "Hash": "205376e746c6a2e600968a03a3f3a4bb",
+                "Length":"2"
+            },
+            "Climb": {
+                "ExAddress": "Zaurus_Climb.png",
+                "ExHash": "2efe48154c8b257eb2f387b3563346ef",
+                "Length":"2"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "社畜ザウルス"
+            }
+        }         
     ], 
     "visors": [
         {
@@ -4502,6 +4564,11 @@
                 "Package": "Catudon Costume",
                 "Format": "Catudon Costume",
                 "Priority" : "1000"
+            },
+            {
+                "Package": "Subcul Costume",
+                "Format": "Subcul Costume",
+                "Priority" : "1001"
             }
         ]
     }
