@@ -3639,9 +3639,7 @@
             "FPS": "3",
             "Main": {
                 "Address": "Zaurus.png",
-                "Hash": "a4f5a561b188c51f6effaaf48164b11c",
-                "ExAddress": "Zaurus_Ex.png",
-                "ExHash": "bb665f430b858e910e8b2399735f4ee5"
+                "Hash": "a4f5a561b188c51f6effaaf48164b11c"
             },
             "Back":{
                 "Address":"Zaurus_Back.png",
@@ -3673,8 +3671,6 @@
             "Main": {
                 "Address": "Zaurus(Rw).png",
                 "Hash": "bceb273c5734e1e2a54a34f7878c5479",
-                "ExAddress": "Zaurus(Rw)_Ex.png",
-                "ExHash": "573d7172bd6d512c9bf132b0ca37457e"
             },
             "Back":{
                 "Address":"Zaurus_Back.png",
