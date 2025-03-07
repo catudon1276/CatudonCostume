@@ -3672,7 +3672,8 @@
                 "Address": "Zaurus(Rw).png",
                 "Hash": "3af536229118c6f3ab2758ab103ee787",
                 "ExAddress": "Zaurus(Rw)_Ex.png",
-                "ExHash": "1ddfb8acc6ff2e81d68a4b9d1afecf83"
+                "ExHash": "1ddfb8acc6ff2e81d68a4b9d1afecf83",
+                "ExIsFront":"true"
             },
             "Back":{
                 "Address":"Zaurus_Back.png",
