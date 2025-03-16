@@ -371,6 +371,7 @@
             "Name": "Bowling",
             "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Bowling.png",
                 "Hash": "1bebd3220bf9c911bea63bafa548fce3"
@@ -391,6 +392,7 @@
 		    "Bounce": "false",
             "Adaptive": "true",
             "IsHidden" : "true",
+            "IsSkinny": "true",
 		    "Main": {
 		        "Address": "Bowling(Se).png",
                 "Hash": "7fa613c74dc7090d8f71d932a0526af3"
@@ -406,6 +408,7 @@
             "Name": "Bowling(color)",
             "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Bowling2.png",
                 "Hash": "b988304ea319c9a0300826f5aeeb01ba"
@@ -426,6 +429,7 @@
 		    "Bounce": "false",
             "Adaptive": "true",
             "IsHidden" : "true",
+            "IsSkinny": "true",
 		    "Main": {
 		        "Address": "Bowling2(Se).png",
                 "Hash": "482f593b12d26b050661fffe80675b2b"
@@ -1610,7 +1614,6 @@
             "Name" : "Inuit",
             "Bounce": "false",
             "Adaptive": "false",
-            "IsHidden":"true",
             "Main": {
                 "Address": "Inuit.png",
                 "Hash": "5ba9b0c5105c93e0beee51731044988f"
@@ -1630,6 +1633,7 @@
 	        "Name" : "Inuit(Se)",
 		    "Bounce": "false",
             "Adaptive": "false",
+            "IsHidden":"true",
 		    "Main": {
 		        "Address": "Inuit(Se).png",
                 "Hash": "9ce5ef18f258cd278837c143631eb731"
@@ -2331,7 +2335,7 @@
 	        "Name" : "Popcorn",
 		    "Bounce": "false",
             "Adaptive": "true",
-            "FPS": "10",
+            "FPS": "4",
 		    "Main": {
 		        "Address": "Popcorn.png",
                 "Hash": "4be100f7457283dc8d76f38b96fb9478",
@@ -3091,14 +3095,14 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Stone statue.png",
-                "Hash": "b5ccd6d85b3ee4aaf59fee0c204d0c97 ",
+                "Hash": "b0583d896759555a655fbf2f582de8d0 ",
                 "ExAddress": "Stone statue(Ex).png",
                 "ExHash": "866357385cee4eade804d5a3cc660a1d",
                 "ExIsFront":"true"
             },
             "Climb": {
                 "Address": "Stone statue_Climb.png",
-                "Hash": "ec89a805df4ac7f9e6360f3a3b3be7c4",
+                "Hash": "82bd95d99943ee834466f5d107ee7c2a",
                 "ExAddress": "Stone statue(Ex)_Climb.png",
                 "ExHash": "352f416b8470c0b8e4e83c070be9fa56"
             }
@@ -3873,11 +3877,11 @@
             "SeekerCostume": "false",
 		    "Main": {
 		        "Address": "Trainer.png",
-                "Hash": "d7b138f1c93843e735b9eae62c0352eb"
+                "Hash": "0510280c1567816ff575b1e02de2c8ae"
 		    },
             "Climb": {
                 "Address": "Trainer_Climb.png",
-                "Hash": "241e0bae31985f38f4d7dc9e202d6b82"
+                "Hash": "c67ac1ec665e389cb6b311a9542282fe"
 		    }
 	    },
         {
