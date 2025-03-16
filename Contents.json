@@ -3056,13 +3056,13 @@
             "Main": {
                 "Address": "Stone statue.png",
                 "Hash": "b5ccd6d85b3ee4aaf59fee0c204d0c97 ",
-                "ExAddress": "Stone statue.png",
+                "ExAddress": "Stone statue(Ex).png",
                 "ExHash": "866357385cee4eade804d5a3cc660a1d"
             },
             "Climb": {
                 "Address": "Stone statue_Climb.png",
                 "Hash": "ec89a805df4ac7f9e6360f3a3b3be7c4",
-                "ExAddress": "Stone statue.png",
+                "ExAddress": "Stone statue(Ex)_Climb.png",
                 "ExHash": "352f416b8470c0b8e4e83c070be9fa56"
             }
         },
