@@ -3095,14 +3095,14 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Stone statue.png",
-                "Hash": "b0583d896759555a655fbf2f582de8d0 ",
+                "Hash": "0e926f082c658d4bc98e6062c9c4f9cd",
                 "ExAddress": "Stone statue(Ex).png",
                 "ExHash": "866357385cee4eade804d5a3cc660a1d",
                 "ExIsFront":"true"
             },
             "Climb": {
                 "Address": "Stone statue_Climb.png",
-                "Hash": "82bd95d99943ee834466f5d107ee7c2a",
+                "Hash": "f4c2e87bc93c7b4eb95c7711b32e9abe",
                 "ExAddress": "Stone statue(Ex)_Climb.png",
                 "ExHash": "352f416b8470c0b8e4e83c070be9fa56"
             }
@@ -3826,7 +3826,7 @@
             "Adaptive": "true",
 		    "Main": {
 		        "Address": "Headdress.png",
-                "Hash": "5217198871c0f2d2d9d7f3a2b5d9f569"
+                "Hash": "c344ad2139d2f047bb9dcf8753557b00"
 		    },
             "Climb": {
                 "Address": "Headdress_Climb.png",
