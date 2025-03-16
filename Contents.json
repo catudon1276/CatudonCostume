@@ -2335,7 +2335,7 @@
 	        "Name" : "Popcorn",
 		    "Bounce": "false",
             "Adaptive": "true",
-            "FPS": "4",
+            "FPS": "2",
 		    "Main": {
 		        "Address": "Popcorn.png",
                 "Hash": "4be100f7457283dc8d76f38b96fb9478",
