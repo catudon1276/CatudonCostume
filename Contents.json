@@ -368,6 +368,41 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "Name": "Bowling(color)",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Bowling2.png",
+                "Hash": "b988304ea319c9a0300826f5aeeb01ba"
+            },
+            "Climb": {
+                "Address": "Bowling2_Climb.png",
+                "Hash": "9f7bd44ca0c5f5b4ba7bb1dda278e41e"
+            },
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Bowling2(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Bowling2(Se)",
+		    "Bounce": "false",
+            "Adaptive": "false",
+            "IsHidden" : "true",
+		    "Main": {
+		        "Address": "Bowling2(Se).png",
+                "Hash": "482f593b12d26b050661fffe80675b2b"
+		    },
+            "Climb": {
+                "Address": "Bowling2(Se)_Climb.png",
+                "Hash": "ad55b6c9bccb77926a88f3b9ae608006"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name" : "Bullfight",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1540,6 +1575,7 @@
             "Name" : "Inuit",
             "Bounce": "false",
             "Adaptive": "false",
+            "IsHidden":"true",
             "Main": {
                 "Address": "Inuit.png",
                 "Hash": "5ba9b0c5105c93e0beee51731044988f"
@@ -2817,12 +2853,13 @@
             "Name": "Shift dress(Se)",
             "Bounce": "false",
             "Adaptive": "true",
+            "IsHidden":"true",
             "Main": {
-                "Address": "Shift dress.png",
+                "Address": "Shift dress(Se).png",
                 "Hash": "83e7c3a29c9f7f2bdf070b3835721b53"
             },
             "Climb": {
-                "Address": "Shift dress_Climb.png",
+                "Address": "Shift dress(Se)_Climb.png",
                 "Hash": "d319ce08bd4058d9bacbdd76efbd26c3"
             }
         },
@@ -3965,41 +4002,6 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Bowling(color)",
-            "Bounce": "false",
-            "Adaptive": "false",
-            "Main": {
-                "Address": "Bowling2.png",
-                "Hash": "b988304ea319c9a0300826f5aeeb01ba"
-            },
-            "Climb": {
-                "Address": "Bowling2_Climb.png",
-                "Hash": "9f7bd44ca0c5f5b4ba7bb1dda278e41e"
-            },
-            "SeekerAlternative" : {
-                "Author" : "catudon",
-                "Name" : "Bowling2(Se)"
-            }
-	    },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-	        "Name" : "Bowling2(Se)",
-		    "Bounce": "false",
-            "Adaptive": "false",
-            "IsHidden" : "true",
-		    "Main": {
-		        "Address": "Bowling2(Se).png",
-                "Hash": "482f593b12d26b050661fffe80675b2b"
-		    },
-            "Climb": {
-                "Address": "Bowling2(Se)_Climb.png",
-                "Hash": "ad55b6c9bccb77926a88f3b9ae608006"
-            }
-	    },
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
             "Name": "Blindfold",
             "BehindHat": "true",
             "Adaptive": "false",
@@ -4609,15 +4611,15 @@
 		    "Name" : "Eyemask12",
 		    "Adaptive": "true",
 		    "Main": {
-		        "Address": "Eyemask12.png",
-                "Hash": "b530019041d337ff004eacb34c58dfc6",
+		       "Address": "Eyemask9.png",
+                "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
                 "ExAddress":"Eyemask12_Ex.png",
                 "ExHash":"4b67be68428541fb0e30d2955e99c6c9",
                 "ExIsFront" :"true"
 		    },
             "Move": {
-		        "Address": "Eyemask12.png",
-                "Hash": "b530019041d337ff004eacb34c58dfc6",
+		       "Address": "Eyemask9.png",
+                "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
                 "ExAddress":"Eyemask12_ExMove.png",
                 "ExHash":"dae94486c28f2e749971c1758f7a202e",
                 "ExIsFront" :"true"
@@ -4628,10 +4630,9 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask13",
 		    "Adaptive": "true",
-            "BehindHat": "true",
 		    "Main": {
-		        "Address": "Eyemask12.png",
-                "Hash": "b530019041d337ff004eacb34c58dfc6",
+		       "Address": "Eyemask9.png",
+                "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
                 "ExAddress":"Eyemask13_Ex.png",
                 "ExHash":"585451cebf0f6e9e4fe753e966b08fc6",
                 "ExIsFront" :"true"
