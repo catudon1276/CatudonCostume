@@ -4619,8 +4619,8 @@
             "BehindHat": "true",
 
 		    "Main": {
-		       "Address": "Eyemask9.png",
-                "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
+		       "Address": "Eyemask12.png",
+                "Hash": "ed1353de185f7c8ccdaafa014aa8d8e8",
                 "ExAddress":"Eyemask12_Ex.png",
                 "ExHash":"4b67be68428541fb0e30d2955e99c6c9",
                 "ExIsFront" :"true"
@@ -4638,6 +4638,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask13",
 		    "Adaptive": "false",
+            "BehindHat": "true",
 		    "Main": {
 		       "Address": "Eyemask13.png",
                 "Hash": "79d3e83a9f943266de882474147af38c"
