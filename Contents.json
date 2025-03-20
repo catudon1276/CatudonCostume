@@ -3826,7 +3826,7 @@
             "Adaptive": "true",
 		    "Main": {
 		        "Address": "Headdress.png",
-                "Hash": "c344ad2139d2f047bb9dcf8753557b00"
+                "Hash": "ba96412e0e317be273f43c7cbe4d2f44"
 		    },
             "Climb": {
                 "Address": "Headdress_Climb.png",
@@ -4637,13 +4637,10 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask13",
-		    "Adaptive": "true",
+		    "Adaptive": "false",
 		    "Main": {
-		       "Address": "Eyemask9.png",
-                "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
-                "ExAddress":"Eyemask13_Ex.png",
-                "ExHash":"585451cebf0f6e9e4fe753e966b08fc6",
-                "ExIsFront" :"true"
+		       "Address": "Eyemask13.png",
+                "Hash": "79d3e83a9f943266de882474147af38c"
 		    }
 		}, 
         {
@@ -4998,7 +4995,7 @@
                 "Address": "NeMi.png",
                 "Hash" : "c94f63df4543546753fc7215491757f1",
                 "ExAddress": "NeMi_JPN.png",
-                "ExHash" : "d390f0fa8296cc048d017737c30b201f",
+                "ExHash" : "341199ddc3a331c3a0f1f36541afab89",
                 "ExIsFront": "true"
             }
         },
@@ -5037,7 +5034,7 @@
                 "Address": "EG.png",
                 "Hash" : "2477c553b918e0b0b4934caa5e70e8eb",
                 "ExAddress": "EG_JPN.png",
-                "ExHash" : "2a7595e07bfec22a79f2876c39f64f23",
+                "ExHash" : "c95290b77b6e778a66b4c03da520cfb7",
                 "ExIsFront": "true"
             }
         }
