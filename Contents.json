@@ -374,7 +374,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Bowling.png",
-                "Hash": "1bebd3220bf9c911bea63bafa548fce3"
+                "Hash": "5fa70b4b9821c6077f89a5689a8fa9f6"
             },
             "Climb": {
                 "Address": "Bowling_Climb.png",
@@ -411,7 +411,7 @@
             "IsSkinny": "true",
             "Main": {
                 "Address": "Bowling2.png",
-                "Hash": "b988304ea319c9a0300826f5aeeb01ba"
+                "Hash": "b9c4e36d70b7db86351d6269215137ed"
             },
             "Climb": {
                 "Address": "Bowling2_Climb.png",
@@ -4640,8 +4640,11 @@
 		    "Adaptive": "false",
             "BehindHat": "true",
 		    "Main": {
-		       "Address": "Eyemask13.png",
-                "Hash": "79d3e83a9f943266de882474147af38c"
+                "Address": "Eyemask12.png",
+                "Hash": "ed1353de185f7c8ccdaafa014aa8d8e8",
+                "ExAddress":"Eyemask13_Ex.png",
+                "ExHash":"8c6989b9c5eabe550be631ffb1eb1357",
+                "ExIsFront" :"true"
 		    }
 		}, 
         {
