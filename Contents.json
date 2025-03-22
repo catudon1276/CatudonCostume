@@ -4637,7 +4637,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask13",
-		    "Adaptive": "false",
+		    "Adaptive": "true",
             "BehindHat": "true",
 		    "Main": {
                 "Address": "Eyemask12.png",
