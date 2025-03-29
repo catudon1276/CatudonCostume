@@ -4932,7 +4932,7 @@
             "Adaptive" : "true",
             "Image": {
                 "Address": "YAY.png",
-                "Hash" : "25d4963c7e2c1265cebf421a8412d4a1",
+                "Hash" : "04a9d4d4ed5ab9e6167aa163a1d7e0a7",
                 "ExAddress": "YAY_JPN.png",
                 "ExHash" : "b046cb90dc7620dba3b2b76570aac1d0",
                 "ExIsFront": "true"
@@ -4984,7 +4984,7 @@
             "Adaptive" : "true",
             "Image": {
                 "Address": "Par.png",
-                "Hash" : "2d12e315928c548850f68b3480e40c23",
+                "Hash" : "05f7fb1e64c473c00b42964ea559e402",
                 "ExAddress": "Par_JPN.png",
                 "ExHash" : "948abf4dfcc610992bdcae1fd609b131",
                 "ExIsFront": "true"
