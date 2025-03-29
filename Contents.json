@@ -4980,6 +4980,19 @@
         {
             "Author": "catudon",
             "Package": "Catudon Stamps",
+            "Name": "なんて？",
+            "Adaptive" : "true",
+            "Image": {
+                "Address": "Par.png",
+                "Hash" : "2d12e315928c548850f68b3480e40c23",
+                "ExAddress": "Par_JPN.png",
+                "ExHash" : "948abf4dfcc610992bdcae1fd609b131",
+                "ExIsFront": "true"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Stamps",
             "Name": "ナイスボタン！",
             "Adaptive" : "true",
             "Image": {
