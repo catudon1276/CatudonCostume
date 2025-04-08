@@ -230,6 +230,17 @@
     
             "author": "catudon",
             "package": "Catudon Costume SEL",
+            "name":"トレーナーさん",
+            "condition": "None",
+            "resource": "Trainer.png",
+            "climbresource": "Trainer_Climb.png",
+            "adaptive": true
+            
+        },
+        {
+    
+            "author": "catudon",
+            "package": "Catudon Costume SEL",
             "name":"おおつぼ",
             "condition": "None",
             "resource": "Vessel.png",
