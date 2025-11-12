@@ -15,9 +15,9 @@
                 },
 		    "Move": {
 		        "Address": "No-Face_Move.png",
-                "Hash": "5668b2e1d102e0c5028d753f82c532ff",
+                "Hash": "9cca286bf1c05e9b1e676fcc39fcd433",
                 "MaskAddress":"No-Face_MaMove.png",
-                "MaskHash":"4a5f069d89ca44a93c2d5f2585e549fc"
+                "MaskHash":"3d6de68f6d75d7198931fc11275b4b6c"
                 }              
         },        
         {
@@ -78,14 +78,14 @@
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
-                "Hash": "d57f53307c44b27b3dba6276ef74fffc",
+                "Hash": "7d20ba7f7edf669bbf4ba214462e8397",
                 "MaskAddress":"Ghost_Ma.png",
                 "MaskHash":"d4046e004199e1735af428b98e86dde6",
                 "Length":"2"
                 },
 		    "Move": {
 		        "Address": "Ghost_Move.png",
-                "Hash": "5f858f52eaadd604071cd805cddd2636",
+                "Hash": "a16e0d7f6b15c67f2da27656a82c4d60",
                 "MaskAddress":"Ghost_Ma.png",
                 "MaskHash":"d4046e004199e1735af428b98e86dde6",
                 "Length":"2"
