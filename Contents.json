@@ -95,7 +95,11 @@
                 "Hash": "29032b1ca9cc0be3075cfb2ee44cd426",
                 "MaskAddress":"Ghost_MaClimb.png",
                 "MaskHash":"1c9cd719469a3c12254428582a9a23bd"
-                }
+                },
+            "Preview":{
+                "Address": "Ghost_Preview.png",
+                "Hash": "831180d942e1fc1088467bbdfd6e0c07"
+            }    
         },        
         {
             "Author": "catudon",
