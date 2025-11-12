@@ -15,7 +15,7 @@
                 },
 		    "Move": {
 		        "Address": "No-Face_Move.png",
-                "Hash": "fa9d99bf78fad7b2d6ec81d3bb3a7758",
+                "Hash": "6e1421ce41a934ca11ce28a100ed376b",
                 "MaskAddress":"No-Face_MaMove.png",
                 "MaskHash":"4a5f069d89ca44a93c2d5f2585e549fc"
                 }              
@@ -52,7 +52,8 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
             "IsSkinny": "true",            
-            "SeekerCostume": "false",	            
+            "SeekerCostume": "false",	    
+            "IsHidden" : "true",                     
 		    "Main": {
 		        "Address": "DeadBody(Lo).png",
                 "Hash": "88a481d625c808a5e024616f85e4d2c0",
@@ -73,8 +74,7 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
             "SeekerCostume": "false",
-            "LongNeckCostume": "false",
-            "IsHidden" : "true",            
+            "LongNeckCostume": "false",         
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
