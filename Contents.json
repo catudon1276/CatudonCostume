@@ -6,7 +6,8 @@
 	        "Name" : "No-Face",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-		    "Main": {
+            "IsSkinny": "true",  
+            "Main": {
 		        "Address": "No-Face.png",
                 "Hash": "66bec835f9c159c0b94d8170f416532f",
                 "MaskAddress":"No-Face_Ma.png",
@@ -14,7 +15,7 @@
                 },
 		    "Move": {
 		        "Address": "No-Face_Move.png",
-                "Hash": "40d09c31795cba51c2a576577422a8d1",
+                "Hash": "fa9d99bf78fad7b2d6ec81d3bb3a7758",
                 "MaskAddress":"No-Face_MaMove.png",
                 "MaskHash":"4a5f069d89ca44a93c2d5f2585e549fc"
                 }              
@@ -25,7 +26,8 @@
 	        "Name" : "DeadBody",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-            "SeekerCostume": "false",	            
+            "IsSkinny": "true",            
+            "SeekerCostume": "false",            
 		    "Main": {
 		        "Address": "DeadBody.png",
                 "Hash": "f95fd3c72cfa2676648edf3fbe228075",
@@ -49,6 +51,7 @@
 	        "Name" : "DeadBody(Lo)",
 		    "Bounce": "false",
 		    "Adaptive": "true",
+            "IsSkinny": "true",            
             "SeekerCostume": "false",	            
 		    "Main": {
 		        "Address": "DeadBody(Lo).png",
@@ -71,14 +74,22 @@
 		    "Adaptive": "true",
             "SeekerCostume": "false",
             "LongNeckCostume": "false",
+            "IsHidden" : "true",            
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
-                "Hash": "3c589d5b70b8adaed558479ba06e5257",
+                "Hash": "d57f53307c44b27b3dba6276ef74fffc",
                 "MaskAddress":"Ghost_Ma.png",
-                "MaskHash":"a35e75d78d16bab3f1e787a0036d3eb0",
+                "MaskHash":"d6c7ee25d8640101d7967e315c7bfd7e",
                 "Length":"2"
                 },
+		    "Move": {
+		        "Address": "Ghost_Move.png",
+                "Hash": "39d2600c7fcd95b80b1089aec282b9b6",
+                "MaskAddress":"Ghost_Ma.png",
+                "MaskHash":"d6c7ee25d8640101d7967e315c7bfd7e",
+                "Length":"2"
+                },                
 		    "Climb": {
 		        "Address": "Ghost_Climb.png",
                 "Hash": "29032b1ca9cc0be3075cfb2ee44cd426",
