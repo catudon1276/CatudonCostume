@@ -15,7 +15,7 @@
                 },
 		    "Move": {
 		        "Address": "No-Face_Move.png",
-                "Hash": "6e1421ce41a934ca11ce28a100ed376b",
+                "Hash": "5668b2e1d102e0c5028d753f82c532ff",
                 "MaskAddress":"No-Face_MaMove.png",
                 "MaskHash":"4a5f069d89ca44a93c2d5f2585e549fc"
                 }              
@@ -40,7 +40,7 @@
                 "MaskAddress":"DeadBody_MaClimb.png",
                 "MaskHash":"1e061cec544b0b0e07e785101b4b9e86"
                 },
-            "SeekerAlternative" : {
+            "LongNeckAlternative" : {
                 "Author" : "catudon",
                 "Name" : "DeadBody(Lo)"
             }
@@ -80,14 +80,14 @@
 		        "Address": "Ghost.png",
                 "Hash": "d57f53307c44b27b3dba6276ef74fffc",
                 "MaskAddress":"Ghost_Ma.png",
-                "MaskHash":"d6c7ee25d8640101d7967e315c7bfd7e",
+                "MaskHash":"d4046e004199e1735af428b98e86dde6",
                 "Length":"2"
                 },
 		    "Move": {
 		        "Address": "Ghost_Move.png",
-                "Hash": "39d2600c7fcd95b80b1089aec282b9b6",
+                "Hash": "5f858f52eaadd604071cd805cddd2636",
                 "MaskAddress":"Ghost_Ma.png",
-                "MaskHash":"d6c7ee25d8640101d7967e315c7bfd7e",
+                "MaskHash":"d4046e004199e1735af428b98e86dde6",
                 "Length":"2"
                 },                
 		    "Climb": {
