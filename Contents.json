@@ -3,6 +3,75 @@
 	    {
             "Author": "catudon",
             "Package": "Catudon Costume",
+	        "Name" : "No-Face",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "No-Face.png",
+                "Hash": "835671245a44a9b457ec97a3e5777d9b",
+                "MaskAddress":"No-Face_Ma.png",
+                "MaskHash":"f7ad37375af9a7af15a64549c4737ac6"
+                }
+        },
+	    {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "No-Face",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+		    "Main": {
+		        "Address": "No-Face.png",
+                "Hash": "835671245a44a9b457ec97a3e5777d9b",
+                "MaskAddress":"No-Face_Ma.png",
+                "MaskHash":"f7ad37375af9a7af15a64549c4737ac6"
+                }
+        },        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "DeadBody",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "SeekerCostume": "false",	            
+		    "Main": {
+		        "Address": "DeadBody.png",
+                "Hash": "175b8a2bace102fb49d20c2cc85bc744",
+                "MaskAddress":"DeadBody_Ma.png",
+                "MaskHash":"79ca62e82c4253db5ddcb588ca543479"
+                },
+		    "Climb": {
+		        "Address": "DeadBody_Climb.png",
+                "Hash": "562156ff763fcc4adf5e88ca263af0a9",
+                "MaskAddress":"DeadBody_MaClimb.png",
+                "MaskHash":"0eb5d1becf3302d7215f745522909620"
+                }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Ghost",
+		    "Bounce": "false",
+		    "Adaptive": "false",
+            "SeekerCostume": "false",
+            "LongNeckCostume": "false",
+            "FPS": "5",            	            
+		    "Main": {
+		        "Address": "Ghost.png",
+                "Hash": "16db023ebe135926f3ac6a2f8aaa2692",
+                "MaskAddress":"Ghost_Ma.png",
+                "MaskHash":"3165fcad7f9894db6134c7212f12d913",
+                "Length":"2"
+                },
+		    "Climb": {
+		        "Address": "Ghost_Climb.png",
+                "Hash": "29032b1ca9cc0be3075cfb2ee44cd426",
+                "MaskAddress":"Ghost_MaClimb.png",
+                "MaskHash":"1c9cd719469a3c12254428582a9a23bd"
+                }
+        },        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
 	        "Name" : "Aborigines",
 		    "Bounce": "false",
 		    "Adaptive": "false",
