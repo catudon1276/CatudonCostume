@@ -98,8 +98,8 @@
 		    "Climb": {
 		        "Address": "Ghost_Climb.png",
                 "Hash": "102b60f1fbd7a7ffd34f4b35f6f4dfb0",
-                "MaskAddress":"Ghost_MaClimb.png",
-                "MaskHash":"57cc3639fb319396d4c7f5879f26e2c9"
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
                 },         
             "Preview":{
                 "Address": "Ghost_Preview.png",
