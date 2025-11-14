@@ -23,7 +23,7 @@
 		        "Address": "No-Face_Exile.png",
                 "Hash": "86eb7cd6aebd0f104ca7fc68480359e3",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
             }
         },        
         {
@@ -44,13 +44,13 @@
 		        "Address": "DeadBody_Climb.png",
                 "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
                 },
             "Exile": {
 		        "Address": "DeadBody_Exile.png",
                 "Hash": "248839f044e7f9cec88ba1837ecf9184",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
                 },                
             "LongNeckAlternative" : {
                 "Author" : "catudon",
@@ -76,7 +76,7 @@
 		        "Address": "DeadBody_Climb.png",
                 "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
                 }
 	    },
         {
@@ -92,14 +92,14 @@
 		        "Address": "Ghost.png",
                 "Hash": "361a6160453d8b943bd9bc522fa0431e",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96",
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7",
                 "Length":"2"
                 },        
 		    "Climb": {
 		        "Address": "Ghost_Climb.png",
                 "Hash": "102b60f1fbd7a7ffd34f4b35f6f4dfb0",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
                 },         
             "Preview":{
                 "Address": "Ghost_Preview.png",
