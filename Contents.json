@@ -24,7 +24,7 @@
                 "Hash": "86eb7cd6aebd0f104ca7fc68480359e3",
                 "MaskAddress":"AllCover.png",
                 "MaskHash":"037c282f4f9d220c0d9f3246dca19eae"
-                },    
+            }
         },        
         {
             "Author": "catudon",
@@ -46,18 +46,17 @@
                 "MaskAddress":"DeadBody_MaClimb.png",
                 "MaskHash":"014ba28538a4943d2b9d908dcf5bcbe2"
                 },
-            "LongNeckAlternative" : {
-                "Author" : "catudon",
-                "Name" : "DeadBody(Lo)"
-            },
             "Exile": {
 		        "Address": "DeadBody_Exile.png",
                 "Hash": "248839f044e7f9cec88ba1837ecf9184",
                 "MaskAddress":"AllCover.png",
                 "MaskHash":"037c282f4f9d220c0d9f3246dca19eae"
-            },    
+            },                
+            "LongNeckAlternative" : {
+                "Author" : "catudon",
+                "Name" : "DeadBody(Lo)"
+            }
         },              
-	    },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -78,7 +77,7 @@
                 "Hash": "05dbfb596b443d6a99ccbaf0604d3bf0",
                 "MaskAddress":"DeadBody_MaClimb.png",
                 "MaskHash":"014ba28538a4943d2b9d908dcf5bcbe2"
-                }
+            }
 	    },
         {
             "Author": "catudon",
