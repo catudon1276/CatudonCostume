@@ -23,7 +23,7 @@
 		        "Address": "No-Face_Exile.png",
                 "Hash": "86eb7cd6aebd0f104ca7fc68480359e3",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"037c282f4f9d220c0d9f3246dca19eae"
+                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
             }
         },        
         {
@@ -42,15 +42,15 @@
                 },
 		    "Climb": {
 		        "Address": "DeadBody_Climb.png",
-                "Hash": "05dbfb596b443d6a99ccbaf0604d3bf0",
+                "Hash": "c4f62e4d1f4ea52c04acfc1ca60b4fbf",
                 "MaskAddress":"DeadBody_MaClimb.png",
-                "MaskHash":"014ba28538a4943d2b9d908dcf5bcbe2"
+                "MaskHash":"2007e98f79c47a243eefa5a9f382d2ff"
                 },
             "Exile": {
 		        "Address": "DeadBody_Exile.png",
                 "Hash": "248839f044e7f9cec88ba1837ecf9184",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"037c282f4f9d220c0d9f3246dca19eae"
+                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
             },                
             "LongNeckAlternative" : {
                 "Author" : "catudon",
@@ -74,9 +74,9 @@
                 },
 		    "Climb": {
 		        "Address": "DeadBody_Climb.png",
-                "Hash": "05dbfb596b443d6a99ccbaf0604d3bf0",
+                "Hash": "c4f62e4d1f4ea52c04acfc1ca60b4fbf",
                 "MaskAddress":"DeadBody_MaClimb.png",
-                "MaskHash":"014ba28538a4943d2b9d908dcf5bcbe2"
+                "MaskHash":"2007e98f79c47a243eefa5a9f382d2ff"
             }
 	    },
         {
@@ -90,31 +90,17 @@
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
-                "Hash": "a7e376622953c7327924c0f003f17032",
-                "MaskAddress":"Ghost_Ma.png",
-                "MaskHash":"d4046e004199e1735af428b98e86dde6",
+                "Hash": "7ef261de3f75c30721bc4b4791707f34",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96",
                 "Length":"2"
-                },
-		    "Move": {
-		        "Address": "Ghost_Move.png",
-                "Hash": "a7e376622953c7327924c0f003f17032",
-                "MaskAddress":"Ghost_Ma.png",
-                "MaskHash":"d4046e004199e1735af428b98e86dde6",
-                "Length":"2"
-                },                
+                },        
 		    "Climb": {
 		        "Address": "Ghost_Climb.png",
                 "Hash": "29032b1ca9cc0be3075cfb2ee44cd426",
                 "MaskAddress":"Ghost_MaClimb.png",
                 "MaskHash":"1c9cd719469a3c12254428582a9a23bd"
-                },
-            "Exile": {
-		        "Address": "Ghost_Exile.png",
-                "Hash": "904caea60c4aed43dee673af08163713",
-                "MaskAddress":"AllCover.png",
-                "MaskHash":"037c282f4f9d220c0d9f3246dca19eae",
-                "Length":"2"                
-            },             
+                },         
             "Preview":{
                 "Address": "Ghost_Preview.png",
                 "Hash": "831180d942e1fc1088467bbdfd6e0c07"
