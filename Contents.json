@@ -42,20 +42,20 @@
                 },
 		    "Climb": {
 		        "Address": "DeadBody_Climb.png",
-                "Hash": "c4f62e4d1f4ea52c04acfc1ca60b4fbf",
-                "MaskAddress":"DeadBody_MaClimb.png",
-                "MaskHash":"2007e98f79c47a243eefa5a9f382d2ff"
+                "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
                 },
             "Exile": {
 		        "Address": "DeadBody_Exile.png",
                 "Hash": "248839f044e7f9cec88ba1837ecf9184",
                 "MaskAddress":"AllCover.png",
                 "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
-            },                
+                },                
             "LongNeckAlternative" : {
                 "Author" : "catudon",
                 "Name" : "DeadBody(Lo)"
-            }
+                }
         },              
         {
             "Author": "catudon",
@@ -74,10 +74,10 @@
                 },
 		    "Climb": {
 		        "Address": "DeadBody_Climb.png",
-                "Hash": "c4f62e4d1f4ea52c04acfc1ca60b4fbf",
-                "MaskAddress":"DeadBody_MaClimb.png",
-                "MaskHash":"2007e98f79c47a243eefa5a9f382d2ff"
-            }
+                "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96"
+                }
 	    },
         {
             "Author": "catudon",
@@ -90,16 +90,16 @@
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
-                "Hash": "7ef261de3f75c30721bc4b4791707f34",
+                "Hash": "361a6160453d8b943bd9bc522fa0431e",
                 "MaskAddress":"AllCover.png",
                 "MaskHash":"ed389e7a69d6f7b380a8d7cd30162c96",
                 "Length":"2"
                 },        
 		    "Climb": {
 		        "Address": "Ghost_Climb.png",
-                "Hash": "29032b1ca9cc0be3075cfb2ee44cd426",
+                "Hash": "81db4da474d1352e0040263397b39a9d",
                 "MaskAddress":"Ghost_MaClimb.png",
-                "MaskHash":"1c9cd719469a3c12254428582a9a23bd"
+                "MaskHash":"57cc3639fb319396d4c7f5879f26e2c9"
                 },         
             "Preview":{
                 "Address": "Ghost_Preview.png",
