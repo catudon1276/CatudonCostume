@@ -18,7 +18,13 @@
                 "Hash": "9cca286bf1c05e9b1e676fcc39fcd433",
                 "MaskAddress":"No-Face_MaMove.png",
                 "MaskHash":"3d6de68f6d75d7198931fc11275b4b6c"
-                }              
+                },
+            "Exile": {
+		        "Address": "No-Face_Exile.png",
+                "Hash": "86eb7cd6aebd0f104ca7fc68480359e3",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"037c282f4f9d220c0d9f3246dca19eae"
+                },    
         },        
         {
             "Author": "catudon",
@@ -43,7 +49,14 @@
             "LongNeckAlternative" : {
                 "Author" : "catudon",
                 "Name" : "DeadBody(Lo)"
-            }
+            },
+            "Exile": {
+		        "Address": "DeadBody_Exile.png",
+                "Hash": "248839f044e7f9cec88ba1837ecf9184",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"037c282f4f9d220c0d9f3246dca19eae"
+            },    
+        },              
 	    },
         {
             "Author": "catudon",
@@ -78,14 +91,14 @@
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
-                "Hash": "7d20ba7f7edf669bbf4ba214462e8397",
+                "Hash": "a7e376622953c7327924c0f003f17032",
                 "MaskAddress":"Ghost_Ma.png",
                 "MaskHash":"d4046e004199e1735af428b98e86dde6",
                 "Length":"2"
                 },
 		    "Move": {
 		        "Address": "Ghost_Move.png",
-                "Hash": "1dd9c0323282ad4c6abade456e9eedaa",
+                "Hash": "a7e376622953c7327924c0f003f17032",
                 "MaskAddress":"Ghost_Ma.png",
                 "MaskHash":"d4046e004199e1735af428b98e86dde6",
                 "Length":"2"
@@ -96,6 +109,13 @@
                 "MaskAddress":"Ghost_MaClimb.png",
                 "MaskHash":"1c9cd719469a3c12254428582a9a23bd"
                 },
+            "Exile": {
+		        "Address": "Ghost_Exile.png",
+                "Hash": "904caea60c4aed43dee673af08163713",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"037c282f4f9d220c0d9f3246dca19eae",
+                "Length":"2"                
+            },             
             "Preview":{
                 "Address": "Ghost_Preview.png",
                 "Hash": "831180d942e1fc1088467bbdfd6e0c07"
