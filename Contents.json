@@ -1305,7 +1305,6 @@
             "Bounce": "false",
             "Adaptive": "true",
             "IsSkinny": "true",	
-            "IsHidden": "true",
             "Main": {
                 "Address": "Chef2.png",
                 "Hash": "ff72e30b739a1939ab6d1e2cdf5dbc46",
@@ -1552,9 +1551,8 @@
             "Main": {
                 "Address": "Crime Scene Cleaners2.png",
                 "Hash": "86a614169958398ddda9a325170da0e7",
-                "ExAddress":"Crime Scene Cleaners2_Ex",
-                "ExHash":"275f8f0eea9110cff68599252094724e",
-                "ExIsFront":"true"
+                "ExAddress": "Crime Scene Cleaners2_Ex.png",
+                "ExHash": "275f8f0eea9110cff68599252094724e"
             },
             "Climb": {
                 "Address": "Crime Scene Cleaners2_Climb.png",
