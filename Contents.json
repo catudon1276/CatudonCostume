@@ -1553,8 +1553,7 @@
                 "ExAddress": "Crime Scene Cleaners2.png",
                 "ExHash": "275f8f0eea9110cff68599252094724e",
                 "Address":"Crime Scene Cleaners2_Ex",
-                "Hash":"86a614169958398ddda9a325170da0e7",
-                "ExIsFront":"true"
+                "Hash":"86a614169958398ddda9a325170da0e7"
             },
             "Climb": {
                 "Address": "Crime Scene Cleaners2_Climb.png",
