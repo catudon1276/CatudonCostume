@@ -7743,63 +7743,72 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name" : "SuperChat1",
-            "Adaptive": "true",
+            "AdaptiveInFront": "true",
             "Plate": {
-                "ExAddress": "Superchat0.png",
-                "ExHash" : "87db7a9cffdba7390f2563dd84be1573",
+                "Address": "Superchat0.png",
+                "Hash" : "87db7a9cffdba7390f2563dd84be1573"
+            },
+            "Adaptive":{
                 "Address": "Superchat_Ex.png",
-                "Hash" : "cbc78086b8126c66d783460c1af5eaff",
-                "ExIsFront":"true"             
+                "Hash" : "cbc78086b8126c66d783460c1af5eaff"    
             }
         },      
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name" : "SuperChat2",
-            "Adaptive": "true", 
+            "AdaptiveInFront": "true",
             "Plate": {
-                "ExAddress": "Superchat1.png",
-                "ExHash" : "212890b6b34ba42151c0fa74768cae87",
+                "Address": "Superchat1.png",
+                "Hash" : "212890b6b34ba42151c0fa74768cae87"
+            },
+            "Adaptive":{
                 "Address": "Superchat_Ex.png",
-                "Hash" : "cbc78086b8126c66d783460c1af5eaff"
-            }
+                "Hash" : "cbc78086b8126c66d783460c1af5eaff"    
+            }            
         },      
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name" : "SuperChat3",
-            "Adaptive": "true",
+            "AdaptiveInFront": "true",
             "Plate": {
-                "ExAddress": "Superchat2.png",
-                "ExHash" : "6060c4a3369193316f8c17c5f822c834",
+                "Address": "Superchat2.png",
+                "Hash" : "6060c4a3369193316f8c17c5f822c834"
+            },
+            "Adaptive":{
                 "Address": "Superchat_Ex.png",
-                "Hash" : "cbc78086b8126c66d783460c1af5eaff"     
-            }
-        },   
+                "Hash" : "cbc78086b8126c66d783460c1af5eaff"    
+            }            
+        },                    
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name" : "SuperChat4",
-            "Adaptive": "true",
+            "AdaptiveInFront": "true",
             "Plate": {
-                "ExAddress": "Superchat3.png",
-                "ExHash" : "a3cdf27c4ee3ee95884a5fd214f39aaa",
+                "Address": "Superchat3.png",
+                "Hash" : "a3cdf27c4ee3ee95884a5fd214f39aaa"
+            },
+            "Adaptive":{
                 "Address": "Superchat_Ex.png",
-                "Hash" : "cbc78086b8126c66d783460c1af5eaff"          
-            }
-        },                   
+                "Hash" : "cbc78086b8126c66d783460c1af5eaff"    
+            }            
+        },                            
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name" : "SuperChat5",
-            "Adaptive": "true",
+            "AdaptiveInFront": "true",
             "Plate": {
-                "ExAddress": "Superchat4.png",
-                "ExHash" : "b55442af1dd8b282560bb42d102c2224",
+                "Address": "Superchat4.png",
+                "Hash" : "b55442af1dd8b282560bb42d102c2224"
+            },
+            "Adaptive":{
                 "Address": "Superchat_Ex.png",
-                "Hash" : "cbc78086b8126c66d783460c1af5eaff"      
-            }
-        }                                   
+                "Hash" : "cbc78086b8126c66d783460c1af5eaff"    
+            }            
+        }                                 
     ],
     "stamps":[
         {
