@@ -483,6 +483,8 @@
 	        "Name" : "Babycar",
 		    "Bounce": "false",
 		    "Adaptive": "true", 
+            "SeekerCostume": "false",
+            "LongNeckCostume":"false",
 		    "Main": {
 		        "Address": "Babycar.png",
                 "Hash": "b22e5a68c2961fba1ba9e03918a1cbcc"
@@ -733,6 +735,8 @@
             "Bounce": "false",
             "Adaptive": "true",
             "IsSkinny": "true",
+            "SeekerCostume": "false",
+            "LongNeckCostume":"false",
             "Main": {
                 "Address": "Bike.png",
                 "Hash": "43c54e0439b1a8cd164b3841cab343ce",
@@ -1105,6 +1109,8 @@
             "Bounce": "false",
             "Adaptive": "true",
             "IsSkinny": "true",
+            "SeekerCostume": "false",
+            "LongNeckCostume":"false",
             "Main": {
                 "Address": "Chase.png",
                 "Hash": "0d70b3b99ee7afbc425c763e19d35ca1",
@@ -2945,6 +2951,7 @@
 		    "Name" : "Macho",
 		    "Bounce": "false",
 		    "Adaptive": "true",
+            "IsSkinny": "true",
             "FPS": "7",
 		    "Main": {
 		        "Address": "Macho.png",
@@ -5861,6 +5868,7 @@
             "Adaptive": "true",
             "HideHands": "true",
             "SeekerCostume": "false",
+            "LongNeckCostume":"false",
             "Main": {
                 "Address": "Vessel.png",
                 "Hash": "68a7bc2ec13106922eeabd8b5c9bfb51" 
