@@ -82,7 +82,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Agent",                
+            "MainItem" : "Agent-V",                
             "Name" : "Agent",
             "Bounce": "false",
             "Adaptive": "false",
@@ -118,7 +118,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Agent",    
+            "MainItem" : "Agent-V",    
             "Name" : "Agent2",
             "Bounce": "false",
             "Adaptive": "false",
@@ -154,7 +154,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Agent",                     
+            "MainItem" : "Agent-V",                     
             "Name" : "Agent3",     
             "Bounce": "false",
             "Adaptive": "false",
@@ -190,7 +190,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Airplane",
+            "MainItem" : "Airplane-V",
             "Name" : "Airplane",
             "Bounce": "false",
             "Adaptive": "false",
@@ -220,7 +220,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Airplane",                     
+            "MainItem" : "Airplane-V",                     
             "Name" : "Airplane2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -296,14 +296,14 @@
             "Package": "Catudon Costume",               
             "Name" : "Animal Ear2",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Main": {
                 "Address": "Animal Ear2.png",
-                "Hash": "e536b38d1dce8d0a39588c2362f4e83f"           
+                "Hash": "1aa74a21748fa31c9f6bd244a0ac45f5"           
             },
             "Climb": {
-                "Address": "Animal Ear1_Climb.png",
-                "Hash": "cec3fce05cb9999cd2ed95ec889653d3"
+                "Address": "Animal Ear2_Climb.png",
+                "Hash": "6058ac53a723dcd084924d6da28e647f"
             }
         },        
         {
@@ -429,7 +429,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",   
-            "MainItem":"Artist",                   
+            "MainItem":"Artist-V",                   
             "Name": "Artist",
             "Bounce": "false",
             "Adaptive": "true",
@@ -446,7 +446,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Artist",            
+            "MainItem":"Artist-V",            
             "Name": "Artist2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -537,8 +537,8 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "Catudon Costume",
-            "MainItem":"Baseballhat",            
+            "Package": "Catudon Costume",  
+            "MainItem":"Baseballhat-V",
             "Name": "Baseball",
             "Bounce": "false",
             "Adaptive": "true",
@@ -570,7 +570,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Baseballhat",
+            "MainItem":"Baseballhat-V",
             "Name": "Baseballhat2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -602,6 +602,10 @@
             "Climb": {
                 "Address": "Bass drum_Climb.png",
                 "Hash": "a9d3ccd7984396c3d0b90e40344a2a16"
+            },
+            "Preview": {
+                "Address": "Bass drum_Preview.png",
+                "Hash": "aff9ca16704fcf3d3674a366afbab117"
             }
         },        
         {
@@ -732,6 +736,7 @@
             "Name": "Bike",
             "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Bike.png",
                 "Hash": "43c54e0439b1a8cd164b3841cab343ce",
@@ -975,7 +980,7 @@
             "Package": "Catudon Costume",
             "Name": "Carpenter",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Main": {
                 "Address": "Carpenter.png",
                 "Hash": "d6edb96a0b2e592efa8f67499d10e177",
@@ -1003,7 +1008,7 @@
             "Package": "Catudon Costume",
             "Name": "Carpenter(Se)",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "IsHidden" : "true",
             "Main": {
                 "Address": "Carpenter(Se).png",
@@ -1041,7 +1046,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Cat",                    
+            "MainItem":"Cat-V",                    
             "Name": "Cat",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1062,7 +1067,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Cat",                        
+            "MainItem":"Cat-V",                        
             "Name": "Cat2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1103,9 +1108,11 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem":"Chase-V",
             "Name": "Chase",
             "Bounce": "false",
             "Adaptive": "true",
+            "IsSkinny": "true",
             "Main": {
                 "Address": "Chase.png",
                 "Hash": "0d70b3b99ee7afbc425c763e19d35ca1",
@@ -1123,7 +1130,31 @@
 	    },     
         {
             "Author": "catudon",
-            "Package": "Catudon Costume",                     
+            "Package": "Catudon Costume",
+            "MainItem":"Chase-V",
+            "Name": "Chase2",
+            "Bounce": "false",
+            "Adaptive": "true",
+            "IsSkinny": "true",
+            "Main": {
+                "Address": "Chase2.png",
+                "Hash": "f5435d4dde5119ecb6752e91784d0d5b",
+                "MaskAddress":"AllCover.png",
+                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+            },
+            "Climb": {
+                "Address": "Chase_Climb.png",
+                "Hash": "c90a5011404db7efdac2544619d5e113"
+            },            
+            "Preview": {
+                "Address": "Chase_Preview.png",
+                "Hash": "ce70a378460df4b5ae5357678e1b4ece"
+            }
+	    },         
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",  
+            "MainItem":"Cheerleader-V",                       
             "Name": "Cheerleader",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1171,10 +1202,11 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Cheerleader",                        
+            "MainItem":"Cheerleader-V",                        
             "Name": "Cheerleader2",
             "Bounce": "false",
             "Adaptive": "true",
+            "FPS":"6",
             "Main": {
                 "Address": "Cheerleader2.png",
                 "Hash": "0889445b2c6bcd562427d72aed77b85d",
@@ -1229,6 +1261,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem":"Chef-V",
             "Name": "Chef(Se)",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1271,7 +1304,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Chef",
+            "MainItem":"Chef-V",
             "Name": "Chef2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1517,6 +1550,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem":"Crime Scene Cleaners-V",
             "Name": "Crime Scene Cleaners",
             "Bounce": "false",
             "Adaptive": "true",
@@ -1538,7 +1572,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Crime Scene Cleaners",
+            "MainItem":"Crime Scene Cleaners-V",
             "Name": "Crime Scene Cleaners",
             "Bounce": "false",
             "Adaptive": "false",
@@ -1897,7 +1931,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Drunk",            
+            "MainItem":"Drunk-V",            
 		    "Name" : "Drunk",
 		    "Bounce": "false",
 		    "Adaptive": "true",
@@ -1917,7 +1951,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Drunk",
+            "MainItem":"Drunk-V",
 		    "Name" : "Drunk2",
 		    "Bounce": "false",
 		    "Adaptive": "true",
@@ -2082,7 +2116,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Fox",            
+            "MainItem":"Fox-V",            
             "Name": "Fox",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2103,7 +2137,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Fox",
+            "MainItem":"Fox-V",
             "Name": "Fox2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2128,7 +2162,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Gentleman",                    
+            "MainItem": "Gentleman-V",                    
             "Name": "Gentleman",
             "Bounce": "false",
             "Adaptive": "false",
@@ -2168,7 +2202,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Gentleman",            
+            "MainItem": "Gentleman-V",            
             "Name": "Gentleman2",
             "Bounce": "false",
             "Adaptive": "false",
@@ -2212,7 +2246,8 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
             "SeekerCostume": "false",
-            "LongNeckCostume": "false",         
+            "LongNeckCostume": "false",
+            "IsSkinny": "true",         
             "FPS": "5",            	            
 		    "Main": {
 		        "Address": "Ghost.png",
@@ -2421,7 +2456,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Hero",            
+            "MainItem":"Hero-V",            
             "Name": "Hero",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2459,7 +2494,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Hero",
+            "MainItem":"Hero-V",
             "Name": "Hero2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2472,7 +2507,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Housekeeper",            
+            "MainItem":"Housekeeper-V",            
             "Name" : "Housekeeper",
             "Bounce": "false",
             "HideHands":"true",
@@ -2515,7 +2550,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Housekeeper",
+            "MainItem":"Housekeeper-V",
             "Name": "Housekeeper2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -2636,6 +2671,10 @@
             "Climb": {
                 "Address": "Japanese drum_Climb.png",
                 "Hash": "51a56733816f96d80a6e40828313b77e"
+            },
+            "Preview":{
+                "Address": "Japanese drum_Preview.png",
+                "Hash": "d60bb75cc45bc0ac72872b7435032cf7"
             }
         },          
         {
@@ -2760,7 +2799,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Kasa",
+            "MainItem":"Kasa-V",
             "Name" : "Kasa",
             "Bounce": "false",
             "Adaptive": "false",
@@ -2776,7 +2815,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Kasa",            
+            "MainItem":"Kasa-V",            
             "Name" : "Black Kasa",
             "Bounce": "false",
             "Adaptive": "false",
@@ -2814,7 +2853,7 @@
             "Package": "Catudon Costume",
             "Name": "Koumon",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "Main": {
                 "Address": "Koumon.png",
                 "Hash": "a50b10ea4a9a3815e4a9164fc09c10cf",
@@ -2836,7 +2875,7 @@
             "Package": "Catudon Costume",
             "Name": "Koumon(Rw)",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "IsHidden":"true",            
             "Main": {
                 "Address": "Koumon(Rw).png",
@@ -2881,16 +2920,19 @@
 		    "Name" : "Load",
 		    "Bounce": "false",
 		    "Adaptive": "true",
+            "FPS": "5",
 		    "Main": {
 		        "Address": "Load.png",
-                "Hash": "fe4eec439c101510c65078d06f7b1fd3"
+                "Hash": "fe4eec439c101510c65078d06f7b1fd3",
+                "Length":"2"
+            
 		    },
             "Back": {
-		        "Address": "Load_Back.png",
+		        "Address": "Lord_Back.png",
                 "Hash": "6a9fc8d50a31c579ffed1d8fa5d44849"
 		    },
 		    "Climb": {
-		        "Address": "Load_Climb.png",
+		        "Address": "Lord_Climb.png",
                 "Hash": "f8fb5046127496be8d5960286d86b9cf"
             },
             "SeekerAlternative" : {
@@ -2905,11 +2947,11 @@
 		    "Bounce": "false",
 		    "Adaptive": "true",
             "Back": {
-		        "Address": "Load_Back(Se).png",
-                "Hash": "1f5ba1fb523cc1ff8c5dcd6b97d95f3d"
+		        "Address": "Lord_Back.png",
+                "Hash": "6a9fc8d50a31c579ffed1d8fa5d44849"
 		    },
 		    "Climb": {
-		        "Address": "Load(Se)_Climb.png",
+		        "Address": "Lord(Se)_Climb.png",
                 "Hash": "abc14f47cbad93745bc4b0de8c44e5e5"
             }
 		},       
@@ -2919,6 +2961,7 @@
 		    "Name" : "Macho",
 		    "Bounce": "false",
 		    "Adaptive": "true",
+            "FPS": "7",
 		    "Main": {
 		        "Address": "Macho.png",
                 "Hash": "689e896999219a93fb95181dec6b00a1",
@@ -3022,7 +3065,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Mexican",
+            "MainItem":"Mexican-V",
             "Name": "Mexican",
             "Bounce": "false",
             "Adaptive": "true",
@@ -3049,7 +3092,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Mexican",
+            "MainItem":"Mexican-V",
             "Name": "Mexican",
             "Bounce": "false",
             "Adaptive": "true",
@@ -3099,7 +3142,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Military uniform",
+            "MainItem" : "Military uniform-V",
             "Name" : "Military uniform",
             "Bounce": "false",
             "Adaptive": "false",
@@ -3139,7 +3182,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Military uniform",
+            "MainItem" : "Military uniform-V",
             "Name" : "Military uniform2",
             "Bounce": "false",
             "Adaptive": "false",
@@ -3179,7 +3222,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Military uniform",            
+            "MainItem" : "Military uniform-V",            
             "Name" : "Military uniform3",
             "Bounce": "false",
             "Adaptive": "false",
@@ -3518,16 +3561,16 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Otaku",
+            "Name": "Otaku-V",
             "Bounce": "false",
             "Adaptive": "true",
             "Main": {
                 "Address": "Otaku1-1.png",
-                "Hash": "69890c4c269a5fffe29fe33a3fe896e6"
+                "Hash": "f6b553fbff097a5cfdac01d06513ad2e"
             }, 
             "Climb": {
                 "Address": "Otaku1-1_Climb.png",
-                "Hash": "25465579d74bdc0f4aca6076f5a4356f"
+                "Hash": "1deefc50518ff80f4d4e5ed4ec2c3465"
             },
             "OnButton": {
                 "Author" : "catudon",
@@ -3565,17 +3608,17 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Otaku",            
+            "MainItem": "Otaku-V",            
             "Name": "Otaku2",
             "Bounce": "false",
             "Adaptive": "true",
             "Main": {
                 "Address": "Otaku2-1.png",
-                "Hash": "1afdee4679dbc4df613f2c031e812701"
+                "Hash": "a309898784d46e131582a38ebede9d27"
             }, 
             "Climb": {
                 "Address": "Otaku2-1_Climb.png",
-                "Hash": "e9471d3bd3dbc50457e2b5d4cca218b4"
+                "Hash": "6ad73348a3bf917dbc762d92a3650ccc"
             },
             "OnButton": {
                 "Author" : "catudon",
@@ -3707,7 +3750,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Parker",
+            "MainItem":"Parker-V",
             "Name" : "Parker",
             "Bounce": "false",
             "Adaptive": "true",
@@ -3753,7 +3796,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Parker",
+            "MainItem":"Parker-V",
             "Name" : "Parker2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -3799,7 +3842,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Parker",            
+            "MainItem":"Parker-V",            
             "Name" : "Parker3",
             "Bounce": "false",
             "Adaptive": "false",
@@ -4175,8 +4218,7 @@
         },
         {
             "Author": "catudon",
-            "Package": "Catudon Costume",
-            "MainItem":"Rapper",            
+            "Package": "Catudon Costume",           
             "Name" : "Rapper",
             "Bounce": "false",
             "Adaptive": "true",
@@ -4192,7 +4234,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Reading",
+            "MainItem":"Reading-V",
 	        "Name" : "Reading",
 		    "Bounce": "false",
             "Adaptive": "true",
@@ -4234,7 +4276,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Reading",            
+            "MainItem":"Reading-V",            
 	        "Name" : "Reading2",
 		    "Bounce": "false",
             "Adaptive": "true",
@@ -4334,6 +4376,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem" : "Rich-V",                  
             "Name" : "Rich",
             "Bounce": "false",
             "Adaptive": "true",
@@ -4355,7 +4398,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Rich",            
+            "MainItem" : "Rich-V",            
             "Name" : "Rich2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -4501,7 +4544,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Santa Claus",
+            "MainItem":"Santa Claus-V",
             "Name": "Santa Claus",
             "Bounce": "false",
             "Adaptive": "false",
@@ -4537,7 +4580,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-	        "MainItem" : "Santa Claus",            
+	        "MainItem" : "Santa Claus-V",            
             "Name": "Black Santa",
             "Bounce": "false",
             "Adaptive": "false",
@@ -4595,6 +4638,7 @@
             "Name": "School run(Se)",
             "Bounce": "false",
             "Adaptive": "false",
+            "IsHidden":"true",
             "Main": {
                 "Address": "School run(Se).png",
                 "Hash": "dba89dcdcec20f4d6d73a58e16dcf4f9"
@@ -4723,7 +4767,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Signboard",
 		    "Bounce": "false",
-            "Adaptive":"false",            
+            "Adaptive":"true",            
             "HideHands":"true",
             "Main":{
 		        "Address": "Signboard.png",
@@ -4764,7 +4808,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Signboard1",
 		    "Bounce": "false",
-            "Adaptive":"false",
+            "Adaptive":"true",
             "HideHands":"true",
             "IsHidden":"true",
             "Main":{
@@ -4802,7 +4846,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Signboard2",
 		    "Bounce": "false",
-            "Adaptive":"false",
+            "Adaptive":"true",
             "HideHands":"true",
             "IsHidden":"true",
             "Main":{
@@ -4878,7 +4922,7 @@
             "Package": "Catudon Costume",
 		    "Name" : "Signboard4",
 		    "Bounce": "false",
-            "Adaptive":"false",
+            "Adaptive":"true",
             "HideHands":"true",
             "IsHidden":"true",
             "Main":{
@@ -5632,7 +5676,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Ukulele",
+            "MainItem" : "Ukulele-V",
             "Name" : "Ukulele",
             "Bounce": "false",
             "Adaptive": "true",
@@ -5652,7 +5696,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Ukulele",            
+            "MainItem" : "Ukulele-V",            
             "Name" : "Ukulele2",
             "Bounce": "false",
             "Adaptive": "true",
@@ -5884,7 +5928,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem" : "Yoyo",
+            "MainItem" : "Yoyo-V",
 		    "Name" : "Yoyo",
 		    "Bounce": "false",
 		    "Adaptive": "true",
@@ -5903,7 +5947,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "MainItem" : "Yoyo",            
+		    "MainItem" : "Yoyo-V",            
 		    "Name" : "Yoyo2",
 		    "Bounce": "false",
 		    "Adaptive": "true",
@@ -6419,7 +6463,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem":"Fulu",
+            "MainItem":"Fulu-V",
             "Name": "Fulu",
             "Adaptive": "false",
             "BehindHat": "true",
@@ -6431,7 +6475,7 @@
 	    {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Fulu",            
+            "MainItem": "Fulu-V",            
             "Name": "Fulu2",
             "Adaptive": "false",
             "BehindHat": "true",
@@ -6443,7 +6487,7 @@
 	    {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Fulu",               
+            "MainItem": "Fulu-V",               
             "Name": "Fulu3",
             "Adaptive": "false",
             "BehindHat": "true",
@@ -6455,7 +6499,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",         
-            "MainItem": "Glaring",  
+            "MainItem": "Glaring-V",  
             "Name": "Glaring",
             "Adaptive": "false",
             "BackmostBack":"true",
@@ -6474,7 +6518,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",        
-            "MainItem": "Glaring",                   
+            "MainItem": "Glaring-V",                   
             "Name": "Glaring2",
             "Adaptive": "false",
             "BackmostBack":"true",
@@ -6493,7 +6537,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Heart",
+            "MainItem": "Glass - Heart-V",
             "Name": "Glass - Heart",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6505,7 +6549,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Heart",            
+            "MainItem": "Glass - Heart-V",            
             "Name": "Glass - Heart2",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6517,7 +6561,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Heart",            
+            "MainItem": "Glass - Heart-V",            
             "Name": "Glass - Heart3",
             "Adaptive": "true",
 	        "Tags" : ["party"],
@@ -6529,7 +6573,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Heart",            
+            "MainItem": "Glass - Heart-V",            
             "Name": "Glass - Heart4",
             "Adaptive": "true",
 	        "Tags" : ["party"],
@@ -6541,7 +6585,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Star",
+            "MainItem": "Glass - Star-V",
             "Name": "Glass - Star",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6553,7 +6597,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Star", 
+            "MainItem": "Glass - Star-V", 
             "Name": "Glass - Star2",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6565,7 +6609,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Star",            
+            "MainItem": "Glass - Star-V",            
             "Name": "Glass - Star3",
             "Adaptive": "true",
 	        "Tags" : ["party"],
@@ -6577,7 +6621,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Star",            
+            "MainItem": "Glass - Star-V",            
             "Name": "Glass - Star4",
             "Adaptive": "true",
 	        "Tags" : ["party"],
@@ -6589,7 +6633,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Round",
+            "MainItem": "Glass - Round-V",
             "Name": "Glass - Round",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6601,7 +6645,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Round", 
+            "MainItem": "Glass - Round-V", 
             "Name": "Glass - Round2",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6613,7 +6657,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Round",            
+            "MainItem": "Glass - Round-V",            
             "Name": "Glass - Round3",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6625,7 +6669,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "MainItem": "Glass - Round",            
+            "MainItem": "Glass - Round-V",            
             "Name": "Glass - Round4",
             "Adaptive": "false",
 	        "Tags" : ["party"],
@@ -6847,7 +6891,7 @@
             "FPS":"3",
             "Back": {
                 "Address": "Timer_Back.png",
-                "Hash": "abe6a59fc0c21e7b29365531549c2245",
+                "Hash": "fdf31f30a705e8342f827e18cf9d433f",
                 "ExAddress": "Timer.png",
                 "ExHash": "33e02141c1b38239907dea85131fc7cf",
                 "ExIsFront":"true",
@@ -6855,7 +6899,7 @@
             },
             "BackFlip": {
                 "Address": "Timer_BackFlip.png",
-                "Hash": "fdf31f30a705e8342f827e18cf9d433f",
+                "Hash": "abe6a59fc0c21e7b29365531549c2245",
                 "ExAddress": "Timer_ExBack.png",
                 "ExHash": "e4cba65c399fef82d9c5636a55c0b85d",
                 "ExIsFront":"true",                
@@ -6925,7 +6969,7 @@
             },
             "Preview":{
                 "Address": "Torii_Preview.png",
-                "Hash": "83ac5dfbeaf5f5a30e05a91509691651"
+                "Hash": "554635d6e71bcf8147bf16033f38665e"
             }
         },
         {
@@ -7174,7 +7218,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
 		    "Name" : "Eyemask17",
-		    "Adaptive": "false",
+		    "Adaptive": "true",
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "Eyemask17.png",
@@ -7225,7 +7269,7 @@
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Emoticon1",
-            "Adaptive": "true",
+            "Adaptive": "false",
             "BehindHat": "true",
             "Main": {
                 "Address": "Emoticon8.png",
@@ -8055,7 +8099,7 @@
             "Image": {
                 "Address": "WH.png",
                 "Hash" : "22b1bfd5cde42f24b524df06e5b1ea48",
-                "ExAddress": "TCap_JPN.png",
+                "ExAddress": "WH_JPN.png",
                 "ExHash" : "35af5c32f39d6c7c6ea1069b7cff6603",
                 "ExIsFront": "true"
             }
