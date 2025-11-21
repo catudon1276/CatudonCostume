@@ -191,7 +191,7 @@
             "Package": "Catudon Costume",
             "Name" : "Airplane",
             "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "FPS": "5",
             "Main": {
                 "Address": "Airplane.png",
@@ -5054,19 +5054,17 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Soba.png",
-                "Hash": "f646fda5d51e17d3e71ffd06ad51ac2d",                
+                "Hash": "85a5da1fbb36d54345cca08ac7dd819c",                
                 "ExAddress": "Soba_Ex.png",
-                "ExHash": "5caea6f2f7a17b038654629040bf3dcc"
+                "ExHash": "f646fda5d51e17d3e71ffd06ad51ac2d"
             },
             "Back": {
                 "ExAddress": "Soba_ExBack.png",
-                "ExHash": "7b4d5c6e8f9a0b1c2d3e4f5061728394"
+                "ExHash": "701c557f49d1f0a6982686e9799a7ae1"
             },
             "Move": {
                 "Address": "Soba.png",
-                "Hash": "f646fda5d51e17d3e71ffd06ad51ac2d",                
-                "ExAddress": "Soba_ExMove.png",
-                "ExHash": "e441bcfac9b3ee70ecb5fc8d1f06864d"
+                "Hash": "85a5da1fbb36d54345cca08ac7dd819c"
             },   
             "MoveBack": {
                 "ExAddress": "Soba_ExMoveBack.png",
@@ -5333,7 +5331,7 @@
                 "Length":"2"
             },
             "Preview": {
-                "Address": "Tank_Preview.png",
+                "Address": "Tank2_Preview.png",
                 "Hash": "cfa013daf63b9fc79253c614e5900dce"
             }
         },        
@@ -7734,7 +7732,8 @@
                 "Address": "Superchat0.png",
                 "Hash" : "87db7a9cffdba7390f2563dd84be1573",
                 "ExAddress": "Superchat_Ex.png",
-                "ExHash" : "cbc78086b8126c66d783460c1af5eaff"                
+                "ExHash" : "cbc78086b8126c66d783460c1af5eaff",
+                "ExIsFront":"true"             
             }
         },      
         {
@@ -7745,7 +7744,8 @@
                 "Address": "Superchat1.png",
                 "Hash" : "212890b6b34ba42151c0fa74768cae87",
                 "ExAddress": "Superchat_Ex.png",
-                "ExHash" : "cbc78086b8126c66d783460c1af5eaff"                
+                "ExHash" : "cbc78086b8126c66d783460c1af5eaff",
+                "ExIsFront":"true"            
             }
         },      
         {
@@ -7756,7 +7756,8 @@
                 "Address": "Superchat2.png",
                 "Hash" : "6060c4a3369193316f8c17c5f822c834",
                 "ExAddress": "Superchat_Ex.png",
-                "ExHash" : "cbc78086b8126c66d783460c1af5eaff"                
+                "ExHash" : "cbc78086b8126c66d783460c1af5eaff",
+                "ExIsFront":"true"                
             }
         },   
         {
@@ -7767,7 +7768,8 @@
                 "Address": "Superchat3.png",
                 "Hash" : "a3cdf27c4ee3ee95884a5fd214f39aaa",
                 "ExAddress": "Superchat_Ex.png",
-                "ExHash" : "cbc78086b8126c66d783460c1af5eaff"                
+                "ExHash" : "cbc78086b8126c66d783460c1af5eaff",
+                "ExIsFront":"true"                
             }
         },                   
         {
@@ -7778,7 +7780,8 @@
                 "Address": "Superchat4.png",
                 "Hash" : "b55442af1dd8b282560bb42d102c2224",
                 "ExAddress": "Superchat_Ex.png",
-                "ExHash" : "cbc78086b8126c66d783460c1af5eaff"                
+                "ExHash" : "cbc78086b8126c66d783460c1af5eaff",
+                "ExIsFront":"true"                
             }
         }                                   
     ],
