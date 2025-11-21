@@ -450,11 +450,11 @@
             "HideHands": "true",
             "Main": {
                 "Address": "Artist2.png",
-                "Hash": "35f87186545ceab76f253c932db96b5d"
+                "Hash": "7acdfad02b9cc69020c2cb0b214c5335"
             },
             "Climb": {
                 "Address": "Artist2_Climb.png",
-                "Hash": "21120df99955b4b0fe2737a3ebc3436d"
+                "Hash": "9b72445453b418f24a6eb09737b018a8"
             }
         },           
         {
@@ -741,7 +741,7 @@
             },
             "Preview": {
                 "Address": "Bike_Preview.png",
-                "Hash": "ed6695401d0260585540a638cebb16c6"
+                "Hash": "eef7eabf25659c57f3e9ebfae4903ab4"
             }
 	    },                      
         {
@@ -1605,9 +1605,9 @@
 	        "Tags" : ["music.instrument"],
             "Main": {
                 "Address": "Cymbals.png",
-                "Hash": "ea654ba2d91a8091dc27f05ac3bd1cff",
+                "Hash": "aaa4f3f4459c97c20f93ac9767a98c34",
                 "ExAddress": "Cymbals_Ex.png",
-                "ExHash": "aaa4f3f4459c97c20f93ac9767a98c34",                
+                "ExHash": "ea654ba2d91a8091dc27f05ac3bd1cff",                
                 "Length":"7"
             },
             "Climb": {
@@ -2653,12 +2653,12 @@
                 "ExIsFront":"true"
             },
             "Climb": {
-                "Address": "Japanese drum_Climb.png",
-                "Hash": "51a56733816f96d80a6e40828313b77e"
+                "ExAddress": "Japanese drum_Climb.png",
+                "ExHash": "51a56733816f96d80a6e40828313b77e"
             },
             "Preview":{
-                "Address": "Japanese drum_Preview.png",
-                "Hash": "d60bb75cc45bc0ac72872b7435032cf7"
+                "ExAddress": "Japanese drum_Preview.png",
+                "ExHash": "d60bb75cc45bc0ac72872b7435032cf7"
             }
         },          
         {
@@ -2839,14 +2839,14 @@
             "Adaptive": "true",
             "Main": {
                 "Address": "Koumon.png",
-                "Hash": "a50b10ea4a9a3815e4a9164fc09c10cf",
+                "Hash": "57584c405e361d0123b1360a6655359a",
                 "ExAddress": "Koumon_Ex.png",
-                "ExHash": "57584c405e361d0123b1360a6655359a" ,
+                "ExHash": "a50b10ea4a9a3815e4a9164fc09c10cf" ,
                 "ExIsFront":"true"                
             },
             "Climb": {
-                "Address": "Koumon_Climb.png",
-                "Hash": "0eb5dff8bd8d2cde8912d625a020e319"
+                "ExAddress": "Koumon_Climb.png",
+                "ExHash": "0eb5dff8bd8d2cde8912d625a020e319"
             },
             "OnButton":{
                 "Author" : "catudon",
@@ -2862,14 +2862,14 @@
             "IsHidden":"true",            
             "Main": {
                 "Address": "Koumon(Rw).png",
-                "Hash": "a0ccf1a98ec3fdb9734926d3e6df7776",
+                "Hash": "01c51f9a0086c5ca2fb656efa0da3725",
                 "ExAddress": "Koumon(Rw)_Ex.png",
-                "ExHash": "01c51f9a0086c5ca2fb656efa0da3725",
+                "ExHash": "a0ccf1a98ec3fdb9734926d3e6df7776",
                 "ExIsFront":"true"             
             },
             "Climb": {
-                "Address": "Koumon_Climb.png",
-                "Hash": "0eb5dff8bd8d2cde8912d625a020e319"
+                "ExAddress": "Koumon_Climb.png",
+                "ExHash": "0eb5dff8bd8d2cde8912d625a020e319"
             },
             "OnButton":{
                 "Author" : "catudon",
@@ -3566,14 +3566,17 @@
             "Name": "Otaku(Rw)",
             "Bounce": "false",
             "Adaptive": "true",
-            "IsHidden":"true",            
+            "IsHidden":"true",         
+            "FPS":"8",   
             "Main": {
                 "Address": "Otaku.png",
-                "Hash": "5c0220f857bc379470dc51fd62aed13f"
+                "Hash": "5c0220f857bc379470dc51fd62aed13f",
+                "Length":"3"
             }, 
             "Flip": {
                 "Address": "Otaku_Flip.png",
-                "Hash": "31a7273f056d3f3173486c5c154e6985"
+                "Hash": "31a7273f056d3f3173486c5c154e6985",
+                "Length":"3"
             }, 
             "Climb": {
                 "Address": "Otaku1-2_Climb.png",
@@ -3615,13 +3618,16 @@
             "Bounce": "false",
             "Adaptive": "true",
             "IsHidden":"true",
+            "FPS":"8",               
             "Main": {
                 "Address": "Otaku2.png",
-                "Hash": "7982f3b1c6aa098d5572663b988850bb"
+                "Hash": "7982f3b1c6aa098d5572663b988850bb",
+                "Length":"3"
             }, 
             "Flip": {
                 "Address": "Otaku2_Flip.png",
-                "Hash": "615607c1279657e9ccdd07d88ca84fbd"
+                "Hash": "615607c1279657e9ccdd07d88ca84fbd",
+                "Length":"3"
             }, 
             "Climb": {
                 "Address": "Otaku2-2_Climb.png",
@@ -4768,12 +4774,12 @@
                 "Hash": "db115adebcb93077031830e400950165"                      
 		    },                            
             "Climb":{
-		        "Address": "Signboard_Climb.png",
-                "Hash": "efc9ed059ec4e32dba483e1d39d12e65"
+		        "ExAddress": "Signboard_Climb.png",
+                "ExHash": "efc9ed059ec4e32dba483e1d39d12e65"
 		    },            
             "Preview":{
-		        "Address": "Signboard_Move.png",
-                "Hash": "1d0a830365c24e412871c55e958fea1d"
+		        "ExAddress": "Signboard_Move.png",
+                "ExHash": "1d0a830365c24e412871c55e958fea1d"
 		    },
             "OnButton":{
                 "Author" : "catudon",
@@ -4807,8 +4813,8 @@
                 "Hash": "db115adebcb93077031830e400950165"
 		    },                
             "Climb":{
-		        "Address": "Signboard_Climb.png",
-                "Hash": "efc9ed059ec4e32dba483e1d39d12e65"
+		        "ExAddress": "Signboard_Climb.png",
+                "ExHash": "efc9ed059ec4e32dba483e1d39d12e65"
 		    },            
             "OnButton":{
                 "Author" : "catudon",
@@ -4842,8 +4848,8 @@
                 "Hash": "db115adebcb93077031830e400950165"
             },               
             "Climb":{
-		        "Address": "Signboard_Climb.png",
-                "Hash": "efc9ed059ec4e32dba483e1d39d12e65"
+		        "ExAddress": "Signboard_Climb.png",
+                "ExHash": "efc9ed059ec4e32dba483e1d39d12e65"
 		    },            
             "OnButton":{
                 "Author" : "catudon",
@@ -4877,8 +4883,8 @@
                 "Hash": "db115adebcb93077031830e400950165"                       
 		    },              
             "Climb":{
-		        "Address": "Signboard_Climb.png",
-                "Hash": "efc9ed059ec4e32dba483e1d39d12e65"
+		        "ExAddress": "Signboard_Climb.png",
+                "ExHash": "efc9ed059ec4e32dba483e1d39d12e65"
 		    },            
             "OnButton":{
                 "Author" : "catudon",
@@ -4912,8 +4918,8 @@
                 "Hash": "db115adebcb93077031830e400950165"
             },                         
             "Climb":{
-		        "Address": "Signboard_Climb.png",
-                "Hash": "efc9ed059ec4e32dba483e1d39d12e65"
+		        "ExAddress": "Signboard_Climb.png",
+                "ExHash": "efc9ed059ec4e32dba483e1d39d12e65"
 		    },            
             "OnButton":{
                 "Author" : "catudon",
@@ -5295,8 +5301,42 @@
                 "Address": "Tank_Move.png",
                 "Hash": "f5796d067f9ee8a1ae6d41d6b2931b11",
                 "Length":"2"
+            },
+            "Preview": {
+                "Address": "Tank_Preview.png",
+                "Hash": "138b2e0f6879caf682222e1a9e7c4d07"
             }
         },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem":  "Tank",
+            "Name" : "Tank2",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "FPS": "5", 
+            "Main": {
+                "Address": "Tank2.png",
+                "Hash": "634c0c35d73651c2f885a96d726e4963"
+            },
+            "Back": {
+                "Address": "Tank_Back.png",
+                "Hash": "0c961d735a9d23de0d82e945d81ebd1e"
+            },
+            "Climb": {
+                "Address": "Tank2_Climb.png",
+                "Hash": "9de7d0fa280edc758319b84b14719d9a"
+            },
+            "Move": {
+                "Address": "Tank2_Move.png",
+                "Hash": "e959b4d11ba85fe23b31a2b4a7cdb364",
+                "Length":"2"
+            },
+            "Preview": {
+                "Address": "Tank_Preview.png",
+                "Hash": "cfa013daf63b9fc79253c614e5900dce"
+            }
+        },        
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -6015,7 +6055,7 @@
                 "Hash": "c0b19ca87d79a2f773d1050c260e7b5a",
                 "ExAddress": "Master(Rw)_Ex.png",
                 "ExHash": "78af5f8383f6c6bba405d91c1cfcf221",
-                "ExIsFront":"false"                
+                "ExIsFront":"true"                
 		    },
             "Climb": {
                 "Address": "Master_Climb.png",
@@ -6023,7 +6063,7 @@
 		    },
             "OnButton" : {
                 "Author" : "catudon",
-                "Name" : "Master(Rw)"
+                "Name" : "Master"
             }            
 	    },             
         {
