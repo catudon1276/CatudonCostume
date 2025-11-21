@@ -2544,10 +2544,12 @@
             "Name": "Housekeeper2",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",            
+            "HideHands": "true",
+            "FPS": "15",               
             "Main": {
                 "Address": "Housekeeper2.png",
-                "Hash": "c3886023762a097f0383916f4f11d8ec"
+                "Hash": "c3886023762a097f0383916f4f11d8ec",
+                "Length":"7"                
             }
 	    },           
         {
@@ -6365,6 +6367,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem": "Blindfold",            
             "Name": "Blindfold(Color)",
             "BehindHat": "true",
             "Adaptive": "true",
@@ -6376,6 +6379,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem": "Blindfold",                   
             "Name": "Blindfold(Symbol)",
             "BehindHat": "true",
             "Adaptive": "true",
@@ -7196,7 +7200,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "VisorCover.png",
-                "Hash": "ed1353de185f7c8ccdaafa014aa8d8e8",
+                "Hash": "e6a0f6ff33e1b2218765f8ce50e872ce",
                 "ExAddress":"Eyemask14.png",
                 "ExHash":"3704feb4df8b880b5dd8dc28287d8c5e",
                 "ExIsFront" :"true"                
@@ -7243,7 +7247,7 @@
             "BehindHat": "true",
 		    "Main": {
 		        "Address": "VisorCover.png",
-                "Hash": "ed1353de185f7c8ccdaafa014aa8d8e8",
+                "Hash": "e6a0f6ff33e1b2218765f8ce50e872ce",
                 "ExAddress":"Eyemask18.png",
                 "ExHash":"f821931717ad63427eb120d27fb97724",
                 "ExIsFront" :"true"                
