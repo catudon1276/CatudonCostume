@@ -3420,10 +3420,12 @@
             "Bounce": "false",
             "Adaptive": "false",
             "HideHands": "true",
-            "IsHidden":"true",            
+            "IsHidden":"true",  
+            "FPS":"4",          
             "Main": {
                 "Address": "Note(Rw).png",
-                "Hash": "b74e7423ec4490362e7d08122a76f8e2"
+                "Hash": "b74e7423ec4490362e7d08122a76f8e2",
+                "Length":"4"
             },
             "OnButton" : {
                 "Author" : "catudon",
@@ -6055,15 +6057,14 @@
             "Package": "Subcul Costume",
 	        "Name" : "Master(Rw)",
 		    "Bounce": "false",
-            "Adaptive": "false",
+            "Adaptive": "true",
             "SeekerCostume": "false",
             "IsHidden":"true",            
 		    "Main": {
-		        "Address": "Master(Rw).png",
-                "Hash": "c0b19ca87d79a2f773d1050c260e7b5a",
-                "ExAddress": "Master(Rw)_Ex.png",
-                "ExHash": "78af5f8383f6c6bba405d91c1cfcf221",
-                "ExIsFront":"true"                
+		        "ExAddress": "Master(Rw).png",
+                "ExHash": "c0b19ca87d79a2f773d1050c260e7b5a",
+                "Address": "Master(Rw)_Ex.png",
+                "Hash": "78af5f8383f6c6bba405d91c1cfcf221"       
 		    },
             "Climb": {
                 "Address": "Master_Climb.png",
