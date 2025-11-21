@@ -10,4 +10,5 @@ Among Us MODで使われるハットとバイザーをかいています
 
 <連絡先>  
 Mail : tsumugi0590@gmail.com  
-X : [ネコうどん](https://x.com/catudon_1276)  
+X : [ネコうどん](https://x.com/ura_3796)  
+Discord： [カツどん](discordapp.com/users/772014534754959391)
