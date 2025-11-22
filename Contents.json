@@ -1305,6 +1305,7 @@
             "Bounce": "false",
             "Adaptive": "true",
             "IsSkinny": "true",	
+            "FPS": "8",            
             "Main": {
                 "Address": "Chef2.png",
                 "Hash": "ff72e30b739a1939ab6d1e2cdf5dbc46",
@@ -2849,8 +2850,7 @@
                 "Address": "Koumon.png",
                 "Hash": "57584c405e361d0123b1360a6655359a",
                 "ExAddress": "Koumon_Ex.png",
-                "ExHash": "a50b10ea4a9a3815e4a9164fc09c10cf" ,
-                "ExIsFront":"true"                
+                "ExHash": "a50b10ea4a9a3815e4a9164fc09c10cf"
             },
             "Climb": {
                 "ExAddress": "Koumon_Climb.png",
@@ -2872,8 +2872,7 @@
                 "Address": "Koumon(Rw).png",
                 "Hash": "01c51f9a0086c5ca2fb656efa0da3725",
                 "ExAddress": "Koumon(Rw)_Ex.png",
-                "ExHash": "a0ccf1a98ec3fdb9734926d3e6df7776",
-                "ExIsFront":"true"             
+                "ExHash": "a0ccf1a98ec3fdb9734926d3e6df7776"
             },
             "Climb": {
                 "ExAddress": "Koumon_Climb.png",
@@ -2881,7 +2880,7 @@
             },
             "OnButton":{
                 "Author" : "catudon",
-                "Name" : "Koumon(Rw)"
+                "Name" : "Koumon"
             }
         },              
         {
