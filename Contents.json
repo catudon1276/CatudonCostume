@@ -3721,6 +3721,7 @@
             "Name": "Paripi",
             "Bounce": "false",
             "Adaptive": "true",
+            "HideHands": "true",
             "Main": {
                 "Address": "Paripi.png",
                 "Hash": "2806b514d42ce78c1526d813fadbe166"
@@ -8259,7 +8260,7 @@
             {
                 "Package": "Catudon Stamps",
                 "Format": "Catudon Stamps",
-                "Priority" : "999"
+                "Priority" : "1"
             },
             {
                 "Package": "Catudon Costume",
