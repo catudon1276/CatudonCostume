@@ -1278,7 +1278,6 @@
             "Name": "Chef(Rw)",
             "Bounce": "false",
             "Adaptive": "true",
-            "IsSkinny": "true",	
             "IsHidden": "true",
             "Main": {
                 "Address": "Chef(Rw).png",
@@ -1304,7 +1303,6 @@
             "Name": "Chef2",
             "Bounce": "false",
             "Adaptive": "true",
-            "IsSkinny": "true",	
             "FPS": "8",            
             "Main": {
                 "Address": "Chef2.png",
@@ -1325,7 +1323,6 @@
             "Name": "Chef2(Rw)",
             "Bounce": "false",
             "Adaptive": "true",
-            "IsSkinny": "true",	
             "IsHidden": "true",
             "Main": {
                 "Address": "Chef2(Rw).png",
