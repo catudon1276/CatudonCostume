@@ -6285,23 +6285,23 @@
 		    "Main": {
                 "Address": "Dash2.png",
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
-                "MaskAddress": "AllCover.png",
-                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
+                "MaskAddress": "AllCover-7.png",
+                "MaskHash": "07454a027e6c30d407673ac41289e2c9",
                 "Length":"7"  
 		    },
             "Climb": {
                 "Address": "Dash2.png",
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
-                "MaskAddress": "AllCover.png",
-                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
-                "Length":"7"  
+                "MaskAddress": "AllCover-7.png",
+                "MaskHash": "07454a027e6c30d407673ac41289e2c9",
+                "Length":"7"    
 		    },
             "Exile": {
                 "Address": "Dash2.png",
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
-                "MaskAddress": "AllCover.png",
-                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
-                "Length":"7"  
+                "MaskAddress": "AllCover-7.png",
+                "MaskHash": "07454a027e6c30d407673ac41289e2c9",
+                "Length":"7"   
 		    },
             "OnButton" : {
                 "Author" : "catudon",
