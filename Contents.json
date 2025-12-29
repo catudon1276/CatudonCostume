@@ -1630,7 +1630,7 @@
             "FPS":"10",   
 		    "Move": {
 		        "Address": "Dash.png",
-                "Hash": "ab6fbd6db60ca326f7cbe9a62ce006d7",
+                "Hash": "174ce38dd57d594144b795bd50d889d7",
                 "MaskAddress":"Dash_Ma.png",
                 "MaskHash":"95a009a7e4e63a04c8a4371d14715a35",
                 "Length":"3"
@@ -7167,8 +7167,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask1",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",           
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7176,7 +7175,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask.png",
                 "ExHash": "55540c185005c0cac59bd99cefa14554",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"        
             }
         },
         {
@@ -7186,13 +7185,13 @@
             "Name": "Eyemask1_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask.png",
                 "ExHash": "55540c185005c0cac59bd99cefa14554",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"
+                        
             }
         },  
         {
@@ -7226,7 +7225,6 @@
             "Name": "Eyemask3",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7234,7 +7232,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask3.png",
                 "ExHash": "05b6bda4048225637fb66a5d777d4f8e",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"        
             }
         },
         {
@@ -7243,14 +7241,13 @@
             "MainItem" : "Eyemask3",           
             "Name": "Eyemask3_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",         
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask3.png",
                 "ExHash": "05b6bda4048225637fb66a5d777d4f8e",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"           
             }
         },  
         {
@@ -7258,8 +7255,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask4",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",      
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7267,7 +7263,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask4.png",
                 "ExHash": "694ebf99457b2867dc2a680dfab4760a",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"        
             }
         },
         {
@@ -7276,14 +7272,13 @@
             "MainItem" : "Eyemask4",           
             "Name": "Eyemask4_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",        
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask4.png",
                 "ExHash": "694ebf99457b2867dc2a680dfab4760a",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"           
             }
         },         
         {
@@ -7316,8 +7311,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask6",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",       
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7325,7 +7319,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask6.png",
                 "ExHash": "1493fb29bde59744c4afd9d73cf8b48b",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"        
             },
             "Move": {
                 "Address": "VisorCover2.png",
@@ -7334,7 +7328,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask6_Move.png",
                 "ExHash": "b2d072416e044fefe18a84cdc365a59d",
-                "ExIsFront":"false"         
+                "ExIsFront":"true"         
             }            
         },
         {
@@ -7343,21 +7337,20 @@
             "MainItem" : "Eyemask6",           
             "Name": "Eyemask6_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask6.png",
                 "ExHash": "1493fb29bde59744c4afd9d73cf8b48b",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             },
             "Move": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask6_Move.png",
                 "ExHash": "b2d072416e044fefe18a84cdc365a59d",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }            
         },             
         {
@@ -7416,7 +7409,7 @@
             "Name": "Eyemask9",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
+            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7424,7 +7417,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask9.png",
                 "ExHash": "a45284c649b67b05ec9340215fe2e71d",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7434,13 +7427,13 @@
             "Name": "Eyemask9_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
+            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask9.png",
                 "ExHash": "a45284c649b67b05ec9340215fe2e71d",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },    
         {
@@ -7474,7 +7467,6 @@
             "Name": "Eyemask11",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7482,7 +7474,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask11.png",
                 "ExHash": "d71d0083e0b2f08622e2c4e399884d2b",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             },
             "Move": {
                 "Address": "VisorCover2.png",
@@ -7491,7 +7483,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask11_Move.png",
                 "ExHash": "d8929c33a1ac1cb1241cbad0b416357e",
-                "ExIsFront":"false"         
+                "ExIsFront":"true"     
             }            
         },
         {
@@ -7500,21 +7492,20 @@
             "MainItem" : "Eyemask11",           
             "Name": "Eyemask11_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",           
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask11.png",
                 "ExHash": "d71d0083e0b2f08622e2c4e399884d2b",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             },
             "Move": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask11_Move.png",
                 "ExHash": "d8929c33a1ac1cb1241cbad0b416357e",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }            
         },    
         {
@@ -7522,8 +7513,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask12",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",         
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7531,7 +7521,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask12.png",
                 "ExHash": "f20fab628e026153cb16309dc20150d5",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             },
             "Move": {
                 "Address": "VisorCover2.png",
@@ -7540,7 +7530,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask12_Move.png",
                 "ExHash": "f20fab628e026153cb16309dc20150d5",
-                "ExIsFront":"false"         
+                "ExIsFront":"true"     
             }            
         },
         {
@@ -7549,21 +7539,20 @@
             "MainItem" : "Eyemask12",           
             "Name": "Eyemask12_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",           
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask12.png",
                 "ExHash": "f20fab628e026153cb16309dc20150d5",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             },
             "Move": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask12_Move.png",
                 "ExHash": "f20fab628e026153cb16309dc20150d5",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }            
         },     
         
@@ -7597,8 +7586,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask14",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",         
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7606,7 +7594,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask14.png",
                 "ExHash": "3704feb4df8b880b5dd8dc28287d8c5e",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7615,14 +7603,13 @@
             "MainItem" : "Eyemask14",           
             "Name": "Eyemask14_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask14.png",
                 "ExHash": "3704feb4df8b880b5dd8dc28287d8c5e",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },    
         {
@@ -7655,8 +7642,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask16",
             "Adaptive": "true",
-            "BehindHat": "true",
-            "ExIsFront" :"true",            
+            "BehindHat": "true",          
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7664,7 +7650,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask16.png",
                 "ExHash": "e97bb8f6f4b0b48928dc1287d99b0016",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7674,13 +7660,12 @@
             "Name": "Eyemask16_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask16.png",
                 "ExHash": "e97bb8f6f4b0b48928dc1287d99b0016",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },  
         {
@@ -7689,7 +7674,6 @@
             "Name": "Eyemask17",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7697,7 +7681,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask17.png",
                 "ExHash": "c83662f126ef5223aa9ebb2e36211c42",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7707,13 +7691,12 @@
             "Name": "Eyemask17_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask17.png",
                 "ExHash": "c83662f126ef5223aa9ebb2e36211c42",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },  
         {
@@ -7722,7 +7705,6 @@
             "Name": "Eyemask18",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7730,7 +7712,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask18.png",
                 "ExHash": "f821931717ad63427eb120d27fb97724",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7740,13 +7722,12 @@
             "Name": "Eyemask18_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask18.png",
                 "ExHash": "f821931717ad63427eb120d27fb97724",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },      
         {
@@ -7755,7 +7736,6 @@
             "Name": "Eyemask19",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7763,7 +7743,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask19.png",
                 "ExHash": "987def6df53eccfcf349be6a9f6e1c54",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7773,13 +7753,12 @@
             "Name": "Eyemask19_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask19.png",
                 "ExHash": "987def6df53eccfcf349be6a9f6e1c54",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },           
         {
@@ -7788,7 +7767,6 @@
             "Name": "Eyemask20",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7796,7 +7774,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask20.png",
                 "ExHash": "8876423b481e2cb6aaf6040481933df7",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             },
             "Move": {
                 "Address": "VisorCover2.png",
@@ -7805,7 +7783,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask20_Move.png",
                 "ExHash": "3254f36e9f9062344aedb75e7df95bcb",
-                "ExIsFront":"false"         
+                "ExIsFront":"true"     
             }            
         },
         {
@@ -7815,20 +7793,19 @@
             "Name": "Eyemask20_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask20.png",
                 "ExHash": "8876423b481e2cb6aaf6040481933df7",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             },
             "Move": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask20_Move.png",
                 "ExHash": "3254f36e9f9062344aedb75e7df95bcb",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }            
         },    
         {
@@ -7837,7 +7814,6 @@
             "Name": "Eyemask21",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7845,7 +7821,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask21.png",
                 "ExHash": "83096bb943953b26f86b27e2e380fb77",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7855,13 +7831,13 @@
             "Name": "Eyemask21_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
+            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask21.png",
                 "ExHash": "83096bb943953b26f86b27e2e380fb77",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },
         {
@@ -7895,7 +7871,6 @@
             "Name": "Eyemask23",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7903,7 +7878,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask23.png",
                 "ExHash": "1085c8acbf7bf1aafdab65c0155073b2",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7913,13 +7888,12 @@
             "Name": "Eyemask23_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask23.png",
                 "ExHash": "1085c8acbf7bf1aafdab65c0155073b2",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },     
         {
@@ -7928,7 +7902,6 @@
             "Name": "Eyemask24",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7936,7 +7909,7 @@
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
                 "ExAddress": "Eyemask24.png",
                 "ExHash": "1cb8b2230dc0688b9c0396b6edd59df7",
-                "ExIsFront":"false"        
+                "ExIsFront":"true"    
             }
         },
         {
@@ -7951,7 +7924,7 @@
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
                 "ExAddress": "Eyemask24.png",
                 "ExHash": "1cb8b2230dc0688b9c0396b6edd59df7",
-                "ExIsFront":"false"           
+                "ExIsFront":"true"       
             }
         },                                                                                                                                 
         {
