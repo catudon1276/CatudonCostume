@@ -7255,15 +7255,12 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask4",
             "Adaptive": "true",
-            "BehindHat": "true",      
+            "BehindHat": "true",   
             "Main": {
-                "Address": "VisorCover2.png",
-                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "Address": "Eyemask4.png",
+                "Hash": "f38f5503d0053173ce199ec85fdb4c31",  
                 "MaskAddress":"VisorCover2(M).png",
-                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
-                "ExAddress": "Eyemask4.png",
-                "ExHash": "694ebf99457b2867dc2a680dfab4760a",
-                "ExIsFront":"true"        
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
         },
         {
@@ -7272,15 +7269,12 @@
             "MainItem" : "Eyemask4",           
             "Name": "Eyemask4_Full",
             "Adaptive": "true",
-            "BehindHat": "true",        
+            "BehindHat": "true",
             "Main": {
-                "Address": "VisorCover.png",
-                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
-                "ExAddress": "Eyemask4.png",
-                "ExHash": "694ebf99457b2867dc2a680dfab4760a",
-                "ExIsFront":"true"           
+                "Address": "Eyemask4-2.png",
+                "Hash": "7e03906d083c263d5cf3f59c4cb148be"           
             }
-        },         
+        },           
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -8132,7 +8126,7 @@
             "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 1.png",
+                "Address": "Visor+ 1-1.png",
                 "Hash": "c6fc4d94bbc19f5fbc4a5483a164cba5",  
                 "MaskAddress":"VisorCover2(M).png",
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
@@ -8157,7 +8151,7 @@
             "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 2.png",
+                "Address": "Visor+ 2-1.png",
                 "Hash": "f42066e916d7a52bc0b5ed1046a5fd1c",  
                 "MaskAddress":"VisorCover2(M).png",
                 "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
