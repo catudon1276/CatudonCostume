@@ -1630,7 +1630,7 @@
             "FPS":"10",   
 		    "Move": {
 		        "Address": "Dash.png",
-                "Hash": "174ce38dd57d594144b795bd50d889d7",
+                "Hash": "dadc98ea8bca48a125020744a05b00b2",
                 "MaskAddress":"Dash_Ma.png",
                 "MaskHash":"95a009a7e4e63a04c8a4371d14715a35",
                 "Length":"3"
@@ -6301,7 +6301,7 @@
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
                 "MaskAddress": "AllCover-7.png",
                 "MaskHash": "07454a027e6c30d407673ac41289e2c9",
-                "Length":"7"   
+                "Length":"7"  D 
 		    },
             "OnButton" : {
                 "Author" : "catudon",
