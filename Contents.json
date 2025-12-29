@@ -1634,7 +1634,11 @@
                 "MaskAddress":"Dash_Ma.png",
                 "MaskHash":"95a009a7e4e63a04c8a4371d14715a35",
                 "Length":"3"
-                }
+            },
+            "Preview": {
+                "Address": "Dash_Preview.png",
+                "Hash": "69b73395719e999e8d95395cf94ad2bb"
+            }
         }, 
         {
             "Author": "catudon",
@@ -6092,7 +6096,7 @@
 	    },        
         {
             "Author": "catudon",
-            "Package": "Catudon Costume",
+            "Package": "Subcul Costume",
             "Name" : "旅する魔女",
             "Bounce": "false",
             "Adaptive": "false",
@@ -6115,12 +6119,13 @@
 	    },
         {
             "Author": "catudon",
-            "Package": "Catudon Costume",
+            "Package": "Subcul Costume",
 	        "Name" : "Ireina(Se)",
 		    "Bounce": "false",
             "Adaptive": "false",
+            "IsHidden" : "true",
             "Main": {
-                "Address": "Ireina.png",
+                "Address": "Ireina(Se).png",
                 "Hash": "2b8ef10e00be80c242ef4ef111fd00df"
             },
             "Climb": {
@@ -7360,16 +7365,12 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask7",
             "Adaptive": "true",
-            "BehindHat": "true",
-            
+            "BehindHat": "true",          
             "Main": {
-                "Address": "VisorCover2.png",
-                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "Address": "Eyemask7.png",
+                "Hash": "667e96623acd0d43302f4a917ed23f75",  
                 "MaskAddress":"VisorCover2(M).png",
-                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
-                "ExAddress": "Eyemask7.png",
-                "ExHash": "cb532b6d1fe7ac8036f21ed284280d15",
-                "ExIsFront":"false"        
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
         },
         {
@@ -7379,15 +7380,11 @@
             "Name": "Eyemask7_Full",
             "Adaptive": "true",
             "BehindHat": "true",
-            "ExIsFront" :"true",            
             "Main": {
-                "Address": "VisorCover.png",
-                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
-                "ExAddress": "Eyemask7.png",
-                "ExHash": "cb532b6d1fe7ac8036f21ed284280d15",
-                "ExIsFront":"false"           
+                "Address": "Eyemask7-2.png",
+                "Hash": "0613348ab317ee0d4949b9b24b24b0e7"           
             }
-        },        
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
