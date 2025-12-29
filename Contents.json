@@ -1621,6 +1621,24 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+	        "Name" : "Dash!",
+		    "Bounce": "false",
+		    "Adaptive": "true",
+            "IsSkinny": "false",            
+            "SeekerCostume": "false",       
+            "LongNeckCostume":"false",  
+            "FPS":"10",   
+		    "Move": {
+		        "Address": "Dash.png",
+                "Hash": "f95fd3c72cfa2676648edf3fbe228075",
+                "MaskAddress":"Dash_Ma.png",
+                "MaskHash":"79ca62e82c4253db5ddcb588ca543479",
+                "Length":"3"
+                }
+        }, 
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
 	        "Name" : "DeadBody",
 		    "Bounce": "false",
 		    "Adaptive": "true",
@@ -1630,7 +1648,7 @@
 		        "Address": "DeadBody.png",
                 "Hash": "f95fd3c72cfa2676648edf3fbe228075",
                 "MaskAddress":"DeadBody_Ma.png",
-                "MaskHash":"79ca62e82c4253db5ddcb588ca543479"
+                "MaskHash":"1b586c2c4ab2763be47e789f310e62f3"
                 },
 		    "Climb": {
 		        "Address": "DeadBody_Climb.png",
@@ -6071,6 +6089,48 @@
                 "Author" : "catudon",
                 "Name" : "Master"
             }            
+	    },        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name" : "旅する魔女",
+            "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Ireina.png",
+                "Hash": "4a5c7ce5e27562477a79baf705286426"
+            },
+            "Climb": {
+                "Address": "Ireina_Climb.png",
+                "Hash": "4de709e20b8864ab532165740627bf62"
+            },
+            "Back": {
+                "Address": "Ireina_Back.png",
+                "Hash": "c6e708701fcc6afbfc32320008778732"
+            },            
+            "SeekerAlternative" : {
+                "Author" : "catudon",
+                "Name" : "Ireina(Se)"
+            }
+	    },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+	        "Name" : "Ireina(Se)",
+		    "Bounce": "false",
+            "Adaptive": "false",
+            "Main": {
+                "Address": "Ireina.png",
+                "Hash": "2b8ef10e00be80c242ef4ef111fd00df"
+            },
+            "Climb": {
+                "Address": "Ireina(Se)_Climb.png",
+                "Hash": "2b8ef10e00be80c242ef4ef111fd00df"
+            },
+            "Back": {
+                "Address": "Ireina_Back.png",
+                "Hash": "c6e708701fcc6afbfc32320008778732"
+            }    
 	    },             
         {
             "Author": "catudon",
@@ -6182,7 +6242,67 @@
                 "Author" : "catudon",
                 "Name" : "社畜ザウルス"
             }
-        }         
+        }, 
+        {
+            "Author": "catudon",
+            "Package": "Subcul Costume",
+	        "Name" : "止まらねぇ…",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "HideHands":"true",            
+            "Exile": {
+                "Address": "Dash2.png",
+                "Hash": "0740246c187281a2e367b54bde6dd7bc",
+                "MaskAddress": "AllCover.png",
+                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
+                "Length":"7"  
+		    },            
+            "Preview": {
+                "Address": "Dash2_Preview.png",
+                "Hash": "a42ad19f7977491a8e1f8e238694a6d4"
+            },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "Dash2"
+            }            
+	    },        
+        {
+            "Author": "catudon",
+            "Package": "Subcul Costume",
+	        "Name" : "Dash2",
+		    "Bounce": "false",
+            "Adaptive": "true",
+            "SeekerCostume": "false",
+            "LongNeckCostume":"false",
+            "IsHidden":"true",   
+            "HideHands":"true",
+            "FPS":"10",         
+		    "Main": {
+                "Address": "Dash2.png",
+                "Hash": "0740246c187281a2e367b54bde6dd7bc",
+                "MaskAddress": "AllCover.png",
+                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
+                "Length":"7"  
+		    },
+            "Climb": {
+                "Address": "Dash2.png",
+                "Hash": "0740246c187281a2e367b54bde6dd7bc",
+                "MaskAddress": "AllCover.png",
+                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
+                "Length":"7"  
+		    },
+            "Exile": {
+                "Address": "Dash2.png",
+                "Hash": "0740246c187281a2e367b54bde6dd7bc",
+                "MaskAddress": "AllCover.png",
+                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
+                "Length":"7"  
+		    },
+            "OnButton" : {
+                "Author" : "catudon",
+                "Name" : "止まらねぇ…"
+            }            
+	    }  
     ], 
     "visors": [
         {
@@ -7040,243 +7160,770 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Eyemask",
+            "Name": "Eyemask1",
             "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Eyemask.png",
-                "Hash": "9c2b14f920e4f876462691cd97981677"
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask.png",
+                "ExHash": "55540c185005c0cac59bd99cefa14554",
+                "ExIsFront":"false"        
             }
         },
-		{
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Eyemask2",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask2.png",
-                "Hash": "dd6dcc51e2e187b4a3767952a0e2f727"
-		    }
-		},	
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask3",
-		    "Adaptive": "false",
-		    "Main": {
-		        "Address": "Eyemask3.png",
-                "Hash": "05b6bda4048225637fb66a5d777d4f8e"
-		    }
-		},     
+            "MainItem" : "Eyemask1",           
+            "Name": "Eyemask1_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask.png",
+                "ExHash": "55540c185005c0cac59bd99cefa14554",
+                "ExIsFront":"false"           
+            }
+        },  
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask4",
-		    "Adaptive": "true",
+            "Name": "Eyemask2",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask4.png",
-                "Hash": "c9c6acbf45bd30345e67cff70102a0d8"
-		    }
-		},    
-	            {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Eyemask5",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask5.png",
-                "Hash": "ff200b9b0a9872dbb3a07f11b57bef5f"
-		    }
-		}, 
+            "Main": {
+                "Address": "Eyemask2.png",
+                "Hash": "2a179978b49ce7cd7fd083a9b5bc29be",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask6",
-		    "Adaptive": "true",
+            "MainItem" : "Eyemask2",           
+            "Name": "Eyemask2_Full",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask6.png",
-                "Hash": "8283a262f06023277fe828b401ac887d"
-		    },
+            "Main": {
+                "Address": "Eyemask2-2.png",
+                "Hash": "814cd8745ab380cb07b5362e90ea944f"           
+            }
+        },   
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask3",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask3.png",
+                "ExHash": "05b6bda4048225637fb66a5d777d4f8e",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask3",           
+            "Name": "Eyemask3_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask3.png",
+                "ExHash": "05b6bda4048225637fb66a5d777d4f8e",
+                "ExIsFront":"false"           
+            }
+        },  
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask4",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask4.png",
+                "ExHash": "694ebf99457b2867dc2a680dfab4760a",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask4",           
+            "Name": "Eyemask4_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask4.png",
+                "ExHash": "694ebf99457b2867dc2a680dfab4760a",
+                "ExIsFront":"false"           
+            }
+        },         
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask5",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask5.png",
+                "Hash": "95012d5b339b44ff3b04a51bad76b333",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask5",           
+            "Name": "Eyemask5_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask5-2.png",
+                "Hash": "494dd7c0270f507abc35e3f263ca9225"           
+            }
+        },     
+      {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask6",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask6.png",
+                "ExHash": "1493fb29bde59744c4afd9d73cf8b48b",
+                "ExIsFront":"false"        
+            },
             "Move": {
-		        "Address": "Eyemask6_Move.png",
-                "Hash": "208ddd7ca4c83f561e9ca9de33af2e27"
-		    }
-		},
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask6_Move.png",
+                "ExHash": "b2d072416e044fefe18a84cdc365a59d",
+                "ExIsFront":"false"         
+            }            
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask7",
-		    "Adaptive": "true",
+            "MainItem" : "Eyemask6",           
+            "Name": "Eyemask6_Full",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask7.png",
-                "Hash": "208ddd7ca4c83f561e9ca9de33af2e27"
-		    }
-		}, 
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Eyemask8",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask8.png",
-                "Hash": "d1c1732e5d2eb852061af3c1845e9f41"
-		    }
-		},   
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Eyemask9",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask9.png",
-                "Hash": "36b7b65f35bba56fe4e1178a00a74bfd",
-                "ExAddress":"Eyemask9_Ex.png",
-                "ExHash":"a45284c649b67b05ec9340215fe2e71d",
-                "ExIsFront" :"true"
-		    }
-		},  
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Eyemask10",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask10.png",
-                "Hash": "3af1791d261b32e1e2f358421ae5623e"
-		    }
-		},   
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-		    "Name" : "Eyemask11",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask11.png",
-                "Hash": "9714ec41a6ba494eaf3d05c22c2b74c5"
-		    },
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask6.png",
+                "ExHash": "1493fb29bde59744c4afd9d73cf8b48b",
+                "ExIsFront":"false"           
+            },
             "Move": {
-		        "Address": "Eyemask11_Move.png",
-                "Hash": "2fedc65abada00633b9b4ed067aa0f76"
-		    }
-		},
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask6_Move.png",
+                "ExHash": "b2d072416e044fefe18a84cdc365a59d",
+                "ExIsFront":"false"           
+            }            
+        },             
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask12",
-		    "Adaptive": "true",
+            "Name": "Eyemask7",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask12.png",
-                "Hash": "fb25e91076f8bf66e93ce9b0a4002788"
-		    }
-		},           
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask7.png",
+                "ExHash": "cb532b6d1fe7ac8036f21ed284280d15",
+                "ExIsFront":"false"        
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask13",
-		    "Adaptive": "true",
+            "MainItem" : "Eyemask7",           
+            "Name": "Eyemask7_Full",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask13.png",
-                "Hash": "19ea62d8c52e26b1d4f2d46572adaa83"
-		    }
-		}, 
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask7.png",
+                "ExHash": "cb532b6d1fe7ac8036f21ed284280d15",
+                "ExIsFront":"false"           
+            }
+        },        
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask14",
-		    "Adaptive": "true",
+            "Name": "Eyemask8",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "VisorCover.png",
-                "Hash": "e6a0f6ff33e1b2218765f8ce50e872ce",
-                "ExAddress":"Eyemask14.png",
-                "ExHash":"3704feb4df8b880b5dd8dc28287d8c5e",
-                "ExIsFront" :"true"                
-		    }
-		}, 
+            "Main": {
+                "Address": "Eyemask8.png",
+                "Hash": "272a83ec476d76a8c9173f4b02a18d78",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask15",
-		    "Adaptive": "true",
+            "MainItem" : "Eyemask8",           
+            "Name": "Eyemask8_Full",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask15.png",
-                "Hash": "5d48ed9051142b5eaaf260a5f5fe8e34"
-		    }
-		},         
+            "Main": {
+                "Address": "Eyemask8-2.png",
+                "Hash": "ac1146e95407c07923206da0882bdf1c"           
+            }
+        },      
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask16",
-		    "Adaptive": "true",
+            "Name": "Eyemask9",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask16.png",
-                "Hash": "e0cd548d5bdd2e1c373f015a8ac652d8"
-		    }
-		}, 
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask9.png",
+                "ExHash": "a45284c649b67b05ec9340215fe2e71d",
+                "ExIsFront":"false"        
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask17",
-		    "Adaptive": "true",
+            "MainItem" : "Eyemask9",           
+            "Name": "Eyemask9_Full",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask17.png",
-                "Hash": "20c3d37fc0df1ea39fa7e129f45b19a6"
-		    }
-		},     
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask9.png",
+                "ExHash": "a45284c649b67b05ec9340215fe2e71d",
+                "ExIsFront":"false"           
+            }
+        },    
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask18",
-		    "Adaptive": "true",
+            "Name": "Eyemask10",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "VisorCover.png",
-                "Hash": "e6a0f6ff33e1b2218765f8ce50e872ce",
-                "ExAddress":"Eyemask18.png",
-                "ExHash":"f821931717ad63427eb120d27fb97724",
-                "ExIsFront" :"true"                
-		    }
-		},   
+            "Main": {
+                "Address": "Eyemask10.png",
+                "Hash": "4aca998679173a822d0ee36482f4257a",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask19",
-		    "Adaptive": "true",
+            "MainItem" : "Eyemask10",           
+            "Name": "Eyemask10_Full",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask19.png",
-                "Hash": "50f20101708e7fdd4c3b3b3dbfb13185"
-		    }
-		},    
+            "Main": {
+                "Address": "Eyemask10-2.png",
+                "Hash": "8254ad60135db8a99756ab9ae8585f0a"           
+            }
+        },       
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-		    "Name" : "Eyemask20",
-		    "Adaptive": "true",
+            "Name": "Eyemask11",
+            "Adaptive": "true",
             "BehindHat": "true",
-		    "Main": {
-		        "Address": "Eyemask20.png",
-                "Hash": "9e24885eb8c796204dd3df4fda65292b"
-		    },
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask11.png",
+                "ExHash": "d71d0083e0b2f08622e2c4e399884d2b",
+                "ExIsFront":"false"        
+            },
             "Move": {
-		        "Address": "Eyemask20_Move.png",
-                "Hash": "920bb6480515aed34f526a613826a6ed"
-		    }
-		},                                      
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask11_Move.png",
+                "ExHash": "d8929c33a1ac1cb1241cbad0b416357e",
+                "ExIsFront":"false"         
+            }            
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask11",           
+            "Name": "Eyemask11_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask11.png",
+                "ExHash": "d71d0083e0b2f08622e2c4e399884d2b",
+                "ExIsFront":"false"           
+            },
+            "Move": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask11_Move.png",
+                "ExHash": "d8929c33a1ac1cb1241cbad0b416357e",
+                "ExIsFront":"false"           
+            }            
+        },    
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask12",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask12.png",
+                "ExHash": "f20fab628e026153cb16309dc20150d5",
+                "ExIsFront":"false"        
+            },
+            "Move": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask12_Move.png",
+                "ExHash": "f20fab628e026153cb16309dc20150d5",
+                "ExIsFront":"false"         
+            }            
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask12",           
+            "Name": "Eyemask12_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask12.png",
+                "ExHash": "f20fab628e026153cb16309dc20150d5",
+                "ExIsFront":"false"           
+            },
+            "Move": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask12_Move.png",
+                "ExHash": "f20fab628e026153cb16309dc20150d5",
+                "ExIsFront":"false"           
+            }            
+        },     
+        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask13",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask13.png",
+                "Hash": "edeb3930b716a76c3b29c9069d417297",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask13",           
+            "Name": "Eyemask13_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask13-2.png",
+                "Hash": "c2300172aa5dfddd611dee8ddc535fc2"           
+            }
+        },    
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask14",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask14.png",
+                "ExHash": "3704feb4df8b880b5dd8dc28287d8c5e",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask14",           
+            "Name": "Eyemask14_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask14.png",
+                "ExHash": "3704feb4df8b880b5dd8dc28287d8c5e",
+                "ExIsFront":"false"           
+            }
+        },    
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask15",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask15.png",
+                "Hash": "2196a6490214b327c51dd23674ff0d55",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask15",           
+            "Name": "Eyemask15_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask15-2.png",
+                "Hash": "ac5f6f742e7c99b0731afc6d575000fd"           
+            }
+        },    
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask16",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask16.png",
+                "ExHash": "e97bb8f6f4b0b48928dc1287d99b0016",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask16",           
+            "Name": "Eyemask16_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask16.png",
+                "ExHash": "e97bb8f6f4b0b48928dc1287d99b0016",
+                "ExIsFront":"false"           
+            }
+        },  
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask17",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask17.png",
+                "ExHash": "c83662f126ef5223aa9ebb2e36211c42",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask17",           
+            "Name": "Eyemask17_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask17.png",
+                "ExHash": "c83662f126ef5223aa9ebb2e36211c42",
+                "ExIsFront":"false"           
+            }
+        },  
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask18",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask18.png",
+                "ExHash": "f821931717ad63427eb120d27fb97724",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask18",           
+            "Name": "Eyemask18_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask18.png",
+                "ExHash": "f821931717ad63427eb120d27fb97724",
+                "ExIsFront":"false"           
+            }
+        },      
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask19",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask19.png",
+                "ExHash": "987def6df53eccfcf349be6a9f6e1c54",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask19",           
+            "Name": "Eyemask19_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask19.png",
+                "ExHash": "987def6df53eccfcf349be6a9f6e1c54",
+                "ExIsFront":"false"           
+            }
+        },           
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask20",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask20.png",
+                "ExHash": "8876423b481e2cb6aaf6040481933df7",
+                "ExIsFront":"false"        
+            },
+            "Move": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask20_Move.png",
+                "ExHash": "3254f36e9f9062344aedb75e7df95bcb",
+                "ExIsFront":"false"         
+            }            
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask20",           
+            "Name": "Eyemask20_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask20.png",
+                "ExHash": "8876423b481e2cb6aaf6040481933df7",
+                "ExIsFront":"false"           
+            },
+            "Move": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask20_Move.png",
+                "ExHash": "3254f36e9f9062344aedb75e7df95bcb",
+                "ExIsFront":"false"           
+            }            
+        },    
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask21",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask21.png",
+                "ExHash": "83096bb943953b26f86b27e2e380fb77",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask21",           
+            "Name": "Eyemask21_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask21.png",
+                "ExHash": "83096bb943953b26f86b27e2e380fb77",
+                "ExIsFront":"false"           
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask22",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask22.png",
+                "Hash": "ee5b27e83f8b83ae22d43aa7a30958fa",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask22",           
+            "Name": "Eyemask22_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Eyemask22-2.png",
+                "Hash": "d6627bdcfbd08204cf90463fbc752202"           
+            }
+        },      
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask23",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask23.png",
+                "ExHash": "1085c8acbf7bf1aafdab65c0155073b2",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask23",           
+            "Name": "Eyemask23_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask23.png",
+                "ExHash": "1085c8acbf7bf1aafdab65c0155073b2",
+                "ExIsFront":"false"           
+            }
+        },     
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Eyemask24",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover2.png",
+                "Hash": "b345f872a854207cefbc2dac99a9e228",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4",
+                "ExAddress": "Eyemask24.png",
+                "ExHash": "1cb8b2230dc0688b9c0396b6edd59df7",
+                "ExIsFront":"false"        
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Eyemask24",           
+            "Name": "Eyemask24_Full",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "VisorCover.png",
+                "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
+                "ExAddress": "Eyemask24.png",
+                "ExHash": "1cb8b2230dc0688b9c0396b6edd59df7",
+                "ExIsFront":"false"           
+            }
+        },                                                                                                                                 
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
@@ -7478,113 +8125,253 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Visor+",
-		    "Adaptive": "true",
+            "Name": "Visor+ 1",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+.png",
-                "Hash": "99ef68f81dcbb1502ff075870da73e82"
+                "Address": "Visor+ 1.png",
+                "Hash": "c6fc4d94bbc19f5fbc4a5483a164cba5",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
         },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 1",           
+            "Name": "Visor+ 1(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 1-2.png",
+                "Hash": "44a91b4f2a78d42dad038bb7d88a4a56"           
+            }
+        },      
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
             "Name": "Visor+ 2",
-		    "Adaptive": "true",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
                 "Address": "Visor+ 2.png",
-                "Hash": "d75327e9b7b25564552613e3d2803229"
+                "Hash": "f42066e916d7a52bc0b5ed1046a5fd1c",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 2",           
+            "Name": "Visor+ 2(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 2-2.png",
+                "Hash": "4478eeb87af45da80dc592c532c32d57"           
             }
         },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Visor+ 3",
-		    "Adaptive": "true",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 3.png",
-                "Hash": "9b564971dc76a873f9e1d94451097795"
+                "Address": "Visor+ 3-1.png",
+                "Hash": "e171b161bdbf28bb6a91c8a5570e9583",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
-        },       
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Visor+ 4",
-		    "Adaptive": "true",
+            "MainItem" : "Visor+ 3",           
+            "Name": "Visor+ 2(Full)",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 4.png",
-                "Hash": "08dfa1defd0b8b01269d04b3cfd6caa4"
-            }
-        },      
-        {
-            "Author": "catudon",
-            "Package": "Catudon Costume",
-            "Name": "Visor+ 5",
-		    "Adaptive": "true",
-            "BehindHat": "true",
-            "Main": {
-                "Address": "Visor+ 5.png",
-                "Hash": "bbad7d8be3d1cc8fcfdf9d22369e9d3e"
+                "Address": "Visor+ 3-2.png",
+                "Hash": "d592765b977b93082238019f1809d914"           
             }
         },   
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Visor+ 6",
-		    "Adaptive": "true",
+            "Name": "Visor+ 4",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 6.png",
-                "Hash": "8ac7cc9260fa6db4dbe62d383f43c012"
+                "Address": "Visor+ 4-1.png",
+                "Hash": "e171b161bdbf28bb6a91c8a5570e9583",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
-        },      
+        },
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Visor+ 7",
-		    "Adaptive": "true",
+            "MainItem" : "Visor+ 4",           
+            "Name": "Visor+ 2(Full)",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 7.png",
-                "Hash": "479171d1f735b73cc1768c3084013e90"
+                "Address": "Visor+ 4-2.png",
+                "Hash": "d592765b977b93082238019f1809d914"           
             }
-        },    
+        },             
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Visor+ 8",
-		    "Adaptive": "true",
+            "Name": "Visor+ 5",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 8.png",
-                "Hash": "f94a808735f5ca5d310e69f99419abe5"
+                "Address": "Visor+ 5-1.png",
+                "Hash": "2c988511d80991e31674d11e477a9f20",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 5",           
+            "Name": "Visor+ 5(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 5-2.png",
+                "Hash": "e9ec01d7cde375f0931a21877ecad469"           
             }
         },            
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
-            "Name": "Visor+ 9",
-		    "Adaptive": "true",
+            "Name": "Visor+ 6",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 9.png",
-                "Hash": "f94a808735f5ca5d310e69f99419abe5"
+                "Address": "Visor+ 6-1.png",
+                "Hash": "80d03c24d71cf66b7242fd3d2043f094",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
-        },         
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 6",           
+            "Name": "Visor+ 6(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 6-2.png",
+                "Hash": "c7f15739faa70929442385015f37e9b0"           
+            }
+        },   
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Visor+ 7",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 7-1.png",
+                "Hash": "0e01416de32f028b9048e5f7ddeecb6f",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 7",           
+            "Name": "Visor+ 7(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 7-2.png",
+                "Hash": "184f28e41153e5c73d0eeac630e657aa"           
+            }
+        },  
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Visor+ 8",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 8-1.png",
+                "Hash": "7897c64035dd72ac59632405164cbb82",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 8",           
+            "Name": "Visor+ 8(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 8-2.png",
+                "Hash": "c7f15739faa70929442385015f37e9b0"           
+            }
+        },        
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "Name": "Visor+ 9",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 9-1.png",
+                "Hash": "378494975443bf2ca2ac04e64e1f3d07",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
+            }
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 9",           
+            "Name": "Visor+ 9(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 9-2.png",
+                "Hash": "378494975443bf2ca2ac04e64e1f3d07"           
+            }
+        },      
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
             "Name": "Visor+ 10",
-		    "Adaptive": "true",
+            "Adaptive": "true",
             "BehindHat": "true",
             "Main": {
-                "Address": "Visor+ 10.png",
-                "Hash": "5f766598f1423a70a476177f19dd0a1d"
+                "Address": "Visor+ 10-1.png",
+                "Hash": "9d620c71265bcbed4cd6ef8fd10f7c1b",  
+                "MaskAddress":"VisorCover2(M).png",
+                "MaskHash":"e7f8c0840a66ed3b6615e32b4ffbe1d4"
             }
-        }                                                                                    
+        },
+        {
+            "Author": "catudon",
+            "Package": "Catudon Costume",
+            "MainItem" : "Visor+ 10",           
+            "Name": "Visor+ 10(Full)",
+            "Adaptive": "true",
+            "BehindHat": "true",
+            "Main": {
+                "Address": "Visor+ 10-2.png",
+                "Hash": "f5a70055037008288329403f8854e986"           
+            }
+        }                
     ],
 "nameplates": [
         {
