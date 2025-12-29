@@ -1630,9 +1630,9 @@
             "FPS":"10",   
 		    "Move": {
 		        "Address": "Dash.png",
-                "Hash": "f95fd3c72cfa2676648edf3fbe228075",
+                "Hash": "ab6fbd6db60ca326f7cbe9a62ce006d7",
                 "MaskAddress":"Dash_Ma.png",
-                "MaskHash":"79ca62e82c4253db5ddcb588ca543479",
+                "MaskHash":"95a009a7e4e63a04c8a4371d14715a35",
                 "Length":"3"
                 }
         }, 
@@ -6253,8 +6253,8 @@
             "Exile": {
                 "Address": "Dash2.png",
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
-                "MaskAddress": "AllCover.png",
-                "MaskHash": "b1dac022f3c4cd2385bc90003cf51fe7",
+                "MaskAddress": "AllCover-7.png",
+                "MaskHash": "07454a027e6c30d407673ac41289e2c9",
                 "Length":"7"  
 		    },            
             "Preview": {
@@ -6276,7 +6276,7 @@
             "LongNeckCostume":"false",
             "IsHidden":"true",   
             "HideHands":"true",
-            "FPS":"10",         
+            "FPS":"17",         
 		    "Main": {
                 "Address": "Dash2.png",
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
@@ -7163,6 +7163,7 @@
             "Name": "Eyemask1",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7180,6 +7181,7 @@
             "Name": "Eyemask1_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7193,7 +7195,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask2",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",           
             "Main": {
                 "Address": "Eyemask2.png",
                 "Hash": "2a179978b49ce7cd7fd083a9b5bc29be",  
@@ -7207,7 +7209,7 @@
             "MainItem" : "Eyemask2",           
             "Name": "Eyemask2_Full",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",         
             "Main": {
                 "Address": "Eyemask2-2.png",
                 "Hash": "814cd8745ab380cb07b5362e90ea944f"           
@@ -7219,6 +7221,7 @@
             "Name": "Eyemask3",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7236,6 +7239,7 @@
             "Name": "Eyemask3_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7250,6 +7254,7 @@
             "Name": "Eyemask4",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7267,6 +7272,7 @@
             "Name": "Eyemask4_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7280,7 +7286,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask5",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",   
             "Main": {
                 "Address": "Eyemask5.png",
                 "Hash": "95012d5b339b44ff3b04a51bad76b333",  
@@ -7306,6 +7312,7 @@
             "Name": "Eyemask6",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7332,6 +7339,7 @@
             "Name": "Eyemask6_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7353,6 +7361,7 @@
             "Name": "Eyemask7",
             "Adaptive": "true",
             "BehindHat": "true",
+            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7370,6 +7379,7 @@
             "Name": "Eyemask7_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7383,7 +7393,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask8",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",          
             "Main": {
                 "Address": "Eyemask8.png",
                 "Hash": "272a83ec476d76a8c9173f4b02a18d78",  
@@ -7409,6 +7419,7 @@
             "Name": "Eyemask9",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7426,6 +7437,7 @@
             "Name": "Eyemask9_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7439,7 +7451,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask10",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",           
             "Main": {
                 "Address": "Eyemask10.png",
                 "Hash": "4aca998679173a822d0ee36482f4257a",  
@@ -7465,6 +7477,7 @@
             "Name": "Eyemask11",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7491,6 +7504,7 @@
             "Name": "Eyemask11_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7512,6 +7526,7 @@
             "Name": "Eyemask12",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7538,6 +7553,7 @@
             "Name": "Eyemask12_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7559,7 +7575,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask13",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",         
             "Main": {
                 "Address": "Eyemask13.png",
                 "Hash": "edeb3930b716a76c3b29c9069d417297",  
@@ -7585,6 +7601,7 @@
             "Name": "Eyemask14",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7602,6 +7619,7 @@
             "Name": "Eyemask14_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7615,7 +7633,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask15",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",     
             "Main": {
                 "Address": "Eyemask15.png",
                 "Hash": "2196a6490214b327c51dd23674ff0d55",  
@@ -7641,6 +7659,7 @@
             "Name": "Eyemask16",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7658,6 +7677,7 @@
             "Name": "Eyemask16_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7672,6 +7692,7 @@
             "Name": "Eyemask17",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7689,6 +7710,7 @@
             "Name": "Eyemask17_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7703,6 +7725,7 @@
             "Name": "Eyemask18",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7720,6 +7743,7 @@
             "Name": "Eyemask18_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7734,6 +7758,7 @@
             "Name": "Eyemask19",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7751,6 +7776,7 @@
             "Name": "Eyemask19_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7765,6 +7791,7 @@
             "Name": "Eyemask20",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7791,6 +7818,7 @@
             "Name": "Eyemask20_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7812,6 +7840,7 @@
             "Name": "Eyemask21",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7829,6 +7858,7 @@
             "Name": "Eyemask21_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7842,7 +7872,7 @@
             "Package": "Catudon Costume",
             "Name": "Eyemask22",
             "Adaptive": "true",
-            "BehindHat": "true",
+            "BehindHat": "true",         
             "Main": {
                 "Address": "Eyemask22.png",
                 "Hash": "ee5b27e83f8b83ae22d43aa7a30958fa",  
@@ -7868,6 +7898,7 @@
             "Name": "Eyemask23",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
@@ -7885,6 +7916,7 @@
             "Name": "Eyemask23_Full",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover.png",
                 "Hash": "83f1de2ab37a0d7be8a01ee60cfa4039",
@@ -7899,6 +7931,7 @@
             "Name": "Eyemask24",
             "Adaptive": "true",
             "BehindHat": "true",
+            "ExIsFront" :"true",            
             "Main": {
                 "Address": "VisorCover2.png",
                 "Hash": "b345f872a854207cefbc2dac99a9e228",  
