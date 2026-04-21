@@ -41,7 +41,7 @@
 	        "Name" : "Adventurer",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
 		    "Main": {
 		        "Address": "Adventurer.png",
                 "Hash": "832578bd00be6ee41f98ec7322ad743d"
@@ -413,7 +413,7 @@
             "Name" : "Arrest",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Arrest.png",
                 "Hash": "7205f0889e52b6bbe4b1ae160d4e6032"
@@ -430,7 +430,7 @@
             "Name": "Artist",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Artist.png",
                 "Hash": "99ebae2d1d0b09ba7f6d94fc8440fa07"
@@ -447,7 +447,7 @@
             "Name": "Artist2",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Artist2.png",
                 "Hash": "7acdfad02b9cc69020c2cb0b214c5335"
@@ -741,7 +741,7 @@
                 "Address": "Bike.png",
                 "Hash": "43c54e0439b1a8cd164b3841cab343ce",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
             },
             "Preview": {
                 "Address": "Bike_Preview.png",
@@ -1115,7 +1115,7 @@
                 "Address": "Chase.png",
                 "Hash": "0d70b3b99ee7afbc425c763e19d35ca1",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
             },
             "Climb": {
                 "Address": "Chase_Climb.png",
@@ -1138,7 +1138,7 @@
                 "Address": "Chase2.png",
                 "Hash": "f5435d4dde5119ecb6752e91784d0d5b",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
             },
             "Climb": {
                 "Address": "Chase_Climb.png",
@@ -1339,7 +1339,7 @@
             "Name": "Chicken",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
 	        "Tags" : ["animal"],
             "Main": {
                 "Address": "Chicken.png",
@@ -1449,7 +1449,7 @@
             "Name" : "Conductor",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS": "4",
 	        "Tags" : ["music.conductor"],
             "Main": {
@@ -1603,7 +1603,7 @@
             "Name" : "Cymbals",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS":"6",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -1658,13 +1658,13 @@
 		        "Address": "DeadBody_Climb.png",
                 "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
                 },
             "Exile": {
 		        "Address": "DeadBody_Exile.png",
                 "Hash": "248839f044e7f9cec88ba1837ecf9184",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
                 },                
             "LongNeckAlternative" : {
                 "Author" : "catudon",
@@ -1690,7 +1690,7 @@
 		        "Address": "DeadBody_Climb.png",
                 "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
                 }
 	    },
         {
@@ -1856,7 +1856,7 @@
             "Name": "Dowsing",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Dowsing.png",
                 "Hash": "c87c228a128fa35152f19ccf12f6dd3c"
@@ -1896,7 +1896,7 @@
             "Name" : "Dram",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS": "14",
             "Tags" : ["music.instrument"],
             "Main": {
@@ -1996,7 +1996,7 @@
 		    "Name" : "Dumbbell",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
             "FPS":"4",
 		    "Main": {
 		        "Address": "Dumbbell.png",
@@ -2265,14 +2265,14 @@
 		        "Address": "Ghost.png",
                 "Hash": "d69b1a001f88260a6207f9e5e86b0817",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7",
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470",
                 "Length":"2"
                 },        
 		    "Climb": {
 		        "Address": "Ghost_Climb.png",
                 "Hash": "102b60f1fbd7a7ffd34f4b35f6f4dfb0",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
                 },         
             "Preview":{
                 "Address": "Ghost_Preview.png",
@@ -2285,7 +2285,7 @@
             "Name": "God",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
             "SeekerCostume": "false",
             "Main": {
                 "Address": "God.png",
@@ -2341,7 +2341,7 @@
             "Name" : "Guitar",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS":"6",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -2379,7 +2379,7 @@
             "Name" : "Hakama(F)",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
             "SeekerCostume": "false",
             "Main": {
                 "Address": "Hakama.png",
@@ -2400,7 +2400,7 @@
             "Name" : "Hakama(M)",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
             "SeekerCostume": "false",
             "Main": {
                 "Address": "Hakama_man.png",
@@ -2471,7 +2471,7 @@
             "Name": "Hero",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",            
+            "HideHands": "false",            
             "Main": {
                 "Address": "Hero.png",
                 "Hash": "ba625bab1fb7510a172f6ab154d1896e"
@@ -2509,7 +2509,7 @@
             "Name": "Hero2",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",            
+            "HideHands": "false",            
             "Main": {
                 "Address": "Hero2.png",
                 "Hash": "68bd36879ee021430db1540375d1b84b"
@@ -2520,7 +2520,7 @@
             "Package": "Catudon Costume",      
             "Name" : "Housekeeper",
             "Bounce": "false",
-            "HideHands":"true",
+            "HideHands": "false",
             "Adaptive": "true",
             "FPS": "15",
             "Main": {
@@ -2564,7 +2564,7 @@
             "Name": "Housekeeper2",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS": "15",               
             "Main": {
                 "Address": "Housekeeper2.png",
@@ -2669,7 +2669,7 @@
             "Name" : "Japanese drum",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS":"6",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -2695,7 +2695,7 @@
             "Name": "Jiangshi",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Jiangshi.png",
                 "Hash": "91191d6d256eb4d07606d17e62233b74"
@@ -2735,7 +2735,7 @@
             "Name" : "Juggling",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",	    
+            "HideHands": "false",	    
             "FPS": "13",
             "Main": {
                 "Address": "Juggling.png",
@@ -2792,7 +2792,7 @@
             "Name" : "Knitting",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",	    
+            "HideHands": "false",	    
             "FPS": "8",
             "Main": {
                 "Address": "Knitting.png",
@@ -3079,7 +3079,7 @@
             "Name": "Mexican",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
             "FPS":"8",
             "Main": {
                 "Address": "Mexican.png",
@@ -3106,7 +3106,7 @@
             "Name": "Mexican",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
             "FPS":"8",
             "Main": {
                 "Address": "Mexican2.png",
@@ -3408,7 +3408,7 @@
 		        "Address": "No-Face_Exile.png",
                 "Hash": "86eb7cd6aebd0f104ca7fc68480359e3",
                 "MaskAddress":"AllCover.png",
-                "MaskHash":"b1dac022f3c4cd2385bc90003cf51fe7"
+                "MaskHash":"ae728f93e9f93d3ff2c729e455e65470"
             }
         },      
 	    {
@@ -3417,7 +3417,7 @@
             "Name": "Note",
             "Bounce": "false",
             "Adaptive": "false",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Note.png",
                 "Hash": "05e6e552faa71769f11ef55527b535ea"
@@ -3437,7 +3437,7 @@
             "Name": "Note(Rw)",
             "Bounce": "false",
             "Adaptive": "false",
-            "HideHands": "true",
+            "HideHands": "false",
             "IsHidden":"true",  
             "FPS":"4",          
             "Main": {
@@ -3456,7 +3456,7 @@
             "Name": "Nurse",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Nurse.png",
                 "Hash": "4c59f3609a1d0352da8f679ec36b24ef",
@@ -3479,7 +3479,7 @@
             "Name": "Nurse(Se)",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "IsHidden"  : "true",
             "Main": {
                 "Address": "Nurse(Se).png",
@@ -3499,7 +3499,7 @@
             "Name": "Onmyoji",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "Onmyoji.png",
@@ -3536,7 +3536,7 @@
             "Name": "Oracle",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Oracle.png",
                 "Hash": "f83fec41a6658a3f3af77d1daddb8f6e"
@@ -3692,7 +3692,7 @@
             "Name" : "Owl",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "SeekerCostume": "false",
 	        "Tags" : ["animal"],
             "Main": {
@@ -3740,7 +3740,7 @@
             "Name": "Paripi",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Paripi.png",
                 "Hash": "2806b514d42ce78c1526d813fadbe166"
@@ -3940,7 +3940,7 @@
             "Name" : "Picture",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "IsSkinny": "true",
             "Main": {
                 "Address": "Picture.png",
@@ -4256,7 +4256,7 @@
 	        "Name" : "Reading",
 		    "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
 		    "Main": {
 		        "Address": "Reading.png",
                 "Hash": "b13cfd3bb27559109829b10f402a18e4"
@@ -4277,7 +4277,7 @@
 		    "Bounce": "false",
             "Adaptive": "true",
             "IsHidden" : "true",
-            "HideHands":"true",
+            "HideHands": "false",
 		    "Main": {
 		        "Address": "Reading(Rw).png",
                 "Hash": "e6a9fbb43f8187be3819842992eb555b"
@@ -4298,7 +4298,7 @@
 	        "Name" : "Reading2",
 		    "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",
+            "HideHands": "false",
 		    "Main": {
 		        "Address": "Reading2.png",
                 "Hash": "1d6d3eee5d1bda719fd840e3c0248926"
@@ -4315,7 +4315,7 @@
 		    "Bounce": "false",
             "Adaptive": "true",
             "IsHidden" : "true",
-            "HideHands":"true",
+            "HideHands": "false",
 		    "Main": {
 		        "Address": "Reading2(Rw).png",
                 "Hash": "2eae4ab9142c8ea8ccc28a4e42bc1a3c"
@@ -4331,7 +4331,7 @@
             "Name" : "Reaper",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "SeekerCostume": "false",            
             "Main": {
                 "Address": "Reaper.png",
@@ -4356,7 +4356,7 @@
             "Name" : "Reaper(Rw)",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "SeekerCostume": "false",   
             "IsHidden":"true",                     
             "Main": {
@@ -4711,7 +4711,7 @@
             "Name": "Sheep",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "SeekerCostume": "false",
 	        "Tags" : ["animal"],
             "Main": {
@@ -4764,7 +4764,7 @@
             "Name": "Shopping",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Shopping.png",
                 "Hash": "0ec0680792bd294f50578d85440a2ef3",
@@ -4784,7 +4784,7 @@
 		    "Name" : "Signboard",
 		    "Bounce": "false",
             "Adaptive":"true",            
-            "HideHands":"true",
+            "HideHands": "false",
             "Main":{
 		        "ExAddress": "Signboard.png",
                 "ExHash": "92490dfcbed172540321af657f4f3365",
@@ -4822,7 +4822,7 @@
 		    "Name" : "Signboard1",
 		    "Bounce": "false",
             "Adaptive":"true",
-            "HideHands":"true",
+            "HideHands": "false",
             "IsHidden":"true",
             "Main":{
 		        "ExAddress": "Signboard.png",
@@ -4857,7 +4857,7 @@
 		    "Name" : "Signboard2",
 		    "Bounce": "false",
             "Adaptive":"true",
-            "HideHands":"true",
+            "HideHands": "false",
             "IsHidden":"true",
             "Main":{
 		        "ExAddress": "Signboard.png",
@@ -4892,7 +4892,7 @@
 		    "Name" : "Signboard3",
 		    "Bounce": "false",
             "Adaptive":"true",
-            "HideHands":"true",
+            "HideHands": "false",
             "IsHidden":"true",
             "Main":{
 		        "ExAddress": "Signboard.png",
@@ -4927,7 +4927,7 @@
 		    "Name" : "Signboard4",
 		    "Bounce": "false",
             "Adaptive":"true",
-            "HideHands":"true",
+            "HideHands": "false",
             "IsHidden":"true",
             "Main":{
 		        "ExAddress": "Signboard.png",
@@ -5026,7 +5026,7 @@
             "Name" : "Smart phone",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Smart phone.png",
                 "Hash": "2664a1a5830b874ac0065fb17c12140f"
@@ -5081,7 +5081,7 @@
             "Name": "Soba",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Soba.png",
                 "Hash": "85a5da1fbb36d54345cca08ac7dd819c",                
@@ -5158,7 +5158,7 @@
             "Name": "Statue of Liberty",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "StatueOfLiberty.png",
                 "Hash": "1cde4b982b3541e938f925cf822eb642"
@@ -5251,7 +5251,7 @@
 		    "Bounce": "false",
             "Adaptive": "false",
             "IsHidden": "true",
-            "HideHands":"true",
+            "HideHands": "false",
 		    "Main": {
 		        "Address": "SWAT(Rw).png",
                 "Hash": "4109e6f3723ac3a38062be8e3e2cfac9"
@@ -5415,7 +5415,7 @@
             "Name" : "Teatime",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Teatime.png",
                 "Hash": "87cebbdb5f11b65a5185f402ad356f34"
@@ -5551,7 +5551,7 @@
             "Name" : "Trombone",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS": "6",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -5720,7 +5720,7 @@
             "Name" : "Ukulele",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS":"8",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -5740,7 +5740,7 @@
             "Name" : "Ukulele2",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS":"8",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -5889,7 +5889,7 @@
             "Name": "Vessel",
             "Bounce": "true",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "SeekerCostume": "false",
             "LongNeckCostume":"false",
             "Main": {
@@ -5911,7 +5911,7 @@
             "Name" : "Viola",
             "Bounce": "false",
             "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "FPS": "6",
 	        "Tags" : ["music.instrument"],
             "Main": {
@@ -5952,7 +5952,7 @@
 		    "Name" : "Working",
 		    "Bounce": "false",
 		    "Adaptive": "true",
-            "HideHands": "true",
+            "HideHands": "false",
             "Main": {
                 "Address": "Working.png",
                 "Hash": "ae7570028c740aa8b967729a96b5e978"
@@ -6254,7 +6254,7 @@
 	        "Name" : "止まらねぇ…",
 		    "Bounce": "false",
             "Adaptive": "true",
-            "HideHands":"true",            
+            "HideHands": "false",            
             "Exile": {
                 "Address": "Dash2.png",
                 "Hash": "0740246c187281a2e367b54bde6dd7bc",
@@ -6280,7 +6280,7 @@
             "SeekerCostume": "false",
             "LongNeckCostume":"false",
             "IsHidden":"true",   
-            "HideHands":"true",
+            "HideHands": "false",
             "FPS":"17",         
 		    "Main": {
                 "Address": "Dash2.png",
