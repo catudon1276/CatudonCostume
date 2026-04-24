@@ -740,7 +740,7 @@
                 "Address": "Bike.png",
                 "Hash": "43c54e0439b1a8cd164b3841cab343ce",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             },
             "Preview": {
                 "Address": "Bike_Preview.png",
@@ -1117,7 +1117,7 @@
                 "Address": "Chase.png",
                 "Hash": "0d70b3b99ee7afbc425c763e19d35ca1",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             },
             "Climb": {
                 "Address": "Chase_Climb.png",
@@ -1140,7 +1140,7 @@
                 "Address": "Chase2.png",
                 "Hash": "f5435d4dde5119ecb6752e91784d0d5b",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             },
             "Climb": {
                 "Address": "Chase_Climb.png",
@@ -1396,6 +1396,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem": "Chief Officer",
             "Name": "Chief Officer2",
             "Bounce": "false",
             "Adaptive": "false",
@@ -1431,6 +1432,7 @@
         {
             "Author": "catudon",
             "Package": "Catudon Costume",
+            "MainItem": "Chief Officer",
             "Name": "Chief Officer3",
             "Bounce": "false",
             "Adaptive": "false",
@@ -1765,13 +1767,13 @@
                 "Address": "DeadBody_Climb.png",
                 "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             },
             "Exile": {
                 "Address": "DeadBody_Exile.png",
                 "Hash": "248839f044e7f9cec88ba1837ecf9184",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             },
             "LongNeckAlternative": {
                 "Author": "catudon",
@@ -1797,7 +1799,7 @@
                 "Address": "DeadBody_Climb.png",
                 "Hash": "d7f8b0833dc1ae6a2ff672f803103654",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             }
         },
         {
@@ -2389,14 +2391,14 @@
                 "Address": "Ghost.png",
                 "Hash": "d69b1a001f88260a6207f9e5e86b0817",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470",
+                "MaskHash": "0820503df7bfe485af22b15c310d6261",
                 "Length": "2"
             },
             "Climb": {
                 "Address": "Ghost_Climb.png",
                 "Hash": "102b60f1fbd7a7ffd34f4b35f6f4dfb0",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             },
             "Preview": {
                 "Address": "Ghost_Preview.png",
@@ -3047,7 +3049,7 @@
             },
             "Move": {
                 "Address": "KunoichiCU_Move.png",
-                "Hash": "1a56048a3f0c807f6e4ae8ee10470e87"
+                "Hash": "9f6aa6fd163a08d0be0be807735c32ea"
             }
         },
         {
@@ -3592,7 +3594,7 @@
                 "Address": "No-Face_Exile.png",
                 "Hash": "86eb7cd6aebd0f104ca7fc68480359e3",
                 "MaskAddress": "AllCover.png",
-                "MaskHash": "ae728f93e9f93d3ff2c729e455e65470"
+                "MaskHash": "0820503df7bfe485af22b15c310d6261"
             }
         },
         {
